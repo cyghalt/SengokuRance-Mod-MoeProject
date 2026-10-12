@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>战国兰斯·娘化计划 安装器</title>
+<link rel="stylesheet" href="/web/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <strong>战国兰斯·娘化计划 安装器</strong>
+    <span class="muted" id="serviceInfo">网页版本地服务</span>
+  </div>
+  <div class="gamerow">
+    <label for="game">游戏目录</label>
+    <input id="game" type="text" spellcheck="false"
+           placeholder="例如 D:\Program Files (x86)\Steam\steamapps\common\Sengoku Rance">
+    <button id="btnBrowse" class="ghost">浏览…</button>
+    <button id="btnDetect" class="ghost">检测状态</button>
+    <span id="gameHint" class="hint"></span>
+    <button id="btnQuit" class="ghost subtle" title="关闭本机服务">退出服务</button>
+  </div>
+</header>
+
+<nav class="tabs"><button data-tab="patch" class="active">角色替换</button><button data-tab="resources">资源解压与浏览</button><button data-tab="script">剧本搜索</button></nav>
+<div id="patchPanel"><div class="toolbar">
+  <label for="filter">过滤</label>
+  <input id="filter" type="text" placeholder="搜索角色 / 势力 / 资源编号">
+  <span class="spacer"></span>
+  <button data-act="all" class="ghost">全选</button>
+  <button data-act="none" class="ghost">全不选</button>
+  <button data-act="invert" class="ghost">反选</button>
+  <button data-act="expand" class="ghost">展开全部</button>
+  <button data-act="collapse" class="ghost">折叠全部</button>
+  <button data-act="csv" class="ghost">导出名单 CSV</button>
+</div>
+
+<main>
+  <section class="left">
+    <div id="list" class="list"></div>
+  </section>
+</main>
+
+<footer class="bottom">
+  <div class="actions">
+    <span id="counts" class="muted"></span>
+    <span class="spacer"></span>
+    <a id="packageIndex" class="hidden" target="_blank">下载已打包的势力</a>
+    <button id="btnPackage" class="ghost">导出选中角色／势力包</button>
+    <button id="btnRestore" class="ghost">从备份恢复</button>
+    <button id="btnInstallSel" class="primary">替换选中的 0 项</button>
+    <button id="btnInstallAll" class="primary">一键替换全部 0 项</button>
+  </div>
+</footer></div>
+<section id="resourcesPanel" class="tool-panel hidden">
+  <h2>资源解压与浏览</h2><p>读取上方游戏目录，将 ALD 图片和 AIN 剧本解压到发布版内的新工作区。</p>
+  <button id="btnExtract" class="primary">解压游戏资源与剧本</button>
+  <p id="extractInfo" class="muted">尚未解压；解压时可在底部查看进度。</p>
+  <div class="searchbar"><input id="resourceQuery" placeholder="文件名 / 归档 / 编号 / 尺寸"><button id="resourceSearch">搜索图片</button></div>
+  <div id="resourceResults" class="resource-grid"></div><div class="pager"><button id="resourcePrev">上一页</button><span id="resourceCount"></span><button id="resourceNext">下一页</button></div>
+</section>
+<section id="scriptPanel" class="tool-panel hidden">
+  <h2>剧本搜索</h2><p>先从自己的游戏提取剧本，再搜索消息与字符串、函数引用、相邻文本和对应编辑 JSON。</p>
+  <form id="scriptForm" class="searchbar"><input id="scriptQuery" placeholder="输入剧本文字" maxlength="200" required><select id="scriptKind"><option value="all">全部文本</option><option value="messages">消息</option><option value="strings">字符串</option></select><button>搜索剧本</button></form>
+  <p id="scriptSource" class="muted"></p><div id="scriptResults"></div><div class="pager"><button id="scriptPrev">上一页</button><span id="scriptCount"></span><button id="scriptNext">下一页</button></div>
+</section>
+<footer class="bottom global-progress">  <div class="progressline">
+    <progress id="bar" max="100" value="0"></progress>
+    <span id="status" class="muted">就绪</span>
+  </div>
+  <details class="logbox">
+    <summary>日志</summary>
+    <pre id="log"></pre>
+  </details>
+</footer>
+<dialog id="detailDialog"><div class="compare-head"><strong id="detailTitle"></strong><span class="spacer"></span><button id="btnPrev">上一角色</button><button id="btnNext">下一角色</button><button id="detailClose">关闭</button></div><div id="rolePreview"></div><details><summary>全部资源明细</summary><dl id="meta" class="meta"></dl></details></dialog>
+
+
+<div id="busy" class="busy hidden"><div class="spin"></div><span id="busyText">处理中……</span></div>
+<script src="/web/app.js"></script>
+<script src="/web/tools.js"></script>
+</body>
+</html>

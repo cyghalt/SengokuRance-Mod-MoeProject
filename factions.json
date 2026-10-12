@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "source": "战国兰斯_武将势力中日对照.xlsx",
+  "display_names": {
+    "name-34": "一休",
+    "name-88": "上杉谦信",
+    "custom-d5da215285b748b98cd4ac4cedb420d1": "丹羽长秀",
+    "name-15": "乱丸",
+    "name-59": "井伊直政",
+    "name-155": "公家京子",
+    "name-156": "公家强子",
+    "name-70": "冈",
+    "name-174": "前田利家",
+    "name-50": "南条兰",
+    "name-35": "原昌示",
+    "name-36": "阿树姬",
+    "name-117": "发禁堕山",
+    "name-69": "坂本龙马",
+    "name-137": "山中子鹿",
+    "name-86": "山县昌景",
+    "name-71": "川之江让",
+    "name-57": "德川家康",
+    "name-74": "犬饲",
+    "name-150": "明智光秀",
+    "name-58": "服部半藏",
+    "name-119": "朝仓义景",
+    "name-60": "本多忠胜",
+    "name-94": "柚原柚美",
+    "name-14": "柴田胜家",
+    "name-62": "榊原康政",
+    "name-87": "武田信玄",
+    "name-141": "玉签风华",
+    "name-91": "直江爱",
+    "name-84": "真田透琳",
+    "name-93": "种子岛重彦",
+    "custom-0c8f12fbc44f49f48b5333357963a8d7": "说得法师",
+    "name-31": "足利超神",
+    "name-61": "酒井忠次",
+    "name-20": "铃女",
+    "name-85": "马场彰炎",
+    "name-83": "高坂义风",
+    "name-19": "3G三巴纹",
+    "name-175": "前田庆次",
+    "name-17": "3G中间那个",
+    "name-18": "3G左边那个",
+    "name-16": "3G右边那个",
+    "name-3": "希露·普莱恩",
+    "name-151": "普鲁佩特",
+    "name-6": "织田信长",
+    "name-32": "山本五十六"
+  },
+  "user_overrides": {
+    "name-19": "织田家",
+    "name-155": "足利家",
+    "name-175": "织田家",
+    "name-17": "织田家",
+    "name-156": "足利家",
+    "custom-0c8f12fbc44f49f48b5333357963a8d7": "原家",
+    "name-18": "织田家",
+    "name-16": "织田家",
+    "name-3": "织田家",
+    "name-151": "在野",
+    "name-6": "织田家",
+    "name-32": "足利家"
+  },
+  "factions": [
+    {
+      "id": "faction-01",
+      "name": "织田家",
+      "characters": [
+        "custom-d5da215285b748b98cd4ac4cedb420d1",
+        "name-15",
+        "name-174",
+        "name-150",
+        "name-14",
+        "name-19",
+        "name-175",
+        "name-17",
+        "name-18",
+        "name-16",
+        "name-3",
+        "name-6"
+      ]
+    },
+    {
+      "id": "faction-02",
+      "name": "原家",
+      "characters": [
+        "name-35",
+        "name-36",
+        "custom-0c8f12fbc44f49f48b5333357963a8d7"
+      ]
+    },
+    {
+      "id": "faction-03",
+      "name": "足利家",
+      "characters": [
+        "name-34",
+        "name-31",
+        "name-155",
+        "name-156",
+        "name-32"
+      ]
+    },
+    {
+      "id": "faction-04",
+      "name": "伊贺家",
+      "characters": [
+        "name-74",
+        "name-20"
+      ]
+    },
+    {
+      "id": "faction-05",
+      "name": "种子岛家",
+      "characters": [
+        "name-94",
+        "name-93"
+      ]
+    },
+    {
+      "id": "faction-07",
+      "name": "德川家",
+      "characters": [
+        "name-59",
+        "name-57",
+        "name-58",
+        "name-60",
+        "name-62",
+        "name-61"
+      ]
+    },
+    {
+      "id": "faction-10",
+      "name": "巫女机关",
+      "characters": [
+        "name-141"
+      ]
+    },
+    {
+      "id": "faction-11",
+      "name": "浅井朝仓家",
+      "characters": [
+        "name-117",
+        "name-119"
+      ]
+    },
+    {
+      "id": "faction-12",
+      "name": "上杉家",
+      "characters": [
+        "name-88",
+        "name-91"
+      ]
+    },
+    {
+      "id": "faction-13",
+      "name": "武田家",
+      "characters": [
+        "name-86",
+        "name-87",
+        "name-84",
+        "name-85",
+        "name-83"
+      ]
+    },
+    {
+      "id": "faction-14",
+      "name": "北条家",
+      "characters": [
+        "name-50"
+      ]
+    },
+    {
+      "id": "faction-15",
+      "name": "拓牙家",
+      "characters": [
+        "name-70",
+        "name-69",
+        "name-71"
+      ]
+    },
+    {
+      "id": "faction-17",
+      "name": "尼子家残党",
+      "characters": [
+        "name-137"
+      ]
+    },
+    {
+      "id": "faction-23",
+      "name": "在野",
+      "characters": [
+        "name-151"
+      ]
+    }
+  ]
+}

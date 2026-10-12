@@ -1,0 +1,15 @@
+# 本机提取内容、安装备份、导出归档和日志都不发布
+/build/
+/安装器设置.json
+/data/script/
+/originals/
+/editable/
+/manifest.json
+/gallery-data.js
+__pycache__/
+*.py[cod]
+*.log
+*.zip
+/tools/*
+!/tools/README.md
+!/tools/LICENSE*

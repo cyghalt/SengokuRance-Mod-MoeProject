@@ -1,0 +1,148 @@
+:root {
+  --bg: #f5f6f8; --panel: #ffffff; --line: #d9dde3; --text: #20242b;
+  --muted: #6b7280; --accent: #2f6fed; --accent-dark: #1f57c9;
+  --ok: #1a7f37; --warn: #b45309; --sel: #eaf1ff;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0; display: flex; flex-direction: column; height: 100vh;
+  background: var(--bg); color: var(--text);
+  font: 13px/1.5 "Microsoft YaHei", "PingFang SC", system-ui, sans-serif;
+}
+button { font: inherit; cursor: pointer; border-radius: 5px; border: 1px solid var(--line);
+  background: #fff; color: var(--text); padding: 5px 10px; }
+button:hover { border-color: #b9c0cb; background: #f0f2f5; }
+button:disabled { opacity: .5; cursor: default; }
+button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+button.primary:hover { background: var(--accent-dark); }
+button.ghost.small { padding: 3px 8px; font-size: 12px; }
+button.subtle { color: var(--muted); }
+input[type=text] { font: inherit; padding: 5px 8px; border: 1px solid var(--line);
+  border-radius: 5px; background: #fff; color: var(--text); }
+input[type=text]:focus { outline: 2px solid #c7d8ff; border-color: var(--accent); }
+.muted { color: var(--muted); }
+.spacer { flex: 1; }
+.hidden { display: none !important; }
+
+.top { background: var(--panel); border-bottom: 1px solid var(--line); padding: 8px 12px; }
+.brand { display: flex; align-items: baseline; gap: 10px; margin-bottom: 8px; }
+.brand strong { font-size: 15px; }
+.gamerow { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.gamerow input[type=text] { flex: 1; min-width: 320px; }
+.hint { min-width: 120px; font-size: 12px; }
+.hint.ok { color: var(--ok); }
+.hint.bad { color: #c0392b; }
+
+.toolbar { display: flex; align-items: center; gap: 8px; padding: 8px 12px;
+  background: var(--panel); border-bottom: 1px solid var(--line); }
+.toolbar input[type=text] { flex: 1; min-width: 200px; }
+
+main { flex: 1; display: flex; min-height: 0; }
+.left { flex: 3; min-width: 0; display: flex; flex-direction: column; border-right: 1px solid var(--line); }
+.right { flex: 2; min-width: 330px; display: flex; flex-direction: column; background: var(--panel); }
+
+.list { overflow: auto; padding: 6px 8px 20px; }
+.group { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; margin: 6px 0; }
+.group > summary { padding: 7px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px;
+  list-style: none; }
+.group > summary::-webkit-details-marker { display: none; }
+.group > summary::before { content: "▸"; color: var(--muted); }
+.group[open] > summary::before { content: "▾"; }
+.gtitle { font-weight: 600; }
+.gcount { color: var(--muted); font-size: 12px; }
+.gstate { margin-left: auto; font-size: 12px; color: var(--muted); }
+.rows { border-top: 1px solid var(--line); }
+.row { display: grid; align-items: center; gap: 8px; padding: 3px 10px 3px 8px;
+  grid-template-columns: 20px 40px minmax(110px, 1fr) 76px 84px 104px 62px;
+  border-bottom: 1px solid #eef1f5; cursor: default; }
+.row:last-child { border-bottom: none; }
+.row:hover { background: #f7f9fc; }
+.row.sel { background: var(--sel); }
+.row .thumb { width: 34px; height: 34px; object-fit: contain; background: #f4f4f4; border-radius: 4px; }
+.row .name { font-family: Consolas, monospace; font-size: 12px; overflow: hidden;
+  text-overflow: ellipsis; white-space: nowrap; }
+.row .ids, .row .size, .row .arch { color: var(--muted); font-size: 12px; text-align: center; }
+.badge { text-align: center; font-size: 12px; border-radius: 10px; padding: 1px 0; }
+.badge.orig { color: var(--warn); background: #fdf3e3; }
+.badge.done { color: var(--ok); background: #e7f5ea; }
+
+.compare-head { display: flex; align-items: center; justify-content: space-between;
+  padding: 8px 10px 4px; color: var(--muted); }
+.compare { display: flex; gap: 6px; padding: 0 10px; height: 300px; }
+.compare figure { flex: 1; margin: 0; display: flex; flex-direction: column;
+  border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: #f2f2f2; }
+.compare figcaption { font-size: 12px; color: var(--muted); text-align: center;
+  background: #fff; border-bottom: 1px solid var(--line); padding: 2px; }
+.compare img { flex: 1; min-height: 0; width: 100%; object-fit: contain; display: none; }
+.compare img.show { display: block; }
+.compare .ph { flex: 1; display: flex; align-items: center; justify-content: center;
+  color: var(--muted); }
+.compare .ph.hidden { display: none; }
+
+.meta { margin: 10px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px;
+  overflow: auto; flex: 1; font-size: 12px; }
+.meta dt { color: var(--muted); float: left; clear: left; width: 72px; }
+.meta dd { margin: 0 0 4px 78px; word-break: break-all; font-family: Consolas, monospace; }
+
+.bottom { background: var(--panel); border-top: 1px solid var(--line); padding: 8px 12px; }
+.progressline { display: flex; align-items: center; gap: 10px; }
+.progressline progress { flex: 1; height: 12px; }
+.actions { display: flex; align-items: center; gap: 8px; margin-top: 8px; }
+.logbox { margin-top: 8px; }
+.logbox pre { max-height: 140px; overflow: auto; margin: 6px 0 0; padding: 6px 8px;
+  background: #f8f9fb; border: 1px solid var(--line); border-radius: 6px;
+  font: 12px/1.45 Consolas, monospace; white-space: pre-wrap; }
+
+.busy { position: fixed; right: 16px; bottom: 16px; display: flex; align-items: center; gap: 8px;
+  background: #20242b; color: #fff; padding: 8px 14px; border-radius: 8px;
+  box-shadow: 0 6px 20px rgba(0,0,0,.25); }
+.spin { width: 14px; height: 14px; border: 2px solid #ffffff55; border-top-color: #fff;
+  border-radius: 50%; animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* 发布版：势力分组、角色对比卡片与工具页 */
+body { height:auto; min-height:100vh; overflow:auto; background:#f5f4f0; }
+.top { position:sticky; top:0; z-index:2; }
+.tabs { display:flex; gap:8px; padding:12px 20px; border-bottom:1px solid var(--line); background:white; }
+.tabs .active { background:#334c40; color:white; }
+main { display:block; padding:16px 20px; min-height:40vh; }
+.left { width:100%; border:0; overflow:visible; }
+.list { overflow:visible; }
+.group { background:white; margin-bottom:14px; border-radius:12px; }
+.group summary { padding:14px; }
+.role-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(310px,1fr)); gap:16px; padding:16px; }
+.role-card { padding:14px; border:1px solid #dfded7; border-radius:10px; background:#fff; }
+.role-card.picked { border-color:#668a75; background:#f6faf7; }
+.role-head { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:12px; }
+.role-name { border:0; background:transparent; font-size:17px; font-weight:700; padding:0; }
+.role-head .muted { margin-left:auto; font-size:11px; }
+.pair-label { color:#526459; font-size:12px; margin:10px 0 6px; }
+.card-pair { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+.card-pair figure { margin:0; background:#f2f2ef; border-radius:6px; overflow:hidden; text-align:center; }
+.card-pair img { width:100%; height:180px; object-fit:contain; display:block; }
+.card-pair figcaption { font-size:11px; padding:5px; background:#eaece6; }
+.card-detail { width:100%; margin-top:12px; }
+.empty-pair { padding:30px; color:#888; text-align:center; }
+.bottom { position:sticky; bottom:0; z-index:1; }
+.actions { flex-wrap:wrap; }
+.tool-panel { max-width:1200px; margin:0 auto; padding:22px; }
+.searchbar { display:flex; gap:10px; margin:18px 0; }
+.searchbar input { flex:1; min-width:80px; }
+.resource-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:15px; }
+.resource-item { padding:10px; background:white; border-radius:8px; text-decoration:none; color:inherit; display:flex; flex-direction:column; gap:6px; font-size:12px; }
+.resource-item img { width:100%; height:190px; object-fit:contain; background:#eeeee8; }
+.script-result { padding:18px; background:white; border-radius:8px; margin-bottom:12px; overflow-wrap:anywhere; }
+.script-result p { white-space:pre-wrap; }
+.script-result .match { background:#f6f2db; }
+.pager { display:flex; justify-content:center; gap:20px; align-items:center; margin:20px; }
+dialog { width:min(850px,90vw); max-height:85vh; border:1px solid #d5d5c9; border-radius:14px; padding:20px; }
+dialog::backdrop { background:#15282088; }
+#rolePreview { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+#rolePreview img { height:270px; }
+#rolePreview select { width:100%; margin:10px 0; }
+.hidden { display:none !important; }
+@media(max-width:760px) { .gamerow,.toolbar { flex-wrap:wrap; } .gamerow input { width:100%; } #rolePreview { grid-template-columns:1fr; } main { padding:8px; } .bottom { position:static; } }
+
+.global-progress { position:static; }
+.searchbar input,select { font:inherit; padding:8px; border:1px solid var(--line); border-radius:6px; }
