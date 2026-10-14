@@ -38,11 +38,17 @@
 
 **目前只测试了 Windows 下的 Steam 正版。** 其他版本可以借助 AI 和资源工具自行适配，自己动手丰衣足食；但不同版本的归档、编号和尺寸可能不同，不能保证直接通用。
 
-### 首次准备
+### 推荐：下载打包好的 Windows 安装器
+
+前往 [Releases 下载页](https://github.com/cyghalt/SengokuRance-Mod-MoeProject/releases/latest)，下载文件名带 `Installer` 和 `win64.zip` 的安装包（不要选 Source code）。完整解压到普通可写文件夹，双击 **SengokuRanceInstaller.exe** 或 **启动安装器.bat**。浏览器打开后，选择自己的游戏目录，检测状态，再选择角色安装。
+
+打包版自带 Python、Pillow 和 alice-tools，无需另外安装依赖，也不需要 AI 服务。安装器窗口需保持打开；使用结束后关闭窗口即可。安装前退出游戏，保留安装器文件夹内的备份，以便恢复。当前提供 Windows 64 位版本，仍以 Windows Steam 版游戏为已测试范围。
+
+### 源码版首次准备
 
 1. 在本页 **Code → Download ZIP** 下载并完整解压，或使用 Git 克隆仓库。
 2. 安装 Python 3.10 或更新版本，在项目目录运行 `python -m pip install -r requirements.txt`。文件夹选择窗口还需要 tkinter（Windows 官方 Python 通常自带）。
-3. 从 [alice-tools 官方 Releases](https://github.com/nunuhara/alice-tools/releases) 下载 Windows 版本，将 `alice.exe` 及其依赖文件放到本项目的 `tools/` 目录，详见 [工具准备说明](tools/README.md)。本仓库不包含第三方工具二进制。
+3. 从 [alice-tools 官方 Releases](https://github.com/nunuhara/alice-tools/releases) 下载 Windows 版本，将 `alice.exe` 及其依赖文件放到本项目的 `tools/` 目录，详见 [工具准备说明](tools/README.md)。源码仓库不包含第三方工具二进制；Releases 打包版已自带。
 
 ### 安装与恢复
 

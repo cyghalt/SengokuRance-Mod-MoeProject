@@ -2,6 +2,10 @@
 rem Start the local web installer (browser frontend) and open the page.
 rem Content is ASCII only so the file encoding never breaks the interpreter path.
 setlocal
+if exist "%~dp0SengokuRanceInstaller.exe" (
+  start "" "%~dp0SengokuRanceInstaller.exe"
+  exit /b 0
+)
 set "APP=%~dp0web_server.py"
 if not exist "%APP%" (
   echo web_server.py not found next to this launcher.

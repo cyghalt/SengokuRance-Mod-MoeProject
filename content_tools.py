@@ -8,7 +8,9 @@ import zipfile
 from pathlib import Path
 from release_catalog import with_factions
 
-BASE = Path(__file__).resolve().parent
+from runtime_paths import app_root, child_command
+
+BASE = app_root()
 
 
 def extracted():
@@ -28,8 +30,8 @@ def run_extract(job, game):
         stamp = datetime.datetime.now().strftime('%Y%m%d-%H%M%S-%f')
         root = BASE / 'build' / ('extracted-' + stamp)
         job.progress(0.05, '正在解压游戏资源与剧本……')
-        with subprocess.Popen([sys.executable, str(BASE / 'resource_tool.py'), '--game', game,
-                               '--workspace', str(root), 'extract'], stdout=subprocess.PIPE,
+        with subprocess.Popen(child_command('--resource-tool', '--game', game,
+                                            '--workspace', root, 'extract'), stdout=subprocess.PIPE,
                               stderr=subprocess.STDOUT, encoding='utf8', errors='replace',
                               creationflags=getattr(subprocess, 'CREATE_NO_WINDOW', 0),
                               env=__import__('os').environ | {'PYTHONIOENCODING': 'utf-8'}) as proc:
@@ -169,7 +171,8 @@ def run_package(job, roster, ids):
             files.update(e[k] for k in ('after_file', 'after_preview', 'after_thumb') if e.get(k))
         files.update(p.relative_to(BASE).as_posix() for p in (BASE / 'web').rglob('*') if p.is_file())
         files.update(['patch_engine.py', 'web_server.py', 'content_tools.py', 'release_catalog.py',
-                      'release_docs.py', 'release_scope.json', 'resource_tool.py', '启动安装器.bat', 'README.md'])
+                      'release_docs.py', 'release_scope.json', 'resource_tool.py', 'runtime_paths.py',
+                      'installer_entry.py', '启动安装器.bat', 'README.md'])
         # 第三方工具由使用者从上游获取；导出包也不携带游戏原图、剧本或工具二进制。
         for name in ('LICENSE', 'ASSET_LICENSE.md', 'THIRD_PARTY_NOTICES.md', 'requirements.txt'):
             if (BASE / name).is_file():
@@ -195,6 +198,6 @@ def run_package(job, roster, ids):
             for i, file in enumerate(sorted(files)):
                 bundle.write(BASE / file, file)
                 job.progress((i + 1) / len(files), '正在生成独立安装包……')
-        job.finish(dict(url='/build/packages/' + name, path=str(path), count=len(entries)))
+        job.finish(dict(url='/build/packages/' + path.name, path=str(path), count=len(entries)))
     except Exception as error:
         job.fail(error)

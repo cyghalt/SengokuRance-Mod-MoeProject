@@ -17,7 +17,9 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs, unquote
 
-BASE = Path(__file__).resolve().parent
+from runtime_paths import app_root, child_command
+
+BASE = app_root()
 sys.path.insert(0, str(BASE))
 import patch_engine as engine  # noqa: E402
 import content_tools
@@ -137,7 +139,7 @@ def run_restore(job, game, backup):
 def choose_directory():
     """在独立进程里弹原生文件夹选择框，避免 Tk 线程问题。"""
     try:
-        proc = subprocess.run([sys.executable, '-c', BROWSE_SCRIPT],
+        proc = subprocess.run(child_command('--pick-directory'),
                               capture_output=True, text=True, timeout=600)
     except Exception as exc:
         return dict(error=f'无法打开目录选择框：{exc}')

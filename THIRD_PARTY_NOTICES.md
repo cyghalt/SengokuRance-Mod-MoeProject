@@ -8,14 +8,24 @@
 - 官方下载：https://github.com/nunuhara/alice-tools/releases
 - 许可：GNU GPL version 2，见 https://github.com/nunuhara/alice-tools/blob/master/LICENSE
 
-公开仓库与导出包不附带 alice.exe；使用者自行从上游获取，并保留下载包附带的许可与依赖文件。如另行分发该工具的二进制，应遵守其协议及对应源码提供要求。
+源码仓库与网页导出的角色／势力包不附带 alice.exe，使用者自行从上游获取。Releases 的 Windows 便携安装器附带上游 0.13.0 的独立 alice.exe，保留其 COPYING.txt 与上游附带许可证，并在 `third-party/alice-tools-0.13.0-source.zip` 中提供对应版本完整项目源码、构建说明和 libsys4 子模块源码；本项目不修改该工具。
+
+其静态依赖 libiconv 的 LGPL v2.1 许可见 `tools/licenses/libiconv/COPYING.LIB`，源码随包放在 `third-party/libiconv-1.17.tar.gz`，来自 GNU 官方发布：https://ftp.gnu.org/pub/gnu/libiconv/ 。其他依赖的许可保留在 `tools/licenses/`。
 
 ## Pillow
 
-Python 图像处理依赖 Pillow，由使用者通过 pip 安装。
+Python 图像处理依赖 Pillow。源码版通过 pip 安装，Windows 便携版内置该依赖，其许可（含 wheel 内第三方许可）位于 `third-party/Pillow-LICENSE`。
 
 - 项目：https://github.com/python-pillow/Pillow
 - 许可：https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+## 打包运行环境
+
+Windows 便携版内置 Python 与 Tcl/Tk，由 PyInstaller 打包。Python 许可见 `third-party/Python-LICENSE.txt`；Tcl 许可见 `third-party/Tcl-LICENSE.txt`，Tk 许可见 `_internal/_tk_data/license.terms`。PyInstaller 许可与 bootloader 分发例外见 `third-party/PyInstaller-COPYING.txt`。具体构建版本与资源数量记录在 `BUILD_INFO.json`。
+
+- Python：https://www.python.org/
+- Tcl/Tk：https://www.tcl.tk/
+- PyInstaller：https://pyinstaller.org/
 
 ## 原游戏与演示图
 

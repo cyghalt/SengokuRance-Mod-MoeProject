@@ -21,7 +21,9 @@ from pathlib import Path
 
 from PIL import Image
 
-BASE = Path(__file__).resolve().parent
+from runtime_paths import app_root
+
+BASE = app_root()
 DATA = BASE / 'data'
 ALICE = BASE / 'tools' / 'alice.exe'
 KEY = bytes.fromhex('5d91ae874a5641cd83ec4c92b5cb1634')
