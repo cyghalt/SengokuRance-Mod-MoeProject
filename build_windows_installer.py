@@ -19,7 +19,7 @@ import zipfile
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent
-FILES = ['README.md', 'LICENSE', 'ASSET_LICENSE.md', 'THIRD_PARTY_NOTICES.md',
+FILES = ['README.md', '更新进度.md', 'LICENSE', 'ASSET_LICENSE.md', 'THIRD_PARTY_NOTICES.md',
          'requirements.txt', '启动安装器.bat', 'patch_engine.py', 'web_server.py',
          'content_tools.py', 'release_catalog.py', 'release_docs.py', 'resource_tool.py',
          'runtime_paths.py', 'installer_entry.py', 'factions.json', 'release_scope.json',
@@ -72,7 +72,8 @@ def main():
             raise ValueError('Asset hash mismatch: ' + row['id'])
         row.update(before_preview=None, before_thumb=None)
     roster.update(game_default='', unique_before=0)
-    for folder, extensions in [('web', {'.js', '.css', '.html'}), ('docs', {'.md', '.csv', '.json'})]:
+    for folder, extensions in [('web', {'.js', '.css', '.html'}), ('docs', {'.md', '.csv', '.json'}),
+                               ('宣传图', {'.jpg', '.png', '.md'})]:
         names.update(p.relative_to(BASE).as_posix() for p in (BASE / folder).rglob('*')
                      if p.is_file() and p.suffix in extensions)
     subprocess.run([sys.executable, '-m', 'PyInstaller', '--noconfirm', '--clean', '--onedir',

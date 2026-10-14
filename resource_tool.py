@@ -4,8 +4,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import argparse, base64, collections, hashlib, io, json, re, shutil, struct, subprocess, time
 from PIL import Image
 
-from runtime_paths import app_root
-BASE = app_root()
+BASE = Path(__file__).resolve().parent
 GAME = Path('D:/Program Files (x86)/Steam/steamapps/common/Sengoku Rance')
 ALICE = BASE / 'tools/alice.exe'
 GROUPS = {'steam_current': 'rance7.ain'}
@@ -345,7 +344,7 @@ def main():
         BASE = location_args.workspace.resolve()
     if location_args.game:
         GAME = location_args.game.resolve()
-    ALICE = app_root() / 'tools' / 'alice.exe'
+    ALICE = Path(__file__).resolve().parent / 'tools' / 'alice.exe'
     parser=argparse.ArgumentParser(description=__doc__);sub=parser.add_subparsers(dest='command',required=True)
     p=sub.add_parser('extract');p.add_argument('--workers',type=int,default=8)
     p=sub.add_parser('scan')

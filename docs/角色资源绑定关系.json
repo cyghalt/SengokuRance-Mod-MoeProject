@@ -1,120 +1,5 @@
 [
   {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "other",
-    "来源包": "Rance7GM.ald",
-    "原生文件": "cg00011.QNT",
-    "指针": 8,
-    "资源编号": [
-      11
-    ],
-    "别名指针": [],
-    "尺寸": [
-      800,
-      600
-    ],
-    "替换文件": "data/after/4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419.png",
-    "替换SHA256": "4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419",
-    "预览原图": null,
-    "预览替换": "data/preview/4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419.jpg",
-    "来源批次": "sill-reference",
-    "差分": "sill-clothed"
-  },
-  {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "other",
-    "来源包": "Rance7GM.ald",
-    "原生文件": "cg00012.QNT",
-    "指针": 9,
-    "资源编号": [
-      12
-    ],
-    "别名指针": [],
-    "尺寸": [
-      800,
-      600
-    ],
-    "替换文件": "data/after/4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419.png",
-    "替换SHA256": "4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419",
-    "预览原图": null,
-    "预览替换": "data/preview/4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419.jpg",
-    "来源批次": "sill-reference",
-    "差分": "sill-clothed"
-  },
-  {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "portrait",
-    "来源包": "Rance7GM.ald",
-    "原生文件": "cg00016.QNT",
-    "指针": 10,
-    "资源编号": [
-      16
-    ],
-    "别名指针": [],
-    "尺寸": [
-      186,
-      220
-    ],
-    "替换文件": "data/after/22bc31b07b725db7721ab371a4191ad087a953eecab69e5d974a9a72bc9af4df.png",
-    "替换SHA256": "22bc31b07b725db7721ab371a4191ad087a953eecab69e5d974a9a72bc9af4df",
-    "预览原图": null,
-    "预览替换": "data/preview/22bc31b07b725db7721ab371a4191ad087a953eecab69e5d974a9a72bc9af4df.jpg",
-    "来源批次": "sill-portraits",
-    "差分": "sill-head-16"
-  },
-  {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "portrait",
-    "来源包": "Rance7GM.ald",
-    "原生文件": "cg00017.QNT",
-    "指针": 11,
-    "资源编号": [
-      17
-    ],
-    "别名指针": [],
-    "尺寸": [
-      186,
-      220
-    ],
-    "替换文件": "data/after/d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72.png",
-    "替换SHA256": "d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72",
-    "预览原图": null,
-    "预览替换": "data/preview/d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72.jpg",
-    "来源批次": "sill-portraits",
-    "差分": "sill-head-17-cry"
-  },
-  {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "portrait",
-    "来源包": "Rance7GM.ald",
-    "原生文件": "cg00018.QNT",
-    "指针": 12,
-    "资源编号": [
-      18
-    ],
-    "别名指针": [],
-    "尺寸": [
-      186,
-      220
-    ],
-    "替换文件": "data/after/d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72.png",
-    "替换SHA256": "d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72",
-    "预览原图": null,
-    "预览替换": "data/preview/d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72.jpg",
-    "来源批次": "sill-portraits",
-    "差分": "sill-head-17-cry"
-  },
-  {
     "势力": "伊贺家",
     "武将": "铃女",
     "角色ID": "name-20",
@@ -391,6 +276,144 @@
     "差分": "nobunaga-38"
   },
   {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00041.QNT",
+    "指针": 25,
+    "资源编号": [
+      41
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/b1cb0226448c39cec6a6effb3a8ada0b147a1f6ac44068a7a6a7a5f9a8a65c88.png",
+    "替换SHA256": "b1cb0226448c39cec6a6effb3a8ada0b147a1f6ac44068a7a6a7a5f9a8a65c88",
+    "预览原图": null,
+    "预览替换": "data/preview/b1cb0226448c39cec6a6effb3a8ada0b147a1f6ac44068a7a6a7a5f9a8a65c88.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-normal"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00043.QNT",
+    "指针": 26,
+    "资源编号": [
+      43
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/4bc77614361cbf25fc2974fcca99d967b5e0432a62be0c82523606a35a196626.png",
+    "替换SHA256": "4bc77614361cbf25fc2974fcca99d967b5e0432a62be0c82523606a35a196626",
+    "预览原图": null,
+    "预览替换": "data/preview/4bc77614361cbf25fc2974fcca99d967b5e0432a62be0c82523606a35a196626.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-armor"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00046.QNT",
+    "指针": 27,
+    "资源编号": [
+      46
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/abff916620671d42a1f5bed391e6a675b51ee3d38167a538a205fd61709aaffe.png",
+    "替换SHA256": "abff916620671d42a1f5bed391e6a675b51ee3d38167a538a205fd61709aaffe",
+    "预览原图": null,
+    "预览替换": "data/preview/abff916620671d42a1f5bed391e6a675b51ee3d38167a538a205fd61709aaffe.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-head-normal"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00047.QNT",
+    "指针": 28,
+    "资源编号": [
+      47
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/5fbe841e3c9d9cbfe92e59c1ca3d8e08c8cab31e4d6e15e1e3eb89bf7c78b88d.png",
+    "替换SHA256": "5fbe841e3c9d9cbfe92e59c1ca3d8e08c8cab31e4d6e15e1e3eb89bf7c78b88d",
+    "预览原图": null,
+    "预览替换": "data/preview/5fbe841e3c9d9cbfe92e59c1ca3d8e08c8cab31e4d6e15e1e3eb89bf7c78b88d.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-head-surprise"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00048.QNT",
+    "指针": 29,
+    "资源编号": [
+      48
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/54822e9198eab3ab475c007d81cbcdcc4103289d3a8b27d7dd3d8b798e34376c.png",
+    "替换SHA256": "54822e9198eab3ab475c007d81cbcdcc4103289d3a8b27d7dd3d8b798e34376c",
+    "预览原图": null,
+    "预览替换": "data/preview/54822e9198eab3ab475c007d81cbcdcc4103289d3a8b27d7dd3d8b798e34376c.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-head-shy"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00049.QNT",
+    "指针": 30,
+    "资源编号": [
+      49
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/2a47e288e434652cf9b57827bb51039322583c481ca2fa735aed211ac72dd7fb.png",
+    "替换SHA256": "2a47e288e434652cf9b57827bb51039322583c481ca2fa735aed211ac72dd7fb",
+    "预览原图": null,
+    "预览替换": "data/preview/2a47e288e434652cf9b57827bb51039322583c481ca2fa735aed211ac72dd7fb.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-head-armor"
+  },
+  {
     "势力": "上杉家",
     "武将": "上杉谦信",
     "角色ID": "name-88",
@@ -636,10 +659,10 @@
       800,
       600
     ],
-    "替换文件": "data/after/6311bac774921570578ec6742d34fb8a93c6c5742c09fe9a4a3323cd106ebb88.png",
-    "替换SHA256": "6311bac774921570578ec6742d34fb8a93c6c5742c09fe9a4a3323cd106ebb88",
+    "替换文件": "data/after/bc7566c60cede1e53fec6ae74762c347612e9e8ca432be3c018571f466b9c7cd.png",
+    "替换SHA256": "bc7566c60cede1e53fec6ae74762c347612e9e8ca432be3c018571f466b9c7cd",
     "预览原图": null,
-    "预览替换": "data/preview/6311bac774921570578ec6742d34fb8a93c6c5742c09fe9a4a3323cd106ebb88.jpg",
+    "预览替换": "data/preview/bc7566c60cede1e53fec6ae74762c347612e9e8ca432be3c018571f466b9c7cd.jpg",
     "来源批次": "naoe-ai-reference",
     "差分": "naoe-ai-reference-cg00081"
   },
@@ -659,10 +682,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/4cb8d34865f252243c5fc7b48e9215fc8f2b714729e3b0f185155e7bd8591e53.png",
-    "替换SHA256": "4cb8d34865f252243c5fc7b48e9215fc8f2b714729e3b0f185155e7bd8591e53",
+    "替换文件": "data/after/8d00695da7273b41fab9e72bcf1ee78e98b0fa2f2e21edeca8d8fcd500b459cc.png",
+    "替换SHA256": "8d00695da7273b41fab9e72bcf1ee78e98b0fa2f2e21edeca8d8fcd500b459cc",
     "预览原图": null,
-    "预览替换": "data/preview/4cb8d34865f252243c5fc7b48e9215fc8f2b714729e3b0f185155e7bd8591e53.jpg",
+    "预览替换": "data/preview/8d00695da7273b41fab9e72bcf1ee78e98b0fa2f2e21edeca8d8fcd500b459cc.jpg",
     "来源批次": "naoe-ai-reference",
     "差分": "naoe-ai-reference-cg00086"
   },
@@ -682,10 +705,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/ca3e985951a722754e85456665c5813e018b9c881d0ff46361536c4b3af41dc5.png",
-    "替换SHA256": "ca3e985951a722754e85456665c5813e018b9c881d0ff46361536c4b3af41dc5",
+    "替换文件": "data/after/c2801c6c5114107c787bc4420b3cba5ceab6f02128c8f260db14b3dd15b51bf0.png",
+    "替换SHA256": "c2801c6c5114107c787bc4420b3cba5ceab6f02128c8f260db14b3dd15b51bf0",
     "预览原图": null,
-    "预览替换": "data/preview/ca3e985951a722754e85456665c5813e018b9c881d0ff46361536c4b3af41dc5.jpg",
+    "预览替换": "data/preview/c2801c6c5114107c787bc4420b3cba5ceab6f02128c8f260db14b3dd15b51bf0.jpg",
     "来源批次": "naoe-ai-reference",
     "差分": "naoe-ai-reference-cg00087"
   },
@@ -990,6 +1013,190 @@
   },
   {
     "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00161.QNT",
+    "指针": 79,
+    "资源编号": [
+      161
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/5f1d0bb5d749ae159fa21a11bd08e952f982c1aafcc4ac4880a34e74c40f2410.png",
+    "替换SHA256": "5f1d0bb5d749ae159fa21a11bd08e952f982c1aafcc4ac4880a34e74c40f2410",
+    "预览原图": null,
+    "预览替换": "data/preview/5f1d0bb5d749ae159fa21a11bd08e952f982c1aafcc4ac4880a34e74c40f2410.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-normal-standing"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00162.QNT",
+    "指针": 80,
+    "资源编号": [
+      162
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/2045c54a1906676478a53649e4fafa7b5099f6c76ed31d72997ecc1167c616c0.png",
+    "替换SHA256": "2045c54a1906676478a53649e4fafa7b5099f6c76ed31d72997ecc1167c616c0",
+    "预览原图": null,
+    "预览替换": "data/preview/2045c54a1906676478a53649e4fafa7b5099f6c76ed31d72997ecc1167c616c0.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-lowered-standing"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00166.QNT",
+    "指针": 81,
+    "资源编号": [
+      166
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/8b26b46105ae423b6b613d1354387e5feba9fc2e193ab3d2039e1be423291848.png",
+    "替换SHA256": "8b26b46105ae423b6b613d1354387e5feba9fc2e193ab3d2039e1be423291848",
+    "预览原图": null,
+    "预览替换": "data/preview/8b26b46105ae423b6b613d1354387e5feba9fc2e193ab3d2039e1be423291848.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-normal-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00167.QNT",
+    "指针": 82,
+    "资源编号": [
+      167
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/dfef7822e98a4eb1cbc82c484a2ff7dfdab04a2e6eccef924d041e1704ba9954.png",
+    "替换SHA256": "dfef7822e98a4eb1cbc82c484a2ff7dfdab04a2e6eccef924d041e1704ba9954",
+    "预览原图": null,
+    "预览替换": "data/preview/dfef7822e98a4eb1cbc82c484a2ff7dfdab04a2e6eccef924d041e1704ba9954.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-lowered-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00168.QNT",
+    "指针": 83,
+    "资源编号": [
+      168
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/0e2e806eb9f04c8fb55ebdf78175f5acca7de8da7b7705b6b01e96ef8f8f28e3.png",
+    "替换SHA256": "0e2e806eb9f04c8fb55ebdf78175f5acca7de8da7b7705b6b01e96ef8f8f28e3",
+    "预览原图": null,
+    "预览替换": "data/preview/0e2e806eb9f04c8fb55ebdf78175f5acca7de8da7b7705b6b01e96ef8f8f28e3.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-sweat-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00169.QNT",
+    "指针": 84,
+    "资源编号": [
+      169
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/bb156cef029113fbfa18af907f70d0bfab88fef171d211eedb58cad59ad990ad.png",
+    "替换SHA256": "bb156cef029113fbfa18af907f70d0bfab88fef171d211eedb58cad59ad990ad",
+    "预览原图": null,
+    "预览替换": "data/preview/bb156cef029113fbfa18af907f70d0bfab88fef171d211eedb58cad59ad990ad.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-sad-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "大道寺小松",
+    "角色ID": "name-49",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00171.QNT",
+    "指针": 85,
+    "资源编号": [
+      171
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/99dcba254460509c35644f21a6e33c2ed38791f1e3a00dba721f1bfc0326eb5a.png",
+    "替换SHA256": "99dcba254460509c35644f21a6e33c2ed38791f1e3a00dba721f1bfc0326eb5a",
+    "预览原图": null,
+    "预览替换": "data/preview/99dcba254460509c35644f21a6e33c2ed38791f1e3a00dba721f1bfc0326eb5a.jpg",
+    "来源批次": "daidouji-reference",
+    "差分": "daidouji-171"
+  },
+  {
+    "势力": "北条家",
+    "武将": "大道寺小松",
+    "角色ID": "name-49",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00176.QNT",
+    "指针": 86,
+    "资源编号": [
+      176
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/3bddc7cc1d6ba16ef03052446730051ca6aa70c9f0943d2b695626a01b29c553.png",
+    "替换SHA256": "3bddc7cc1d6ba16ef03052446730051ca6aa70c9f0943d2b695626a01b29c553",
+    "预览原图": null,
+    "预览替换": "data/preview/3bddc7cc1d6ba16ef03052446730051ca6aa70c9f0943d2b695626a01b29c553.jpg",
+    "来源批次": "daidouji-reference",
+    "差分": "daidouji-176"
+  },
+  {
+    "势力": "北条家",
     "武将": "南条兰",
     "角色ID": "name-50",
     "素材类型": "other",
@@ -1004,12 +1211,12 @@
       800,
       600
     ],
-    "替换文件": "data/after/47b9c3ef36836eec99d951cd6efd8a423d13469f3b94fdacb5d11b04cae0dfa4.png",
-    "替换SHA256": "47b9c3ef36836eec99d951cd6efd8a423d13469f3b94fdacb5d11b04cae0dfa4",
+    "替换文件": "data/after/ade8455e2cc9b48066bab63ab95e2cd542b7b65e9c7aeb094f26062bdcef56b5.png",
+    "替换SHA256": "ade8455e2cc9b48066bab63ab95e2cd542b7b65e9c7aeb094f26062bdcef56b5",
     "预览原图": null,
-    "预览替换": "data/preview/47b9c3ef36836eec99d951cd6efd8a423d13469f3b94fdacb5d11b04cae0dfa4.jpg",
+    "预览替换": "data/preview/ade8455e2cc9b48066bab63ab95e2cd542b7b65e9c7aeb094f26062bdcef56b5.jpg",
     "来源批次": "ran-reference",
-    "差分": "ran-reference-cg00181"
+    "差分": "ran-upgrade-standing"
   },
   {
     "势力": "北条家",
@@ -1027,12 +1234,12 @@
       186,
       220
     ],
-    "替换文件": "data/after/98b9c1ed43a679f6ff233fc051aabee42d8e4062fb0fff7f45b82826aeb4a6e7.png",
-    "替换SHA256": "98b9c1ed43a679f6ff233fc051aabee42d8e4062fb0fff7f45b82826aeb4a6e7",
+    "替换文件": "data/after/944b87b532e69a1660c03361e287111a124ae756bad7faea26703d02a0dc5aa7.png",
+    "替换SHA256": "944b87b532e69a1660c03361e287111a124ae756bad7faea26703d02a0dc5aa7",
     "预览原图": null,
-    "预览替换": "data/preview/98b9c1ed43a679f6ff233fc051aabee42d8e4062fb0fff7f45b82826aeb4a6e7.jpg",
+    "预览替换": "data/preview/944b87b532e69a1660c03361e287111a124ae756bad7faea26703d02a0dc5aa7.jpg",
     "来源批次": "ran-reference",
-    "差分": "ran-reference-cg00186"
+    "差分": "ran-upgrade-normal"
   },
   {
     "势力": "北条家",
@@ -1050,12 +1257,12 @@
       186,
       220
     ],
-    "替换文件": "data/after/b013276040c0c5fc9efbc5f44ed0043f61fc9b8fb3a65bd2fc35bc4439c6c91f.png",
-    "替换SHA256": "b013276040c0c5fc9efbc5f44ed0043f61fc9b8fb3a65bd2fc35bc4439c6c91f",
+    "替换文件": "data/after/34a2801b5bbce47d60dd19aa72a90ce99a1af579114cc631dfe6a2fff563b26d.png",
+    "替换SHA256": "34a2801b5bbce47d60dd19aa72a90ce99a1af579114cc631dfe6a2fff563b26d",
     "预览原图": null,
-    "预览替换": "data/preview/b013276040c0c5fc9efbc5f44ed0043f61fc9b8fb3a65bd2fc35bc4439c6c91f.jpg",
+    "预览替换": "data/preview/34a2801b5bbce47d60dd19aa72a90ce99a1af579114cc631dfe6a2fff563b26d.jpg",
     "来源批次": "ran-reference",
-    "差分": "ran-reference-cg00187"
+    "差分": "ran-upgrade-speaking"
   },
   {
     "势力": "足利家",
@@ -1102,6 +1309,98 @@
     "预览替换": "data/preview/62fd5a4c4302acac92c2e53fd66856c42536ef9dbae9c16f1741238091e28d2e.jpg",
     "来源批次": "ashikaga-reference",
     "差分": "ashikaga-206"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00211.QNT",
+    "指针": 95,
+    "资源编号": [
+      211
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/3f35c438587fbb0300b4df9d11882b75c44ece1abcddf6b07e842eca7568dffc.png",
+    "替换SHA256": "3f35c438587fbb0300b4df9d11882b75c44ece1abcddf6b07e842eca7568dffc",
+    "预览原图": null,
+    "预览替换": "data/preview/3f35c438587fbb0300b4df9d11882b75c44ece1abcddf6b07e842eca7568dffc.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-211"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00212.QNT",
+    "指针": 96,
+    "资源编号": [
+      212
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/98f7098afd47974d398940c6386b1df610215646fb86c0642d47b78100110e70.png",
+    "替换SHA256": "98f7098afd47974d398940c6386b1df610215646fb86c0642d47b78100110e70",
+    "预览原图": null,
+    "预览替换": "data/preview/98f7098afd47974d398940c6386b1df610215646fb86c0642d47b78100110e70.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-212"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00216.QNT",
+    "指针": 97,
+    "资源编号": [
+      216
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/769b9d228e799be8abd913cec7d8b7be34316ee37592732e2339e8143006048d.png",
+    "替换SHA256": "769b9d228e799be8abd913cec7d8b7be34316ee37592732e2339e8143006048d",
+    "预览原图": null,
+    "预览替换": "data/preview/769b9d228e799be8abd913cec7d8b7be34316ee37592732e2339e8143006048d.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-216"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00217.QNT",
+    "指针": 98,
+    "资源编号": [
+      217
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/3553bb8fcf7070d5f211a277d7511139363274308e68b1e2d0481d768a54ce8e.png",
+    "替换SHA256": "3553bb8fcf7070d5f211a277d7511139363274308e68b1e2d0481d768a54ce8e",
+    "预览原图": null,
+    "预览替换": "data/preview/3553bb8fcf7070d5f211a277d7511139363274308e68b1e2d0481d768a54ce8e.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-217"
   },
   {
     "势力": "足利家",
@@ -1263,6 +1562,75 @@
     "预览替换": "data/preview/8e54635de3bbddef6867baef87864e7a1f8b03d972280cdd1e9e28fddda6100f.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "oju-avatar"
+  },
+  {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00251.QNT",
+    "指针": 106,
+    "资源编号": [
+      251
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/22a9a5a95f5bf0ca73462838ce6a7e6376ac73ae16353fa3b92193264a823090.png",
+    "替换SHA256": "22a9a5a95f5bf0ca73462838ce6a7e6376ac73ae16353fa3b92193264a823090",
+    "预览原图": null,
+    "预览替换": "data/preview/22a9a5a95f5bf0ca73462838ce6a7e6376ac73ae16353fa3b92193264a823090.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-251"
+  },
+  {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00256.QNT",
+    "指针": 107,
+    "资源编号": [
+      256
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/b06a19703935882bfdc2655ebe3876402032df795bb582bbef65eaa2bb59d922.png",
+    "替换SHA256": "b06a19703935882bfdc2655ebe3876402032df795bb582bbef65eaa2bb59d922",
+    "预览原图": null,
+    "预览替换": "data/preview/b06a19703935882bfdc2655ebe3876402032df795bb582bbef65eaa2bb59d922.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-256"
+  },
+  {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00257.QNT",
+    "指针": 108,
+    "资源编号": [
+      257
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/482818ba4242d9d8e458fe01227d1c9a6032553165696f7e65f9d8f9c780d7de.png",
+    "替换SHA256": "482818ba4242d9d8e458fe01227d1c9a6032553165696f7e65f9d8f9c780d7de",
+    "预览原图": null,
+    "预览替换": "data/preview/482818ba4242d9d8e458fe01227d1c9a6032553165696f7e65f9d8f9c780d7de.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-257"
   },
   {
     "势力": "浅井朝仓家",
@@ -1516,6 +1884,98 @@
     "预览替换": "data/preview/3bc1b337c7b5b19be7cbe92b6285a730421e70b003b30486bfa1622046b90489.jpg",
     "来源批次": "yuzumi-reference",
     "差分": "yuzumi-reference-cg00337"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00391.QNT",
+    "指针": 145,
+    "资源编号": [
+      391
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/d5b89f3d31b81aac2292ff99fb5073e95b22044b60240dd9e6da46a8085ed3b8.png",
+    "替换SHA256": "d5b89f3d31b81aac2292ff99fb5073e95b22044b60240dd9e6da46a8085ed3b8",
+    "预览原图": null,
+    "预览替换": "data/preview/d5b89f3d31b81aac2292ff99fb5073e95b22044b60240dd9e6da46a8085ed3b8.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-standing"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00396.QNT",
+    "指针": 146,
+    "资源编号": [
+      396
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/4a7b00f8e6e3e85a7e4777df97d3eb236f0c590cf4295ac98838bf8bcb392660.png",
+    "替换SHA256": "4a7b00f8e6e3e85a7e4777df97d3eb236f0c590cf4295ac98838bf8bcb392660",
+    "预览原图": null,
+    "预览替换": "data/preview/4a7b00f8e6e3e85a7e4777df97d3eb236f0c590cf4295ac98838bf8bcb392660.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-normal"
+  },
+  {
+    "势力": "天志教",
+    "武将": "言里",
+    "角色ID": "name-56",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00401.QNT",
+    "指针": 147,
+    "资源编号": [
+      401
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/352fc0e5717fbee6f1d01b060a53350784abd34b47a1a4af365ab8d929b4f147.png",
+    "替换SHA256": "352fc0e5717fbee6f1d01b060a53350784abd34b47a1a4af365ab8d929b4f147",
+    "预览原图": null,
+    "预览替换": "data/preview/352fc0e5717fbee6f1d01b060a53350784abd34b47a1a4af365ab8d929b4f147.jpg",
+    "来源批次": "gonri-reference",
+    "差分": "gonri-401"
+  },
+  {
+    "势力": "天志教",
+    "武将": "言里",
+    "角色ID": "name-56",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00406.QNT",
+    "指针": 148,
+    "资源编号": [
+      406
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/afee89f03a62f874f2a5d04184d6ea9114a36f8fbf3cd9a0bf39b7e3d7937c49.png",
+    "替换SHA256": "afee89f03a62f874f2a5d04184d6ea9114a36f8fbf3cd9a0bf39b7e3d7937c49",
+    "预览原图": null,
+    "预览替换": "data/preview/afee89f03a62f874f2a5d04184d6ea9114a36f8fbf3cd9a0bf39b7e3d7937c49.jpg",
+    "来源批次": "gonri-reference",
+    "差分": "gonri-406"
   },
   {
     "势力": "拓牙家",
@@ -1809,10 +2269,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/f263952718cbc5878a457fed54a1d58383e1e15b28d1caec57b1563868261de9.png",
-    "替换SHA256": "f263952718cbc5878a457fed54a1d58383e1e15b28d1caec57b1563868261de9",
+    "替换文件": "data/after/18de733ec4fa82caee28db2b4d29856ac044a389e8a342c01499b70c7ae23bec.png",
+    "替换SHA256": "18de733ec4fa82caee28db2b4d29856ac044a389e8a342c01499b70c7ae23bec",
     "预览原图": null,
-    "预览替换": "data/preview/f263952718cbc5878a457fed54a1d58383e1e15b28d1caec57b1563868261de9.jpg",
+    "预览替换": "data/preview/18de733ec4fa82caee28db2b4d29856ac044a389e8a342c01499b70c7ae23bec.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "hanzo-562"
   },
@@ -1832,10 +2292,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/9fd786599f753cfdd01f46e5b55a351f5a74462ae412a8162a7326da42ef90c5.png",
-    "替换SHA256": "9fd786599f753cfdd01f46e5b55a351f5a74462ae412a8162a7326da42ef90c5",
+    "替换文件": "data/after/3e0726aafc16ff9dd5a96d0d05c27a5a564089bf7b949b528accb02aed1912a7.png",
+    "替换SHA256": "3e0726aafc16ff9dd5a96d0d05c27a5a564089bf7b949b528accb02aed1912a7",
     "预览原图": null,
-    "预览替换": "data/preview/9fd786599f753cfdd01f46e5b55a351f5a74462ae412a8162a7326da42ef90c5.jpg",
+    "预览替换": "data/preview/3e0726aafc16ff9dd5a96d0d05c27a5a564089bf7b949b528accb02aed1912a7.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "sakai-563"
   },
@@ -1855,10 +2315,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/be803d460084c133f17583d00fccb05cd3bd3e788078370f33ef716eaa17d2d0.png",
-    "替换SHA256": "be803d460084c133f17583d00fccb05cd3bd3e788078370f33ef716eaa17d2d0",
+    "替换文件": "data/after/843c9fac3c8327725b7a48859260a81e1141ec46df7350590dce5e9a6dc1e702.png",
+    "替换SHA256": "843c9fac3c8327725b7a48859260a81e1141ec46df7350590dce5e9a6dc1e702",
     "预览原图": null,
-    "预览替换": "data/preview/be803d460084c133f17583d00fccb05cd3bd3e788078370f33ef716eaa17d2d0.jpg",
+    "预览替换": "data/preview/843c9fac3c8327725b7a48859260a81e1141ec46df7350590dce5e9a6dc1e702.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "ii-566"
   },
@@ -1878,10 +2338,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/031f9e567301f1da2a7e2f0e70691ded62746164dfcbcce78c37b61581c2a76c.png",
-    "替换SHA256": "031f9e567301f1da2a7e2f0e70691ded62746164dfcbcce78c37b61581c2a76c",
+    "替换文件": "data/after/7050d43896be1a3ad8ab14306bc07d52eec8b02e2f893b44bbc249d817ac0567.png",
+    "替换SHA256": "7050d43896be1a3ad8ab14306bc07d52eec8b02e2f893b44bbc249d817ac0567",
     "预览原图": null,
-    "预览替换": "data/preview/031f9e567301f1da2a7e2f0e70691ded62746164dfcbcce78c37b61581c2a76c.jpg",
+    "预览替换": "data/preview/7050d43896be1a3ad8ab14306bc07d52eec8b02e2f893b44bbc249d817ac0567.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "hanzo-567"
   },
@@ -1901,10 +2361,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/f07846c8aed83c53d184ef872916009c76ad5964d136ac45a79c15c009c4f497.png",
-    "替换SHA256": "f07846c8aed83c53d184ef872916009c76ad5964d136ac45a79c15c009c4f497",
+    "替换文件": "data/after/39c2c592d994d9feb4a54284e3a8d2bcba4f8bc176d1dd855c3d888b5bd128f6.png",
+    "替换SHA256": "39c2c592d994d9feb4a54284e3a8d2bcba4f8bc176d1dd855c3d888b5bd128f6",
     "预览原图": null,
-    "预览替换": "data/preview/f07846c8aed83c53d184ef872916009c76ad5964d136ac45a79c15c009c4f497.jpg",
+    "预览替换": "data/preview/39c2c592d994d9feb4a54284e3a8d2bcba4f8bc176d1dd855c3d888b5bd128f6.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "sakakibara-568"
   },
@@ -2392,6 +2852,52 @@
     "差分": "plupet-avatar"
   },
   {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00821.QNT",
+    "指针": 269,
+    "资源编号": [
+      821
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/88d00a048f6fc81f45a05a8f04f76ee29981a871d031c9e272849d0288d77b18.png",
+    "替换SHA256": "88d00a048f6fc81f45a05a8f04f76ee29981a871d031c9e272849d0288d77b18",
+    "预览原图": null,
+    "预览替换": "data/preview/88d00a048f6fc81f45a05a8f04f76ee29981a871d031c9e272849d0288d77b18.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-standing"
+  },
+  {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg00826.QNT",
+    "指针": 270,
+    "资源编号": [
+      826
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/db20925f641faa727ded53fb201dd7da3c86cc788bd388b196a0ac9cccf264ea.png",
+    "替换SHA256": "db20925f641faa727ded53fb201dd7da3c86cc788bd388b196a0ac9cccf264ea",
+    "预览原图": null,
+    "预览替换": "data/preview/db20925f641faa727ded53fb201dd7da3c86cc788bd388b196a0ac9cccf264ea.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-portrait"
+  },
+  {
     "势力": "尼子家残党",
     "武将": "山中子鹿",
     "角色ID": "name-137",
@@ -2453,10 +2959,10 @@
       800,
       600
     ],
-    "替换文件": "data/after/92c4d92d59283341ed3028ea76a0ba45cecc7cc094bd5f40b9e427c8ba090296.png",
-    "替换SHA256": "92c4d92d59283341ed3028ea76a0ba45cecc7cc094bd5f40b9e427c8ba090296",
+    "替换文件": "data/after/5ab5dc556b552c44e68d434a17939dfc1aef882913f4209b15ef892eb417ef1f.png",
+    "替换SHA256": "5ab5dc556b552c44e68d434a17939dfc1aef882913f4209b15ef892eb417ef1f",
     "预览原图": null,
-    "预览替换": "data/preview/92c4d92d59283341ed3028ea76a0ba45cecc7cc094bd5f40b9e427c8ba090296.jpg",
+    "预览替换": "data/preview/5ab5dc556b552c44e68d434a17939dfc1aef882913f4209b15ef892eb417ef1f.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "fuuka-standing"
   },
@@ -2476,10 +2982,10 @@
       800,
       600
     ],
-    "替换文件": "data/after/4a06242560976a976aa5ad6d1237c530aae9259b98f26984a0551093f81a2a8b.png",
-    "替换SHA256": "4a06242560976a976aa5ad6d1237c530aae9259b98f26984a0551093f81a2a8b",
+    "替换文件": "data/after/da5a00cbd2e9a981b87dfca2c5bf566adf1473b40e4048dd23935c4922bad4f5.png",
+    "替换SHA256": "da5a00cbd2e9a981b87dfca2c5bf566adf1473b40e4048dd23935c4922bad4f5",
     "预览原图": null,
-    "预览替换": "data/preview/4a06242560976a976aa5ad6d1237c530aae9259b98f26984a0551093f81a2a8b.jpg",
+    "预览替换": "data/preview/da5a00cbd2e9a981b87dfca2c5bf566adf1473b40e4048dd23935c4922bad4f5.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "fuuka-red-eyes"
   },
@@ -2499,10 +3005,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/add2b78beec3fc796c2e3e93aaa0fd022282cb380c7c93f672fa1b4b5e921b01.png",
-    "替换SHA256": "add2b78beec3fc796c2e3e93aaa0fd022282cb380c7c93f672fa1b4b5e921b01",
+    "替换文件": "data/after/e9a2c18f51ce37b8133a4b81cd15d23d01076028aa131380a4e1170b7745e536.png",
+    "替换SHA256": "e9a2c18f51ce37b8133a4b81cd15d23d01076028aa131380a4e1170b7745e536",
     "预览原图": null,
-    "预览替换": "data/preview/add2b78beec3fc796c2e3e93aaa0fd022282cb380c7c93f672fa1b4b5e921b01.jpg",
+    "预览替换": "data/preview/e9a2c18f51ce37b8133a4b81cd15d23d01076028aa131380a4e1170b7745e536.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "fuuka-avatar"
   },
@@ -2574,6 +3080,75 @@
     "预览替换": "data/preview/3c408f22d94f97a0c234012f8b35aedcbf0821b8f29e9fc62ccbb8eaf895439b.jpg",
     "来源批次": "portrait-scale-adjustment",
     "差分": "keiji-portrait"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg01311.QNT",
+    "指针": 410,
+    "资源编号": [
+      1311
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/e6472ba91c528e622f07042eefe6f450586a7d510149118de43a5cb7abe1214f.png",
+    "替换SHA256": "e6472ba91c528e622f07042eefe6f450586a7d510149118de43a5cb7abe1214f",
+    "预览原图": null,
+    "预览替换": "data/preview/e6472ba91c528e622f07042eefe6f450586a7d510149118de43a5cb7abe1214f.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-1311"
+  },
+  {
+    "势力": "上杉家",
+    "武将": "上杉谦信",
+    "角色ID": "name-88",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg01501.QNT",
+    "指针": 426,
+    "资源编号": [
+      1501
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/3db91d1a1500068277e51271dcc535249385d122d6d6f5c0bad27f97eb62807f.png",
+    "替换SHA256": "3db91d1a1500068277e51271dcc535249385d122d6d6f5c0bad27f97eb62807f",
+    "预览原图": null,
+    "预览替换": "data/preview/3db91d1a1500068277e51271dcc535249385d122d6d6f5c0bad27f97eb62807f.jpg",
+    "来源批次": "kenshin-reference",
+    "差分": "kenshin-1501"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg01503.QNT",
+    "指针": 428,
+    "资源编号": [
+      1503
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/cb62e6762135c4b28a7ba4025f2cd505a3b79311682ae76d2af5c4a3cf6fcbfd.png",
+    "替换SHA256": "cb62e6762135c4b28a7ba4025f2cd505a3b79311682ae76d2af5c4a3cf6fcbfd",
+    "预览原图": null,
+    "预览替换": "data/preview/cb62e6762135c4b28a7ba4025f2cd505a3b79311682ae76d2af5c4a3cf6fcbfd.jpg",
+    "来源批次": "hojo-army-upgrade",
+    "差分": "hojo-army-cg01503"
   },
   {
     "势力": "织田家",
@@ -2668,6 +3243,29 @@
     "差分": "kuge-tsuyoko"
   },
   {
+    "势力": "上杉家",
+    "武将": "上杉宪政",
+    "角色ID": "name-157",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg05458.QNT",
+    "指针": 783,
+    "资源编号": [
+      5458
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/83602cbc69e97b298a8f802b1b90028b6e328636901680f5e30afd0d145a3b0b.png",
+    "替换SHA256": "83602cbc69e97b298a8f802b1b90028b6e328636901680f5e30afd0d145a3b0b",
+    "预览原图": null,
+    "预览替换": "data/preview/83602cbc69e97b298a8f802b1b90028b6e328636901680f5e30afd0d145a3b0b.jpg",
+    "来源批次": "norimasa-reference",
+    "差分": "norimasa-5458"
+  },
+  {
     "势力": "织田家",
     "武将": "织田信长",
     "角色ID": "name-6",
@@ -2712,6 +3310,29 @@
     "预览替换": "data/preview/f99e05beefb03b0b6479660677198d52659941aedcdfe617a353a21243b787e9.jpg",
     "来源批次": "shingen-reference",
     "差分": "shingen-map"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg10454.QNT",
+    "指针": 1258,
+    "资源编号": [
+      10454
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/7d4cd2af54626056ff411689e7deeb858b07c9a8d051b69f0860c505ec30cff6.png",
+    "替换SHA256": "7d4cd2af54626056ff411689e7deeb858b07c9a8d051b69f0860c505ec30cff6",
+    "预览原图": null,
+    "预览替换": "data/preview/7d4cd2af54626056ff411689e7deeb858b07c9a8d051b69f0860c505ec30cff6.jpg",
+    "来源批次": "soun-faction-upgrade",
+    "差分": "soun-faction-Rance7GM.ald"
   },
   {
     "势力": "上杉家",
@@ -2783,6 +3404,29 @@
     "差分": "tanegashima-map"
   },
   {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg10460.QNT",
+    "指针": 1264,
+    "资源编号": [
+      10460
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/1c55a39f6383b941ef0db7b32383b65f1ae5148a952da7a7b267063ecb1c6ed3.png",
+    "替换SHA256": "1c55a39f6383b941ef0db7b32383b65f1ae5148a952da7a7b267063ecb1c6ed3",
+    "预览原图": null,
+    "预览替换": "data/preview/1c55a39f6383b941ef0db7b32383b65f1ae5148a952da7a7b267063ecb1c6ed3.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-faction-Rance7GM.ald"
+  },
+  {
     "势力": "伊贺家",
     "武将": "犬饲",
     "角色ID": "name-74",
@@ -2850,6 +3494,29 @@
     "预览替换": "data/preview/b7067a7c0da327024fcad38ae26c8e670214dd60156b7a3f83dd68b7b2159472.jpg",
     "来源批次": "ashikaga-reference",
     "差分": "ashikaga-10463"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "other",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg10464.QNT",
+    "指针": 1268,
+    "资源编号": [
+      10464
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/ff1882ba68c5fd8e1345a2f40b682a7501a688c7ebe41b577ef62b3f7f4738eb.png",
+    "替换SHA256": "ff1882ba68c5fd8e1345a2f40b682a7501a688c7ebe41b577ef62b3f7f4738eb",
+    "预览原图": null,
+    "预览替换": "data/preview/ff1882ba68c5fd8e1345a2f40b682a7501a688c7ebe41b577ef62b3f7f4738eb.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-faction"
   },
   {
     "势力": "拓牙家",
@@ -2991,6 +3658,29 @@
   },
   {
     "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "battle",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg13026.QNT",
+    "指针": 1541,
+    "资源编号": [
+      13026
+    ],
+    "别名指针": [],
+    "尺寸": [
+      270,
+      270
+    ],
+    "替换文件": "data/after/a38d43a3c451b5a06f8c6aec70798fa4b936c74f5ffe3d5de5c4105d73fe811b.png",
+    "替换SHA256": "a38d43a3c451b5a06f8c6aec70798fa4b936c74f5ffe3d5de5c4105d73fe811b",
+    "预览原图": null,
+    "预览替换": "data/preview/a38d43a3c451b5a06f8c6aec70798fa4b936c74f5ffe3d5de5c4105d73fe811b.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-13026"
+  },
+  {
+    "势力": "足利家",
     "武将": "一休",
     "角色ID": "name-34",
     "素材类型": "battle",
@@ -3011,6 +3701,29 @@
     "预览替换": "data/preview/dfb13fbfe27fbb7ae29496fc1e7f1c783da2de5e325fb84be6d4a100989676e4.jpg",
     "来源批次": "ikkyu-reference",
     "差分": "ikkyu-battle"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "battle",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg13028.QNT",
+    "指针": 1543,
+    "资源编号": [
+      13028
+    ],
+    "别名指针": [],
+    "尺寸": [
+      270,
+      270
+    ],
+    "替换文件": "data/after/bcfd086ae98a11f789eb68fdec354b7aba9bafec81369353eaac7c224ab195fc.png",
+    "替换SHA256": "bcfd086ae98a11f789eb68fdec354b7aba9bafec81369353eaac7c224ab195fc",
+    "预览原图": null,
+    "预览替换": "data/preview/bcfd086ae98a11f789eb68fdec354b7aba9bafec81369353eaac7c224ab195fc.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-battle"
   },
   {
     "势力": "拓牙家",
@@ -3220,6 +3933,29 @@
     "差分": "sakakibara-13046"
   },
   {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "battle",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg13050.QNT",
+    "指针": 1565,
+    "资源编号": [
+      13050
+    ],
+    "别名指针": [],
+    "尺寸": [
+      270,
+      270
+    ],
+    "替换文件": "data/after/e459e0ed4c37c3faf9cecaf6227856aeaa6e8cacf5eea96b54865ab4304c4e2e.png",
+    "替换SHA256": "e459e0ed4c37c3faf9cecaf6227856aeaa6e8cacf5eea96b54865ab4304c4e2e",
+    "预览原图": null,
+    "预览替换": "data/preview/e459e0ed4c37c3faf9cecaf6227856aeaa6e8cacf5eea96b54865ab4304c4e2e.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-battle"
+  },
+  {
     "势力": "武田家",
     "武将": "真田透琳",
     "角色ID": "name-84",
@@ -3358,6 +4094,29 @@
     "差分": "inukai-combat-13065"
   },
   {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "battle",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg13072.QNT",
+    "指针": 1587,
+    "资源编号": [
+      13072
+    ],
+    "别名指针": [],
+    "尺寸": [
+      270,
+      270
+    ],
+    "替换文件": "data/after/3bcb1cec88abdcca4e164de1f158c65b1556d327e73eae0357f7a3b938fda2da.png",
+    "替换SHA256": "3bcb1cec88abdcca4e164de1f158c65b1556d327e73eae0357f7a3b938fda2da",
+    "预览原图": null,
+    "预览替换": "data/preview/3bcb1cec88abdcca4e164de1f158c65b1556d327e73eae0357f7a3b938fda2da.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-battle"
+  },
+  {
     "势力": "织田家",
     "武将": "柴田胜家",
     "角色ID": "name-14",
@@ -3428,6 +4187,29 @@
   },
   {
     "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "battle",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg13326.QNT",
+    "指针": 1678,
+    "资源编号": [
+      13326
+    ],
+    "别名指针": [],
+    "尺寸": [
+      340,
+      290
+    ],
+    "替换文件": "data/after/9e8fae2daae056d21deecfb2cbb595ef39c87f96ac19e1fc368d8dfc8921f4ac.png",
+    "替换SHA256": "9e8fae2daae056d21deecfb2cbb595ef39c87f96ac19e1fc368d8dfc8921f4ac",
+    "预览原图": null,
+    "预览替换": "data/preview/9e8fae2daae056d21deecfb2cbb595ef39c87f96ac19e1fc368d8dfc8921f4ac.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-13326"
+  },
+  {
+    "势力": "足利家",
     "武将": "一休",
     "角色ID": "name-34",
     "素材类型": "battle",
@@ -3448,6 +4230,29 @@
     "预览替换": "data/preview/9e59a59f5c8968bb6e05d70a6669283aea500ce1b8af9289aea89b49b26ec9ab.jpg",
     "来源批次": "ikkyu-reference",
     "差分": "ikkyu-battle-cast"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "battle",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg13328.QNT",
+    "指针": 1680,
+    "资源编号": [
+      13328
+    ],
+    "别名指针": [],
+    "尺寸": [
+      340,
+      290
+    ],
+    "替换文件": "data/after/ac731f6f4c8a008af2e6ed5c1631fa8c15e3c94d1f3498ea01e2417f1199a146.png",
+    "替换SHA256": "ac731f6f4c8a008af2e6ed5c1631fa8c15e3c94d1f3498ea01e2417f1199a146",
+    "预览原图": null,
+    "预览替换": "data/preview/ac731f6f4c8a008af2e6ed5c1631fa8c15e3c94d1f3498ea01e2417f1199a146.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-attack"
   },
   {
     "势力": "拓牙家",
@@ -3634,6 +4439,29 @@
     "差分": "sakakibara-13346"
   },
   {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "battle",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg13350.QNT",
+    "指针": 1702,
+    "资源编号": [
+      13350
+    ],
+    "别名指针": [],
+    "尺寸": [
+      340,
+      290
+    ],
+    "替换文件": "data/after/e04e5e614133ad143dc8bd9f052bcc309322f9a2bf06efd87e8796994f91bb4b.png",
+    "替换SHA256": "e04e5e614133ad143dc8bd9f052bcc309322f9a2bf06efd87e8796994f91bb4b",
+    "预览原图": null,
+    "预览替换": "data/preview/e04e5e614133ad143dc8bd9f052bcc309322f9a2bf06efd87e8796994f91bb4b.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-attack"
+  },
+  {
     "势力": "武田家",
     "武将": "真田透琳",
     "角色ID": "name-84",
@@ -3772,6 +4600,29 @@
     "差分": "inukai-combat-13365"
   },
   {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "battle",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg13372.QNT",
+    "指针": 1724,
+    "资源编号": [
+      13372
+    ],
+    "别名指针": [],
+    "尺寸": [
+      340,
+      290
+    ],
+    "替换文件": "data/after/99dde5d657c15352840d815d81d65092a0c13e17d33d9998627ac410300ebbaf.png",
+    "替换SHA256": "99dde5d657c15352840d815d81d65092a0c13e17d33d9998627ac410300ebbaf",
+    "预览原图": null,
+    "预览替换": "data/preview/99dde5d657c15352840d815d81d65092a0c13e17d33d9998627ac410300ebbaf.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-attack"
+  },
+  {
     "势力": "原家",
     "武将": "原昌示",
     "角色ID": "name-35",
@@ -3795,27 +4646,27 @@
     "差分": "hara-battle-purple"
   },
   {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "portrait",
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "battle",
     "来源包": "Rance7GM.ald",
-    "原生文件": "cg50016.QNT",
-    "指针": 6154,
+    "原生文件": "cg13626.QNT",
+    "指针": 1791,
     "资源编号": [
-      50016
+      13626
     ],
     "别名指针": [],
     "尺寸": [
-      65,
-      72
+      340,
+      290
     ],
-    "替换文件": "data/after/8b65bf734748740634e8bae1595afb4c0a1110cc2f26577558cac165dd92dd73.png",
-    "替换SHA256": "8b65bf734748740634e8bae1595afb4c0a1110cc2f26577558cac165dd92dd73",
+    "替换文件": "data/after/17689d61f2f1bf074e19c5019c1a415da09c9a46a92e46473d71b82367353ad3.png",
+    "替换SHA256": "17689d61f2f1bf074e19c5019c1a415da09c9a46a92e46473d71b82367353ad3",
     "预览原图": null,
-    "预览替换": "data/preview/8b65bf734748740634e8bae1595afb4c0a1110cc2f26577558cac165dd92dd73.jpg",
-    "来源批次": "sill-suzume-small-portraits",
-    "差分": "small-50016"
+    "预览替换": "data/preview/17689d61f2f1bf074e19c5019c1a415da09c9a46a92e46473d71b82367353ad3.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-13626"
   },
   {
     "势力": "伊贺家",
@@ -3888,6 +4739,29 @@
   },
   {
     "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50049.QNT",
+    "指针": 6158,
+    "资源编号": [
+      50049
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/d9eacdfd4267cfb1ba1257839841756b6c19a041d744438e660d5ce4053edcda.png",
+    "替换SHA256": "d9eacdfd4267cfb1ba1257839841756b6c19a041d744438e660d5ce4053edcda",
+    "预览原图": null,
+    "预览替换": "data/preview/d9eacdfd4267cfb1ba1257839841756b6c19a041d744438e660d5ce4053edcda.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-small-armor"
+  },
+  {
+    "势力": "织田家",
     "武将": "柴田胜家",
     "角色ID": "name-14",
     "素材类型": "portrait",
@@ -3933,6 +4807,75 @@
     "差分": "ranmaru-icon"
   },
   {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50166.QNT",
+    "指针": 6170,
+    "资源编号": [
+      50166
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/ab0d07aa3d475a3adeb24c3853eab11d2cf76e9017568f0da79402b3b7d946ae.png",
+    "替换SHA256": "ab0d07aa3d475a3adeb24c3853eab11d2cf76e9017568f0da79402b3b7d946ae",
+    "预览原图": null,
+    "预览替换": "data/preview/ab0d07aa3d475a3adeb24c3853eab11d2cf76e9017568f0da79402b3b7d946ae.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-small-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "大道寺小松",
+    "角色ID": "name-49",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50176.QNT",
+    "指针": 6171,
+    "资源编号": [
+      50176
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/0149cb8f542283af356e7037316c3c30530a189f52b66d3fac57f4cce7199fcc.png",
+    "替换SHA256": "0149cb8f542283af356e7037316c3c30530a189f52b66d3fac57f4cce7199fcc",
+    "预览原图": null,
+    "预览替换": "data/preview/0149cb8f542283af356e7037316c3c30530a189f52b66d3fac57f4cce7199fcc.jpg",
+    "来源批次": "daidouji-reference",
+    "差分": "daidouji-50176"
+  },
+  {
+    "势力": "北条家",
+    "武将": "南条兰",
+    "角色ID": "name-50",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50186.QNT",
+    "指针": 6172,
+    "资源编号": [
+      50186
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/ca1ed11a79e012888d748ae5464706084347911781047bd86413cb1780d18c4e.png",
+    "替换SHA256": "ca1ed11a79e012888d748ae5464706084347911781047bd86413cb1780d18c4e",
+    "预览原图": null,
+    "预览替换": "data/preview/ca1ed11a79e012888d748ae5464706084347911781047bd86413cb1780d18c4e.jpg",
+    "来源批次": "ran-reference",
+    "差分": "ran-upgrade-small"
+  },
+  {
     "势力": "足利家",
     "武将": "足利超神",
     "角色ID": "name-31",
@@ -3954,6 +4897,29 @@
     "预览替换": "data/preview/2c04f4606e0cd114941046a426429a74d7a539917eba6b64dc53225f6c1dda37.jpg",
     "来源批次": "ashikaga-reference",
     "差分": "ashikaga-small-avatar"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50216.QNT",
+    "指针": 6176,
+    "资源编号": [
+      50216
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/89317e716640cea3513fcfbb8e26359b856621c5b0e09a2aad8e7e7442d2f66a.png",
+    "替换SHA256": "89317e716640cea3513fcfbb8e26359b856621c5b0e09a2aad8e7e7442d2f66a",
+    "预览原图": null,
+    "预览替换": "data/preview/89317e716640cea3513fcfbb8e26359b856621c5b0e09a2aad8e7e7442d2f66a.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-50216"
   },
   {
     "势力": "足利家",
@@ -4040,12 +5006,35 @@
       65,
       72
     ],
-    "替换文件": "data/after/958d0e3c7ee959f5a11dfb20a0b4021178df29a07af7d476939353b71a114c69.png",
-    "替换SHA256": "958d0e3c7ee959f5a11dfb20a0b4021178df29a07af7d476939353b71a114c69",
+    "替换文件": "data/after/13154261bbf116cbec23be1e6dfc0e2df6eaa1c89859ad82d24d1c1ed4f0ff34.png",
+    "替换SHA256": "13154261bbf116cbec23be1e6dfc0e2df6eaa1c89859ad82d24d1c1ed4f0ff34",
     "预览原图": null,
-    "预览替换": "data/preview/958d0e3c7ee959f5a11dfb20a0b4021178df29a07af7d476939353b71a114c69.jpg",
+    "预览替换": "data/preview/13154261bbf116cbec23be1e6dfc0e2df6eaa1c89859ad82d24d1c1ed4f0ff34.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "oju-small-avatar"
+  },
+  {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50256.QNT",
+    "指针": 6181,
+    "资源编号": [
+      50256
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/94f6257699c4d8ebd5048bbca2d8ebb13aa0cd39d3ccb9356faa83d46599dcb9.png",
+    "替换SHA256": "94f6257699c4d8ebd5048bbca2d8ebb13aa0cd39d3ccb9356faa83d46599dcb9",
+    "预览原图": null,
+    "预览替换": "data/preview/94f6257699c4d8ebd5048bbca2d8ebb13aa0cd39d3ccb9356faa83d46599dcb9.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-50256"
   },
   {
     "势力": "浅井朝仓家",
@@ -4092,6 +5081,52 @@
     "预览替换": "data/preview/9f0034fa27f0ca74d52dbde638501f729435d8ca3d59f8b789410064657d0a34.jpg",
     "来源批次": "tanegashima-reference",
     "差分": "tanegashima-small-portrait"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50396.QNT",
+    "指针": 6192,
+    "资源编号": [
+      50396
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/89a9f45149ca33460529111744a643000b7c9eaedeb4fa275c5a341f7a11ca81.png",
+    "替换SHA256": "89a9f45149ca33460529111744a643000b7c9eaedeb4fa275c5a341f7a11ca81",
+    "预览原图": null,
+    "预览替换": "data/preview/89a9f45149ca33460529111744a643000b7c9eaedeb4fa275c5a341f7a11ca81.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-small"
+  },
+  {
+    "势力": "天志教",
+    "武将": "言里",
+    "角色ID": "name-56",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50406.QNT",
+    "指针": 6193,
+    "资源编号": [
+      50406
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/e71586c2198722d266361684e2a6ba86f303d1ee57743784815909b05e6c2339.png",
+    "替换SHA256": "e71586c2198722d266361684e2a6ba86f303d1ee57743784815909b05e6c2339",
+    "预览原图": null,
+    "预览替换": "data/preview/e71586c2198722d266361684e2a6ba86f303d1ee57743784815909b05e6c2339.jpg",
+    "来源批次": "gonri-reference",
+    "差分": "gonri-50406"
   },
   {
     "势力": "拓牙家",
@@ -4155,10 +5190,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/07c348c0ac2e166478ba73608459c7eb3ecbb9fdcc480dc2c844751e12c49d05.png",
-    "替换SHA256": "07c348c0ac2e166478ba73608459c7eb3ecbb9fdcc480dc2c844751e12c49d05",
+    "替换文件": "data/after/bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72.png",
+    "替换SHA256": "bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72",
     "预览原图": null,
-    "预览替换": "data/preview/07c348c0ac2e166478ba73608459c7eb3ecbb9fdcc480dc2c844751e12c49d05.jpg",
+    "预览替换": "data/preview/bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "hanzo-50562"
   },
@@ -4178,10 +5213,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/3b1019b97da620af770208019363156779bc3f3102864ef6ceab0dd0d4564759.png",
-    "替换SHA256": "3b1019b97da620af770208019363156779bc3f3102864ef6ceab0dd0d4564759",
+    "替换文件": "data/after/771a00f3331c8acb93de22c2b16ef627f52f29efdfc8fed9a7de5a7f2e28cb41.png",
+    "替换SHA256": "771a00f3331c8acb93de22c2b16ef627f52f29efdfc8fed9a7de5a7f2e28cb41",
     "预览原图": null,
-    "预览替换": "data/preview/3b1019b97da620af770208019363156779bc3f3102864ef6ceab0dd0d4564759.jpg",
+    "预览替换": "data/preview/771a00f3331c8acb93de22c2b16ef627f52f29efdfc8fed9a7de5a7f2e28cb41.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "sakai-50563"
   },
@@ -4201,10 +5236,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/35bc6da047a27abc13c88c6993d8fb5558a0446e97e5f0a234b9dc38962c0836.png",
-    "替换SHA256": "35bc6da047a27abc13c88c6993d8fb5558a0446e97e5f0a234b9dc38962c0836",
+    "替换文件": "data/after/926f240b4e37e7e71800ff409f62bd9fe70e5aa0e25ed973cad748259e83ccb5.png",
+    "替换SHA256": "926f240b4e37e7e71800ff409f62bd9fe70e5aa0e25ed973cad748259e83ccb5",
     "预览原图": null,
-    "预览替换": "data/preview/35bc6da047a27abc13c88c6993d8fb5558a0446e97e5f0a234b9dc38962c0836.jpg",
+    "预览替换": "data/preview/926f240b4e37e7e71800ff409f62bd9fe70e5aa0e25ed973cad748259e83ccb5.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "ii-50566"
   },
@@ -4224,10 +5259,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/4d891b1384bf06ba30e0c3b6b49c106d49740498268065b156e1d87c1c580493.png",
-    "替换SHA256": "4d891b1384bf06ba30e0c3b6b49c106d49740498268065b156e1d87c1c580493",
+    "替换文件": "data/after/bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72.png",
+    "替换SHA256": "bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72",
     "预览原图": null,
-    "预览替换": "data/preview/4d891b1384bf06ba30e0c3b6b49c106d49740498268065b156e1d87c1c580493.jpg",
+    "预览替换": "data/preview/bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "hanzo-50567"
   },
@@ -4247,10 +5282,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/0f9d7f7fd163f49f541b112fe449f3fb890f73cba045b004fd08b62b27d26ed3.png",
-    "替换SHA256": "0f9d7f7fd163f49f541b112fe449f3fb890f73cba045b004fd08b62b27d26ed3",
+    "替换文件": "data/after/86fb4d8291e32cea7802b3574df61a19235eb3ecd5b1bfc47176a6617ed4658a.png",
+    "替换SHA256": "86fb4d8291e32cea7802b3574df61a19235eb3ecd5b1bfc47176a6617ed4658a",
     "预览原图": null,
-    "预览替换": "data/preview/0f9d7f7fd163f49f541b112fe449f3fb890f73cba045b004fd08b62b27d26ed3.jpg",
+    "预览替换": "data/preview/86fb4d8291e32cea7802b3574df61a19235eb3ecd5b1bfc47176a6617ed4658a.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "sakakibara-50568"
   },
@@ -4408,10 +5443,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/d8949c12445075045e858d3420d90f9ffcabed9c267f15abd3b69487c120ae75.png",
-    "替换SHA256": "d8949c12445075045e858d3420d90f9ffcabed9c267f15abd3b69487c120ae75",
+    "替换文件": "data/after/16129c24be8143288fae2cd42ec8d328712e1020eef20aa37fd47e9fe963282f.png",
+    "替换SHA256": "16129c24be8143288fae2cd42ec8d328712e1020eef20aa37fd47e9fe963282f",
     "预览原图": null,
-    "预览替换": "data/preview/d8949c12445075045e858d3420d90f9ffcabed9c267f15abd3b69487c120ae75.jpg",
+    "预览替换": "data/preview/16129c24be8143288fae2cd42ec8d328712e1020eef20aa37fd47e9fe963282f.jpg",
     "来源批次": "shingen-reference",
     "差分": "shingen-small-portrait"
   },
@@ -4462,6 +5497,29 @@
     "差分": "nobunaga-icon-50768"
   },
   {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50826.QNT",
+    "指针": 6252,
+    "资源编号": [
+      50826
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/96b8844795c73d08d0b3ba1d0192ffa3fe37c5ed4d57ebc87dc9d135cd4d9439.png",
+    "替换SHA256": "96b8844795c73d08d0b3ba1d0192ffa3fe37c5ed4d57ebc87dc9d135cd4d9439",
+    "预览原图": null,
+    "预览替换": "data/preview/96b8844795c73d08d0b3ba1d0192ffa3fe37c5ed4d57ebc87dc9d135cd4d9439.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-small-portrait"
+  },
+  {
     "势力": "尼子家残党",
     "武将": "山中子鹿",
     "角色ID": "name-137",
@@ -4483,6 +5541,29 @@
     "预览替换": "data/preview/2cedf63086ba1f2f3c3e1eba6c816f5d879c209ec4400b807b4b6db6d3181161.jpg",
     "来源批次": "kojika-reference",
     "差分": "kojika-small-portrait"
+  },
+  {
+    "势力": "巫女机关",
+    "武将": "玉签风华",
+    "角色ID": "name-141",
+    "素材类型": "portrait",
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg50866.QNT",
+    "指针": 6255,
+    "资源编号": [
+      50866
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/5e2d2d7e1181541097ed3763d91afdfc02f2c041be01e26f2c1144da1072808f.png",
+    "替换SHA256": "5e2d2d7e1181541097ed3763d91afdfc02f2c041be01e26f2c1144da1072808f",
+    "预览原图": null,
+    "预览替换": "data/preview/5e2d2d7e1181541097ed3763d91afdfc02f2c041be01e26f2c1144da1072808f.jpg",
+    "来源批次": "fuuka-oju-reference",
+    "差分": "fuuka-50866"
   },
   {
     "势力": "织田家",
@@ -4646,119 +5727,27 @@
     "差分": "kuge-tsuyoko-small"
   },
   {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "other",
-    "来源包": "rance7GA.ald",
-    "原生文件": "cg00011.QNT",
-    "指针": 8,
-    "资源编号": [
-      11
-    ],
-    "别名指针": [],
-    "尺寸": [
-      800,
-      600
-    ],
-    "替换文件": "data/after/4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419.png",
-    "替换SHA256": "4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419",
-    "预览原图": null,
-    "预览替换": "data/preview/4ba012f7ddb6302c40030016af8f284ffebf44574391e7784e1b8f370886f419.jpg",
-    "来源批次": "sill-reference",
-    "差分": "sill-clothed"
-  },
-  {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "other",
-    "来源包": "rance7GA.ald",
-    "原生文件": "cg00012.QNT",
-    "指针": 9,
-    "资源编号": [
-      12
-    ],
-    "别名指针": [],
-    "尺寸": [
-      800,
-      600
-    ],
-    "替换文件": "data/after/dfec165795c0efac236e2454754208b19a5eaa002438d617e561c2164a84c8cb.png",
-    "替换SHA256": "dfec165795c0efac236e2454754208b19a5eaa002438d617e561c2164a84c8cb",
-    "预览原图": null,
-    "预览替换": "data/preview/dfec165795c0efac236e2454754208b19a5eaa002438d617e561c2164a84c8cb.jpg",
-    "来源批次": "sill-reference",
-    "差分": "sill-covered"
-  },
-  {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
+    "势力": "上杉家",
+    "武将": "上杉宪政",
+    "角色ID": "name-157",
     "素材类型": "portrait",
-    "来源包": "rance7GA.ald",
-    "原生文件": "cg00016.QNT",
-    "指针": 10,
+    "来源包": "Rance7GM.ald",
+    "原生文件": "cg55458.QNT",
+    "指针": 6354,
     "资源编号": [
-      16
+      55458
     ],
     "别名指针": [],
     "尺寸": [
-      186,
-      220
+      65,
+      72
     ],
-    "替换文件": "data/after/22bc31b07b725db7721ab371a4191ad087a953eecab69e5d974a9a72bc9af4df.png",
-    "替换SHA256": "22bc31b07b725db7721ab371a4191ad087a953eecab69e5d974a9a72bc9af4df",
+    "替换文件": "data/after/ae3a7dbb3544cabbd5aa4109c7e241b2941c901b57b502be453b939a893c263c.png",
+    "替换SHA256": "ae3a7dbb3544cabbd5aa4109c7e241b2941c901b57b502be453b939a893c263c",
     "预览原图": null,
-    "预览替换": "data/preview/22bc31b07b725db7721ab371a4191ad087a953eecab69e5d974a9a72bc9af4df.jpg",
-    "来源批次": "sill-portraits",
-    "差分": "sill-head-16"
-  },
-  {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "portrait",
-    "来源包": "rance7GA.ald",
-    "原生文件": "cg00017.QNT",
-    "指针": 11,
-    "资源编号": [
-      17
-    ],
-    "别名指针": [],
-    "尺寸": [
-      186,
-      220
-    ],
-    "替换文件": "data/after/b7836efc83251cf67f4f49d0a7057991040de344af280ae50f63f54c8cd8f471.png",
-    "替换SHA256": "b7836efc83251cf67f4f49d0a7057991040de344af280ae50f63f54c8cd8f471",
-    "预览原图": null,
-    "预览替换": "data/preview/b7836efc83251cf67f4f49d0a7057991040de344af280ae50f63f54c8cd8f471.jpg",
-    "来源批次": "sill-portraits",
-    "差分": "sill-head-17-bashful"
-  },
-  {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "portrait",
-    "来源包": "rance7GA.ald",
-    "原生文件": "cg00018.QNT",
-    "指针": 12,
-    "资源编号": [
-      18
-    ],
-    "别名指针": [],
-    "尺寸": [
-      186,
-      220
-    ],
-    "替换文件": "data/after/d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72.png",
-    "替换SHA256": "d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72",
-    "预览原图": null,
-    "预览替换": "data/preview/d270b6891d3bb7a5af3283966e036635238cec41634aeb4699371448062ccc72.jpg",
-    "来源批次": "sill-portraits",
-    "差分": "sill-head-17-cry"
+    "预览替换": "data/preview/ae3a7dbb3544cabbd5aa4109c7e241b2941c901b57b502be453b939a893c263c.jpg",
+    "来源批次": "norimasa-reference",
+    "差分": "norimasa-55458"
   },
   {
     "势力": "伊贺家",
@@ -5037,6 +6026,144 @@
     "差分": "nobunaga-38"
   },
   {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00041.QNT",
+    "指针": 25,
+    "资源编号": [
+      41
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/b1cb0226448c39cec6a6effb3a8ada0b147a1f6ac44068a7a6a7a5f9a8a65c88.png",
+    "替换SHA256": "b1cb0226448c39cec6a6effb3a8ada0b147a1f6ac44068a7a6a7a5f9a8a65c88",
+    "预览原图": null,
+    "预览替换": "data/preview/b1cb0226448c39cec6a6effb3a8ada0b147a1f6ac44068a7a6a7a5f9a8a65c88.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-normal"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00043.QNT",
+    "指针": 26,
+    "资源编号": [
+      43
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/4bc77614361cbf25fc2974fcca99d967b5e0432a62be0c82523606a35a196626.png",
+    "替换SHA256": "4bc77614361cbf25fc2974fcca99d967b5e0432a62be0c82523606a35a196626",
+    "预览原图": null,
+    "预览替换": "data/preview/4bc77614361cbf25fc2974fcca99d967b5e0432a62be0c82523606a35a196626.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-armor"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00046.QNT",
+    "指针": 27,
+    "资源编号": [
+      46
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/abff916620671d42a1f5bed391e6a675b51ee3d38167a538a205fd61709aaffe.png",
+    "替换SHA256": "abff916620671d42a1f5bed391e6a675b51ee3d38167a538a205fd61709aaffe",
+    "预览原图": null,
+    "预览替换": "data/preview/abff916620671d42a1f5bed391e6a675b51ee3d38167a538a205fd61709aaffe.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-head-normal"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00047.QNT",
+    "指针": 28,
+    "资源编号": [
+      47
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/5fbe841e3c9d9cbfe92e59c1ca3d8e08c8cab31e4d6e15e1e3eb89bf7c78b88d.png",
+    "替换SHA256": "5fbe841e3c9d9cbfe92e59c1ca3d8e08c8cab31e4d6e15e1e3eb89bf7c78b88d",
+    "预览原图": null,
+    "预览替换": "data/preview/5fbe841e3c9d9cbfe92e59c1ca3d8e08c8cab31e4d6e15e1e3eb89bf7c78b88d.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-head-surprise"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00048.QNT",
+    "指针": 29,
+    "资源编号": [
+      48
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/54822e9198eab3ab475c007d81cbcdcc4103289d3a8b27d7dd3d8b798e34376c.png",
+    "替换SHA256": "54822e9198eab3ab475c007d81cbcdcc4103289d3a8b27d7dd3d8b798e34376c",
+    "预览原图": null,
+    "预览替换": "data/preview/54822e9198eab3ab475c007d81cbcdcc4103289d3a8b27d7dd3d8b798e34376c.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-head-shy"
+  },
+  {
+    "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00049.QNT",
+    "指针": 30,
+    "资源编号": [
+      49
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/2a47e288e434652cf9b57827bb51039322583c481ca2fa735aed211ac72dd7fb.png",
+    "替换SHA256": "2a47e288e434652cf9b57827bb51039322583c481ca2fa735aed211ac72dd7fb",
+    "预览原图": null,
+    "预览替换": "data/preview/2a47e288e434652cf9b57827bb51039322583c481ca2fa735aed211ac72dd7fb.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-head-armor"
+  },
+  {
     "势力": "上杉家",
     "武将": "上杉谦信",
     "角色ID": "name-88",
@@ -5282,10 +6409,10 @@
       800,
       600
     ],
-    "替换文件": "data/after/6311bac774921570578ec6742d34fb8a93c6c5742c09fe9a4a3323cd106ebb88.png",
-    "替换SHA256": "6311bac774921570578ec6742d34fb8a93c6c5742c09fe9a4a3323cd106ebb88",
+    "替换文件": "data/after/bc7566c60cede1e53fec6ae74762c347612e9e8ca432be3c018571f466b9c7cd.png",
+    "替换SHA256": "bc7566c60cede1e53fec6ae74762c347612e9e8ca432be3c018571f466b9c7cd",
     "预览原图": null,
-    "预览替换": "data/preview/6311bac774921570578ec6742d34fb8a93c6c5742c09fe9a4a3323cd106ebb88.jpg",
+    "预览替换": "data/preview/bc7566c60cede1e53fec6ae74762c347612e9e8ca432be3c018571f466b9c7cd.jpg",
     "来源批次": "naoe-ai-reference",
     "差分": "naoe-ai-reference-cg00081"
   },
@@ -5305,10 +6432,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/4cb8d34865f252243c5fc7b48e9215fc8f2b714729e3b0f185155e7bd8591e53.png",
-    "替换SHA256": "4cb8d34865f252243c5fc7b48e9215fc8f2b714729e3b0f185155e7bd8591e53",
+    "替换文件": "data/after/8d00695da7273b41fab9e72bcf1ee78e98b0fa2f2e21edeca8d8fcd500b459cc.png",
+    "替换SHA256": "8d00695da7273b41fab9e72bcf1ee78e98b0fa2f2e21edeca8d8fcd500b459cc",
     "预览原图": null,
-    "预览替换": "data/preview/4cb8d34865f252243c5fc7b48e9215fc8f2b714729e3b0f185155e7bd8591e53.jpg",
+    "预览替换": "data/preview/8d00695da7273b41fab9e72bcf1ee78e98b0fa2f2e21edeca8d8fcd500b459cc.jpg",
     "来源批次": "naoe-ai-reference",
     "差分": "naoe-ai-reference-cg00086"
   },
@@ -5328,10 +6455,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/ca3e985951a722754e85456665c5813e018b9c881d0ff46361536c4b3af41dc5.png",
-    "替换SHA256": "ca3e985951a722754e85456665c5813e018b9c881d0ff46361536c4b3af41dc5",
+    "替换文件": "data/after/c2801c6c5114107c787bc4420b3cba5ceab6f02128c8f260db14b3dd15b51bf0.png",
+    "替换SHA256": "c2801c6c5114107c787bc4420b3cba5ceab6f02128c8f260db14b3dd15b51bf0",
     "预览原图": null,
-    "预览替换": "data/preview/ca3e985951a722754e85456665c5813e018b9c881d0ff46361536c4b3af41dc5.jpg",
+    "预览替换": "data/preview/c2801c6c5114107c787bc4420b3cba5ceab6f02128c8f260db14b3dd15b51bf0.jpg",
     "来源批次": "naoe-ai-reference",
     "差分": "naoe-ai-reference-cg00087"
   },
@@ -5636,6 +6763,190 @@
   },
   {
     "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00161.QNT",
+    "指针": 79,
+    "资源编号": [
+      161
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/5f1d0bb5d749ae159fa21a11bd08e952f982c1aafcc4ac4880a34e74c40f2410.png",
+    "替换SHA256": "5f1d0bb5d749ae159fa21a11bd08e952f982c1aafcc4ac4880a34e74c40f2410",
+    "预览原图": null,
+    "预览替换": "data/preview/5f1d0bb5d749ae159fa21a11bd08e952f982c1aafcc4ac4880a34e74c40f2410.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-normal-standing"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00162.QNT",
+    "指针": 80,
+    "资源编号": [
+      162
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/2045c54a1906676478a53649e4fafa7b5099f6c76ed31d72997ecc1167c616c0.png",
+    "替换SHA256": "2045c54a1906676478a53649e4fafa7b5099f6c76ed31d72997ecc1167c616c0",
+    "预览原图": null,
+    "预览替换": "data/preview/2045c54a1906676478a53649e4fafa7b5099f6c76ed31d72997ecc1167c616c0.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-lowered-standing"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00166.QNT",
+    "指针": 81,
+    "资源编号": [
+      166
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/8b26b46105ae423b6b613d1354387e5feba9fc2e193ab3d2039e1be423291848.png",
+    "替换SHA256": "8b26b46105ae423b6b613d1354387e5feba9fc2e193ab3d2039e1be423291848",
+    "预览原图": null,
+    "预览替换": "data/preview/8b26b46105ae423b6b613d1354387e5feba9fc2e193ab3d2039e1be423291848.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-normal-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00167.QNT",
+    "指针": 82,
+    "资源编号": [
+      167
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/dfef7822e98a4eb1cbc82c484a2ff7dfdab04a2e6eccef924d041e1704ba9954.png",
+    "替换SHA256": "dfef7822e98a4eb1cbc82c484a2ff7dfdab04a2e6eccef924d041e1704ba9954",
+    "预览原图": null,
+    "预览替换": "data/preview/dfef7822e98a4eb1cbc82c484a2ff7dfdab04a2e6eccef924d041e1704ba9954.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-lowered-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00168.QNT",
+    "指针": 83,
+    "资源编号": [
+      168
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/0e2e806eb9f04c8fb55ebdf78175f5acca7de8da7b7705b6b01e96ef8f8f28e3.png",
+    "替换SHA256": "0e2e806eb9f04c8fb55ebdf78175f5acca7de8da7b7705b6b01e96ef8f8f28e3",
+    "预览原图": null,
+    "预览替换": "data/preview/0e2e806eb9f04c8fb55ebdf78175f5acca7de8da7b7705b6b01e96ef8f8f28e3.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-sweat-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00169.QNT",
+    "指针": 84,
+    "资源编号": [
+      169
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/bb156cef029113fbfa18af907f70d0bfab88fef171d211eedb58cad59ad990ad.png",
+    "替换SHA256": "bb156cef029113fbfa18af907f70d0bfab88fef171d211eedb58cad59ad990ad",
+    "预览原图": null,
+    "预览替换": "data/preview/bb156cef029113fbfa18af907f70d0bfab88fef171d211eedb58cad59ad990ad.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-sad-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "大道寺小松",
+    "角色ID": "name-49",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00171.QNT",
+    "指针": 85,
+    "资源编号": [
+      171
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/99dcba254460509c35644f21a6e33c2ed38791f1e3a00dba721f1bfc0326eb5a.png",
+    "替换SHA256": "99dcba254460509c35644f21a6e33c2ed38791f1e3a00dba721f1bfc0326eb5a",
+    "预览原图": null,
+    "预览替换": "data/preview/99dcba254460509c35644f21a6e33c2ed38791f1e3a00dba721f1bfc0326eb5a.jpg",
+    "来源批次": "daidouji-reference",
+    "差分": "daidouji-171"
+  },
+  {
+    "势力": "北条家",
+    "武将": "大道寺小松",
+    "角色ID": "name-49",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00176.QNT",
+    "指针": 86,
+    "资源编号": [
+      176
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/3bddc7cc1d6ba16ef03052446730051ca6aa70c9f0943d2b695626a01b29c553.png",
+    "替换SHA256": "3bddc7cc1d6ba16ef03052446730051ca6aa70c9f0943d2b695626a01b29c553",
+    "预览原图": null,
+    "预览替换": "data/preview/3bddc7cc1d6ba16ef03052446730051ca6aa70c9f0943d2b695626a01b29c553.jpg",
+    "来源批次": "daidouji-reference",
+    "差分": "daidouji-176"
+  },
+  {
+    "势力": "北条家",
     "武将": "南条兰",
     "角色ID": "name-50",
     "素材类型": "other",
@@ -5650,12 +6961,12 @@
       800,
       600
     ],
-    "替换文件": "data/after/47b9c3ef36836eec99d951cd6efd8a423d13469f3b94fdacb5d11b04cae0dfa4.png",
-    "替换SHA256": "47b9c3ef36836eec99d951cd6efd8a423d13469f3b94fdacb5d11b04cae0dfa4",
+    "替换文件": "data/after/ade8455e2cc9b48066bab63ab95e2cd542b7b65e9c7aeb094f26062bdcef56b5.png",
+    "替换SHA256": "ade8455e2cc9b48066bab63ab95e2cd542b7b65e9c7aeb094f26062bdcef56b5",
     "预览原图": null,
-    "预览替换": "data/preview/47b9c3ef36836eec99d951cd6efd8a423d13469f3b94fdacb5d11b04cae0dfa4.jpg",
+    "预览替换": "data/preview/ade8455e2cc9b48066bab63ab95e2cd542b7b65e9c7aeb094f26062bdcef56b5.jpg",
     "来源批次": "ran-reference",
-    "差分": "ran-reference-cg00181"
+    "差分": "ran-upgrade-standing"
   },
   {
     "势力": "北条家",
@@ -5673,12 +6984,12 @@
       186,
       220
     ],
-    "替换文件": "data/after/98b9c1ed43a679f6ff233fc051aabee42d8e4062fb0fff7f45b82826aeb4a6e7.png",
-    "替换SHA256": "98b9c1ed43a679f6ff233fc051aabee42d8e4062fb0fff7f45b82826aeb4a6e7",
+    "替换文件": "data/after/944b87b532e69a1660c03361e287111a124ae756bad7faea26703d02a0dc5aa7.png",
+    "替换SHA256": "944b87b532e69a1660c03361e287111a124ae756bad7faea26703d02a0dc5aa7",
     "预览原图": null,
-    "预览替换": "data/preview/98b9c1ed43a679f6ff233fc051aabee42d8e4062fb0fff7f45b82826aeb4a6e7.jpg",
+    "预览替换": "data/preview/944b87b532e69a1660c03361e287111a124ae756bad7faea26703d02a0dc5aa7.jpg",
     "来源批次": "ran-reference",
-    "差分": "ran-reference-cg00186"
+    "差分": "ran-upgrade-normal"
   },
   {
     "势力": "北条家",
@@ -5696,12 +7007,12 @@
       186,
       220
     ],
-    "替换文件": "data/after/b013276040c0c5fc9efbc5f44ed0043f61fc9b8fb3a65bd2fc35bc4439c6c91f.png",
-    "替换SHA256": "b013276040c0c5fc9efbc5f44ed0043f61fc9b8fb3a65bd2fc35bc4439c6c91f",
+    "替换文件": "data/after/34a2801b5bbce47d60dd19aa72a90ce99a1af579114cc631dfe6a2fff563b26d.png",
+    "替换SHA256": "34a2801b5bbce47d60dd19aa72a90ce99a1af579114cc631dfe6a2fff563b26d",
     "预览原图": null,
-    "预览替换": "data/preview/b013276040c0c5fc9efbc5f44ed0043f61fc9b8fb3a65bd2fc35bc4439c6c91f.jpg",
+    "预览替换": "data/preview/34a2801b5bbce47d60dd19aa72a90ce99a1af579114cc631dfe6a2fff563b26d.jpg",
     "来源批次": "ran-reference",
-    "差分": "ran-reference-cg00187"
+    "差分": "ran-upgrade-speaking"
   },
   {
     "势力": "足利家",
@@ -5748,6 +7059,98 @@
     "预览替换": "data/preview/62fd5a4c4302acac92c2e53fd66856c42536ef9dbae9c16f1741238091e28d2e.jpg",
     "来源批次": "ashikaga-reference",
     "差分": "ashikaga-206"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00211.QNT",
+    "指针": 95,
+    "资源编号": [
+      211
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/3f35c438587fbb0300b4df9d11882b75c44ece1abcddf6b07e842eca7568dffc.png",
+    "替换SHA256": "3f35c438587fbb0300b4df9d11882b75c44ece1abcddf6b07e842eca7568dffc",
+    "预览原图": null,
+    "预览替换": "data/preview/3f35c438587fbb0300b4df9d11882b75c44ece1abcddf6b07e842eca7568dffc.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-211"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00212.QNT",
+    "指针": 96,
+    "资源编号": [
+      212
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/98f7098afd47974d398940c6386b1df610215646fb86c0642d47b78100110e70.png",
+    "替换SHA256": "98f7098afd47974d398940c6386b1df610215646fb86c0642d47b78100110e70",
+    "预览原图": null,
+    "预览替换": "data/preview/98f7098afd47974d398940c6386b1df610215646fb86c0642d47b78100110e70.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-212"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00216.QNT",
+    "指针": 97,
+    "资源编号": [
+      216
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/769b9d228e799be8abd913cec7d8b7be34316ee37592732e2339e8143006048d.png",
+    "替换SHA256": "769b9d228e799be8abd913cec7d8b7be34316ee37592732e2339e8143006048d",
+    "预览原图": null,
+    "预览替换": "data/preview/769b9d228e799be8abd913cec7d8b7be34316ee37592732e2339e8143006048d.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-216"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00217.QNT",
+    "指针": 98,
+    "资源编号": [
+      217
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/3553bb8fcf7070d5f211a277d7511139363274308e68b1e2d0481d768a54ce8e.png",
+    "替换SHA256": "3553bb8fcf7070d5f211a277d7511139363274308e68b1e2d0481d768a54ce8e",
+    "预览原图": null,
+    "预览替换": "data/preview/3553bb8fcf7070d5f211a277d7511139363274308e68b1e2d0481d768a54ce8e.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-217"
   },
   {
     "势力": "足利家",
@@ -5909,6 +7312,75 @@
     "预览替换": "data/preview/8e54635de3bbddef6867baef87864e7a1f8b03d972280cdd1e9e28fddda6100f.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "oju-avatar"
+  },
+  {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00251.QNT",
+    "指针": 106,
+    "资源编号": [
+      251
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/22a9a5a95f5bf0ca73462838ce6a7e6376ac73ae16353fa3b92193264a823090.png",
+    "替换SHA256": "22a9a5a95f5bf0ca73462838ce6a7e6376ac73ae16353fa3b92193264a823090",
+    "预览原图": null,
+    "预览替换": "data/preview/22a9a5a95f5bf0ca73462838ce6a7e6376ac73ae16353fa3b92193264a823090.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-251"
+  },
+  {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00256.QNT",
+    "指针": 107,
+    "资源编号": [
+      256
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/b06a19703935882bfdc2655ebe3876402032df795bb582bbef65eaa2bb59d922.png",
+    "替换SHA256": "b06a19703935882bfdc2655ebe3876402032df795bb582bbef65eaa2bb59d922",
+    "预览原图": null,
+    "预览替换": "data/preview/b06a19703935882bfdc2655ebe3876402032df795bb582bbef65eaa2bb59d922.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-256"
+  },
+  {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00257.QNT",
+    "指针": 108,
+    "资源编号": [
+      257
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/482818ba4242d9d8e458fe01227d1c9a6032553165696f7e65f9d8f9c780d7de.png",
+    "替换SHA256": "482818ba4242d9d8e458fe01227d1c9a6032553165696f7e65f9d8f9c780d7de",
+    "预览原图": null,
+    "预览替换": "data/preview/482818ba4242d9d8e458fe01227d1c9a6032553165696f7e65f9d8f9c780d7de.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-257"
   },
   {
     "势力": "浅井朝仓家",
@@ -6162,6 +7634,98 @@
     "预览替换": "data/preview/3bc1b337c7b5b19be7cbe92b6285a730421e70b003b30486bfa1622046b90489.jpg",
     "来源批次": "yuzumi-reference",
     "差分": "yuzumi-reference-cg00337"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00391.QNT",
+    "指针": 145,
+    "资源编号": [
+      391
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/d5b89f3d31b81aac2292ff99fb5073e95b22044b60240dd9e6da46a8085ed3b8.png",
+    "替换SHA256": "d5b89f3d31b81aac2292ff99fb5073e95b22044b60240dd9e6da46a8085ed3b8",
+    "预览原图": null,
+    "预览替换": "data/preview/d5b89f3d31b81aac2292ff99fb5073e95b22044b60240dd9e6da46a8085ed3b8.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-standing"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00396.QNT",
+    "指针": 146,
+    "资源编号": [
+      396
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/4a7b00f8e6e3e85a7e4777df97d3eb236f0c590cf4295ac98838bf8bcb392660.png",
+    "替换SHA256": "4a7b00f8e6e3e85a7e4777df97d3eb236f0c590cf4295ac98838bf8bcb392660",
+    "预览原图": null,
+    "预览替换": "data/preview/4a7b00f8e6e3e85a7e4777df97d3eb236f0c590cf4295ac98838bf8bcb392660.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-normal"
+  },
+  {
+    "势力": "天志教",
+    "武将": "言里",
+    "角色ID": "name-56",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00401.QNT",
+    "指针": 147,
+    "资源编号": [
+      401
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/352fc0e5717fbee6f1d01b060a53350784abd34b47a1a4af365ab8d929b4f147.png",
+    "替换SHA256": "352fc0e5717fbee6f1d01b060a53350784abd34b47a1a4af365ab8d929b4f147",
+    "预览原图": null,
+    "预览替换": "data/preview/352fc0e5717fbee6f1d01b060a53350784abd34b47a1a4af365ab8d929b4f147.jpg",
+    "来源批次": "gonri-reference",
+    "差分": "gonri-401"
+  },
+  {
+    "势力": "天志教",
+    "武将": "言里",
+    "角色ID": "name-56",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00406.QNT",
+    "指针": 148,
+    "资源编号": [
+      406
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/afee89f03a62f874f2a5d04184d6ea9114a36f8fbf3cd9a0bf39b7e3d7937c49.png",
+    "替换SHA256": "afee89f03a62f874f2a5d04184d6ea9114a36f8fbf3cd9a0bf39b7e3d7937c49",
+    "预览原图": null,
+    "预览替换": "data/preview/afee89f03a62f874f2a5d04184d6ea9114a36f8fbf3cd9a0bf39b7e3d7937c49.jpg",
+    "来源批次": "gonri-reference",
+    "差分": "gonri-406"
   },
   {
     "势力": "拓牙家",
@@ -6455,10 +8019,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/f263952718cbc5878a457fed54a1d58383e1e15b28d1caec57b1563868261de9.png",
-    "替换SHA256": "f263952718cbc5878a457fed54a1d58383e1e15b28d1caec57b1563868261de9",
+    "替换文件": "data/after/18de733ec4fa82caee28db2b4d29856ac044a389e8a342c01499b70c7ae23bec.png",
+    "替换SHA256": "18de733ec4fa82caee28db2b4d29856ac044a389e8a342c01499b70c7ae23bec",
     "预览原图": null,
-    "预览替换": "data/preview/f263952718cbc5878a457fed54a1d58383e1e15b28d1caec57b1563868261de9.jpg",
+    "预览替换": "data/preview/18de733ec4fa82caee28db2b4d29856ac044a389e8a342c01499b70c7ae23bec.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "hanzo-562"
   },
@@ -6478,10 +8042,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/9fd786599f753cfdd01f46e5b55a351f5a74462ae412a8162a7326da42ef90c5.png",
-    "替换SHA256": "9fd786599f753cfdd01f46e5b55a351f5a74462ae412a8162a7326da42ef90c5",
+    "替换文件": "data/after/3e0726aafc16ff9dd5a96d0d05c27a5a564089bf7b949b528accb02aed1912a7.png",
+    "替换SHA256": "3e0726aafc16ff9dd5a96d0d05c27a5a564089bf7b949b528accb02aed1912a7",
     "预览原图": null,
-    "预览替换": "data/preview/9fd786599f753cfdd01f46e5b55a351f5a74462ae412a8162a7326da42ef90c5.jpg",
+    "预览替换": "data/preview/3e0726aafc16ff9dd5a96d0d05c27a5a564089bf7b949b528accb02aed1912a7.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "sakai-563"
   },
@@ -6501,10 +8065,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/be803d460084c133f17583d00fccb05cd3bd3e788078370f33ef716eaa17d2d0.png",
-    "替换SHA256": "be803d460084c133f17583d00fccb05cd3bd3e788078370f33ef716eaa17d2d0",
+    "替换文件": "data/after/843c9fac3c8327725b7a48859260a81e1141ec46df7350590dce5e9a6dc1e702.png",
+    "替换SHA256": "843c9fac3c8327725b7a48859260a81e1141ec46df7350590dce5e9a6dc1e702",
     "预览原图": null,
-    "预览替换": "data/preview/be803d460084c133f17583d00fccb05cd3bd3e788078370f33ef716eaa17d2d0.jpg",
+    "预览替换": "data/preview/843c9fac3c8327725b7a48859260a81e1141ec46df7350590dce5e9a6dc1e702.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "ii-566"
   },
@@ -6524,10 +8088,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/031f9e567301f1da2a7e2f0e70691ded62746164dfcbcce78c37b61581c2a76c.png",
-    "替换SHA256": "031f9e567301f1da2a7e2f0e70691ded62746164dfcbcce78c37b61581c2a76c",
+    "替换文件": "data/after/7050d43896be1a3ad8ab14306bc07d52eec8b02e2f893b44bbc249d817ac0567.png",
+    "替换SHA256": "7050d43896be1a3ad8ab14306bc07d52eec8b02e2f893b44bbc249d817ac0567",
     "预览原图": null,
-    "预览替换": "data/preview/031f9e567301f1da2a7e2f0e70691ded62746164dfcbcce78c37b61581c2a76c.jpg",
+    "预览替换": "data/preview/7050d43896be1a3ad8ab14306bc07d52eec8b02e2f893b44bbc249d817ac0567.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "hanzo-567"
   },
@@ -6547,10 +8111,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/f07846c8aed83c53d184ef872916009c76ad5964d136ac45a79c15c009c4f497.png",
-    "替换SHA256": "f07846c8aed83c53d184ef872916009c76ad5964d136ac45a79c15c009c4f497",
+    "替换文件": "data/after/39c2c592d994d9feb4a54284e3a8d2bcba4f8bc176d1dd855c3d888b5bd128f6.png",
+    "替换SHA256": "39c2c592d994d9feb4a54284e3a8d2bcba4f8bc176d1dd855c3d888b5bd128f6",
     "预览原图": null,
-    "预览替换": "data/preview/f07846c8aed83c53d184ef872916009c76ad5964d136ac45a79c15c009c4f497.jpg",
+    "预览替换": "data/preview/39c2c592d994d9feb4a54284e3a8d2bcba4f8bc176d1dd855c3d888b5bd128f6.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "sakakibara-568"
   },
@@ -7038,6 +8602,52 @@
     "差分": "plupet-avatar"
   },
   {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00821.QNT",
+    "指针": 269,
+    "资源编号": [
+      821
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/88d00a048f6fc81f45a05a8f04f76ee29981a871d031c9e272849d0288d77b18.png",
+    "替换SHA256": "88d00a048f6fc81f45a05a8f04f76ee29981a871d031c9e272849d0288d77b18",
+    "预览原图": null,
+    "预览替换": "data/preview/88d00a048f6fc81f45a05a8f04f76ee29981a871d031c9e272849d0288d77b18.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-standing"
+  },
+  {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg00826.QNT",
+    "指针": 270,
+    "资源编号": [
+      826
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/db20925f641faa727ded53fb201dd7da3c86cc788bd388b196a0ac9cccf264ea.png",
+    "替换SHA256": "db20925f641faa727ded53fb201dd7da3c86cc788bd388b196a0ac9cccf264ea",
+    "预览原图": null,
+    "预览替换": "data/preview/db20925f641faa727ded53fb201dd7da3c86cc788bd388b196a0ac9cccf264ea.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-portrait"
+  },
+  {
     "势力": "尼子家残党",
     "武将": "山中子鹿",
     "角色ID": "name-137",
@@ -7099,10 +8709,10 @@
       800,
       600
     ],
-    "替换文件": "data/after/92c4d92d59283341ed3028ea76a0ba45cecc7cc094bd5f40b9e427c8ba090296.png",
-    "替换SHA256": "92c4d92d59283341ed3028ea76a0ba45cecc7cc094bd5f40b9e427c8ba090296",
+    "替换文件": "data/after/5ab5dc556b552c44e68d434a17939dfc1aef882913f4209b15ef892eb417ef1f.png",
+    "替换SHA256": "5ab5dc556b552c44e68d434a17939dfc1aef882913f4209b15ef892eb417ef1f",
     "预览原图": null,
-    "预览替换": "data/preview/92c4d92d59283341ed3028ea76a0ba45cecc7cc094bd5f40b9e427c8ba090296.jpg",
+    "预览替换": "data/preview/5ab5dc556b552c44e68d434a17939dfc1aef882913f4209b15ef892eb417ef1f.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "fuuka-standing"
   },
@@ -7122,10 +8732,10 @@
       800,
       600
     ],
-    "替换文件": "data/after/4a06242560976a976aa5ad6d1237c530aae9259b98f26984a0551093f81a2a8b.png",
-    "替换SHA256": "4a06242560976a976aa5ad6d1237c530aae9259b98f26984a0551093f81a2a8b",
+    "替换文件": "data/after/da5a00cbd2e9a981b87dfca2c5bf566adf1473b40e4048dd23935c4922bad4f5.png",
+    "替换SHA256": "da5a00cbd2e9a981b87dfca2c5bf566adf1473b40e4048dd23935c4922bad4f5",
     "预览原图": null,
-    "预览替换": "data/preview/4a06242560976a976aa5ad6d1237c530aae9259b98f26984a0551093f81a2a8b.jpg",
+    "预览替换": "data/preview/da5a00cbd2e9a981b87dfca2c5bf566adf1473b40e4048dd23935c4922bad4f5.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "fuuka-red-eyes"
   },
@@ -7145,10 +8755,10 @@
       186,
       220
     ],
-    "替换文件": "data/after/add2b78beec3fc796c2e3e93aaa0fd022282cb380c7c93f672fa1b4b5e921b01.png",
-    "替换SHA256": "add2b78beec3fc796c2e3e93aaa0fd022282cb380c7c93f672fa1b4b5e921b01",
+    "替换文件": "data/after/e9a2c18f51ce37b8133a4b81cd15d23d01076028aa131380a4e1170b7745e536.png",
+    "替换SHA256": "e9a2c18f51ce37b8133a4b81cd15d23d01076028aa131380a4e1170b7745e536",
     "预览原图": null,
-    "预览替换": "data/preview/add2b78beec3fc796c2e3e93aaa0fd022282cb380c7c93f672fa1b4b5e921b01.jpg",
+    "预览替换": "data/preview/e9a2c18f51ce37b8133a4b81cd15d23d01076028aa131380a4e1170b7745e536.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "fuuka-avatar"
   },
@@ -7220,6 +8830,75 @@
     "预览替换": "data/preview/3c408f22d94f97a0c234012f8b35aedcbf0821b8f29e9fc62ccbb8eaf895439b.jpg",
     "来源批次": "portrait-scale-adjustment",
     "差分": "keiji-portrait"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg01311.QNT",
+    "指针": 410,
+    "资源编号": [
+      1311
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/e6472ba91c528e622f07042eefe6f450586a7d510149118de43a5cb7abe1214f.png",
+    "替换SHA256": "e6472ba91c528e622f07042eefe6f450586a7d510149118de43a5cb7abe1214f",
+    "预览原图": null,
+    "预览替换": "data/preview/e6472ba91c528e622f07042eefe6f450586a7d510149118de43a5cb7abe1214f.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-1311"
+  },
+  {
+    "势力": "上杉家",
+    "武将": "上杉谦信",
+    "角色ID": "name-88",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg01501.QNT",
+    "指针": 426,
+    "资源编号": [
+      1501
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/3db91d1a1500068277e51271dcc535249385d122d6d6f5c0bad27f97eb62807f.png",
+    "替换SHA256": "3db91d1a1500068277e51271dcc535249385d122d6d6f5c0bad27f97eb62807f",
+    "预览原图": null,
+    "预览替换": "data/preview/3db91d1a1500068277e51271dcc535249385d122d6d6f5c0bad27f97eb62807f.jpg",
+    "来源批次": "kenshin-reference",
+    "差分": "kenshin-1501"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg01503.QNT",
+    "指针": 428,
+    "资源编号": [
+      1503
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/cb62e6762135c4b28a7ba4025f2cd505a3b79311682ae76d2af5c4a3cf6fcbfd.png",
+    "替换SHA256": "cb62e6762135c4b28a7ba4025f2cd505a3b79311682ae76d2af5c4a3cf6fcbfd",
+    "预览原图": null,
+    "预览替换": "data/preview/cb62e6762135c4b28a7ba4025f2cd505a3b79311682ae76d2af5c4a3cf6fcbfd.jpg",
+    "来源批次": "hojo-army-upgrade",
+    "差分": "hojo-army-cg01503"
   },
   {
     "势力": "织田家",
@@ -7314,6 +8993,29 @@
     "差分": "kuge-tsuyoko"
   },
   {
+    "势力": "上杉家",
+    "武将": "上杉宪政",
+    "角色ID": "name-157",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg05458.QNT",
+    "指针": 783,
+    "资源编号": [
+      5458
+    ],
+    "别名指针": [],
+    "尺寸": [
+      186,
+      220
+    ],
+    "替换文件": "data/after/83602cbc69e97b298a8f802b1b90028b6e328636901680f5e30afd0d145a3b0b.png",
+    "替换SHA256": "83602cbc69e97b298a8f802b1b90028b6e328636901680f5e30afd0d145a3b0b",
+    "预览原图": null,
+    "预览替换": "data/preview/83602cbc69e97b298a8f802b1b90028b6e328636901680f5e30afd0d145a3b0b.jpg",
+    "来源批次": "norimasa-reference",
+    "差分": "norimasa-5458"
+  },
+  {
     "势力": "织田家",
     "武将": "织田信长",
     "角色ID": "name-6",
@@ -7358,6 +9060,29 @@
     "预览替换": "data/preview/f99e05beefb03b0b6479660677198d52659941aedcdfe617a353a21243b787e9.jpg",
     "来源批次": "shingen-reference",
     "差分": "shingen-map"
+  },
+  {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg10454.QNT",
+    "指针": 1257,
+    "资源编号": [
+      10454
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/48b721a929aa899651c203a0c40a2b60aeb7c256b723c8144ab245abc9ba47c5.png",
+    "替换SHA256": "48b721a929aa899651c203a0c40a2b60aeb7c256b723c8144ab245abc9ba47c5",
+    "预览原图": null,
+    "预览替换": "data/preview/48b721a929aa899651c203a0c40a2b60aeb7c256b723c8144ab245abc9ba47c5.jpg",
+    "来源批次": "soun-faction-upgrade",
+    "差分": "soun-faction-rance7GA.ald"
   },
   {
     "势力": "上杉家",
@@ -7429,6 +9154,29 @@
     "差分": "tanegashima-map"
   },
   {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg10460.QNT",
+    "指针": 1263,
+    "资源编号": [
+      10460
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/19ec3d3713d0f9aaa52f862e0eb77432123d505b354f90a424561f16bc27a03a.png",
+    "替换SHA256": "19ec3d3713d0f9aaa52f862e0eb77432123d505b354f90a424561f16bc27a03a",
+    "预览原图": null,
+    "预览替换": "data/preview/19ec3d3713d0f9aaa52f862e0eb77432123d505b354f90a424561f16bc27a03a.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-faction-rance7GA.ald"
+  },
+  {
     "势力": "伊贺家",
     "武将": "犬饲",
     "角色ID": "name-74",
@@ -7496,6 +9244,29 @@
     "预览替换": "data/preview/b7067a7c0da327024fcad38ae26c8e670214dd60156b7a3f83dd68b7b2159472.jpg",
     "来源批次": "ashikaga-reference",
     "差分": "ashikaga-10463"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "other",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg10464.QNT",
+    "指针": 1267,
+    "资源编号": [
+      10464
+    ],
+    "别名指针": [],
+    "尺寸": [
+      800,
+      600
+    ],
+    "替换文件": "data/after/e5e264014600962977f01809c37e9da67f9a78d2666424af88272c327316eb2b.png",
+    "替换SHA256": "e5e264014600962977f01809c37e9da67f9a78d2666424af88272c327316eb2b",
+    "预览原图": null,
+    "预览替换": "data/preview/e5e264014600962977f01809c37e9da67f9a78d2666424af88272c327316eb2b.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-faction"
   },
   {
     "势力": "拓牙家",
@@ -7637,6 +9408,29 @@
   },
   {
     "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "battle",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg13026.QNT",
+    "指针": 1539,
+    "资源编号": [
+      13026
+    ],
+    "别名指针": [],
+    "尺寸": [
+      270,
+      270
+    ],
+    "替换文件": "data/after/a38d43a3c451b5a06f8c6aec70798fa4b936c74f5ffe3d5de5c4105d73fe811b.png",
+    "替换SHA256": "a38d43a3c451b5a06f8c6aec70798fa4b936c74f5ffe3d5de5c4105d73fe811b",
+    "预览原图": null,
+    "预览替换": "data/preview/a38d43a3c451b5a06f8c6aec70798fa4b936c74f5ffe3d5de5c4105d73fe811b.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-13026"
+  },
+  {
+    "势力": "足利家",
     "武将": "一休",
     "角色ID": "name-34",
     "素材类型": "battle",
@@ -7657,6 +9451,29 @@
     "预览替换": "data/preview/dfb13fbfe27fbb7ae29496fc1e7f1c783da2de5e325fb84be6d4a100989676e4.jpg",
     "来源批次": "ikkyu-reference",
     "差分": "ikkyu-battle"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "battle",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg13028.QNT",
+    "指针": 1541,
+    "资源编号": [
+      13028
+    ],
+    "别名指针": [],
+    "尺寸": [
+      270,
+      270
+    ],
+    "替换文件": "data/after/bcfd086ae98a11f789eb68fdec354b7aba9bafec81369353eaac7c224ab195fc.png",
+    "替换SHA256": "bcfd086ae98a11f789eb68fdec354b7aba9bafec81369353eaac7c224ab195fc",
+    "预览原图": null,
+    "预览替换": "data/preview/bcfd086ae98a11f789eb68fdec354b7aba9bafec81369353eaac7c224ab195fc.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-battle"
   },
   {
     "势力": "拓牙家",
@@ -7866,6 +9683,29 @@
     "差分": "sakakibara-13046"
   },
   {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "battle",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg13050.QNT",
+    "指针": 1563,
+    "资源编号": [
+      13050
+    ],
+    "别名指针": [],
+    "尺寸": [
+      270,
+      270
+    ],
+    "替换文件": "data/after/e459e0ed4c37c3faf9cecaf6227856aeaa6e8cacf5eea96b54865ab4304c4e2e.png",
+    "替换SHA256": "e459e0ed4c37c3faf9cecaf6227856aeaa6e8cacf5eea96b54865ab4304c4e2e",
+    "预览原图": null,
+    "预览替换": "data/preview/e459e0ed4c37c3faf9cecaf6227856aeaa6e8cacf5eea96b54865ab4304c4e2e.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-battle"
+  },
+  {
     "势力": "武田家",
     "武将": "真田透琳",
     "角色ID": "name-84",
@@ -8004,6 +9844,29 @@
     "差分": "inukai-combat-13065"
   },
   {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "battle",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg13072.QNT",
+    "指针": 1585,
+    "资源编号": [
+      13072
+    ],
+    "别名指针": [],
+    "尺寸": [
+      270,
+      270
+    ],
+    "替换文件": "data/after/3bcb1cec88abdcca4e164de1f158c65b1556d327e73eae0357f7a3b938fda2da.png",
+    "替换SHA256": "3bcb1cec88abdcca4e164de1f158c65b1556d327e73eae0357f7a3b938fda2da",
+    "预览原图": null,
+    "预览替换": "data/preview/3bcb1cec88abdcca4e164de1f158c65b1556d327e73eae0357f7a3b938fda2da.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-battle"
+  },
+  {
     "势力": "织田家",
     "武将": "柴田胜家",
     "角色ID": "name-14",
@@ -8074,6 +9937,29 @@
   },
   {
     "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "battle",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg13326.QNT",
+    "指针": 1676,
+    "资源编号": [
+      13326
+    ],
+    "别名指针": [],
+    "尺寸": [
+      340,
+      290
+    ],
+    "替换文件": "data/after/9e8fae2daae056d21deecfb2cbb595ef39c87f96ac19e1fc368d8dfc8921f4ac.png",
+    "替换SHA256": "9e8fae2daae056d21deecfb2cbb595ef39c87f96ac19e1fc368d8dfc8921f4ac",
+    "预览原图": null,
+    "预览替换": "data/preview/9e8fae2daae056d21deecfb2cbb595ef39c87f96ac19e1fc368d8dfc8921f4ac.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-13326"
+  },
+  {
+    "势力": "足利家",
     "武将": "一休",
     "角色ID": "name-34",
     "素材类型": "battle",
@@ -8094,6 +9980,29 @@
     "预览替换": "data/preview/9e59a59f5c8968bb6e05d70a6669283aea500ce1b8af9289aea89b49b26ec9ab.jpg",
     "来源批次": "ikkyu-reference",
     "差分": "ikkyu-battle-cast"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "battle",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg13328.QNT",
+    "指针": 1678,
+    "资源编号": [
+      13328
+    ],
+    "别名指针": [],
+    "尺寸": [
+      340,
+      290
+    ],
+    "替换文件": "data/after/ac731f6f4c8a008af2e6ed5c1631fa8c15e3c94d1f3498ea01e2417f1199a146.png",
+    "替换SHA256": "ac731f6f4c8a008af2e6ed5c1631fa8c15e3c94d1f3498ea01e2417f1199a146",
+    "预览原图": null,
+    "预览替换": "data/preview/ac731f6f4c8a008af2e6ed5c1631fa8c15e3c94d1f3498ea01e2417f1199a146.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-attack"
   },
   {
     "势力": "拓牙家",
@@ -8280,6 +10189,29 @@
     "差分": "sakakibara-13346"
   },
   {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "battle",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg13350.QNT",
+    "指针": 1700,
+    "资源编号": [
+      13350
+    ],
+    "别名指针": [],
+    "尺寸": [
+      340,
+      290
+    ],
+    "替换文件": "data/after/e04e5e614133ad143dc8bd9f052bcc309322f9a2bf06efd87e8796994f91bb4b.png",
+    "替换SHA256": "e04e5e614133ad143dc8bd9f052bcc309322f9a2bf06efd87e8796994f91bb4b",
+    "预览原图": null,
+    "预览替换": "data/preview/e04e5e614133ad143dc8bd9f052bcc309322f9a2bf06efd87e8796994f91bb4b.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-attack"
+  },
+  {
     "势力": "武田家",
     "武将": "真田透琳",
     "角色ID": "name-84",
@@ -8418,6 +10350,29 @@
     "差分": "inukai-combat-13365"
   },
   {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "battle",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg13372.QNT",
+    "指针": 1722,
+    "资源编号": [
+      13372
+    ],
+    "别名指针": [],
+    "尺寸": [
+      340,
+      290
+    ],
+    "替换文件": "data/after/99dde5d657c15352840d815d81d65092a0c13e17d33d9998627ac410300ebbaf.png",
+    "替换SHA256": "99dde5d657c15352840d815d81d65092a0c13e17d33d9998627ac410300ebbaf",
+    "预览原图": null,
+    "预览替换": "data/preview/99dde5d657c15352840d815d81d65092a0c13e17d33d9998627ac410300ebbaf.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-attack"
+  },
+  {
     "势力": "原家",
     "武将": "原昌示",
     "角色ID": "name-35",
@@ -8441,27 +10396,27 @@
     "差分": "hara-battle-purple"
   },
   {
-    "势力": "织田家",
-    "武将": "希露·普莱恩",
-    "角色ID": "name-3",
-    "素材类型": "portrait",
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "battle",
     "来源包": "rance7GA.ald",
-    "原生文件": "cg50016.QNT",
-    "指针": 6152,
+    "原生文件": "cg13626.QNT",
+    "指针": 1789,
     "资源编号": [
-      50016
+      13626
     ],
     "别名指针": [],
     "尺寸": [
-      65,
-      72
+      340,
+      290
     ],
-    "替换文件": "data/after/8b65bf734748740634e8bae1595afb4c0a1110cc2f26577558cac165dd92dd73.png",
-    "替换SHA256": "8b65bf734748740634e8bae1595afb4c0a1110cc2f26577558cac165dd92dd73",
+    "替换文件": "data/after/17689d61f2f1bf074e19c5019c1a415da09c9a46a92e46473d71b82367353ad3.png",
+    "替换SHA256": "17689d61f2f1bf074e19c5019c1a415da09c9a46a92e46473d71b82367353ad3",
     "预览原图": null,
-    "预览替换": "data/preview/8b65bf734748740634e8bae1595afb4c0a1110cc2f26577558cac165dd92dd73.jpg",
-    "来源批次": "sill-suzume-small-portraits",
-    "差分": "small-50016"
+    "预览替换": "data/preview/17689d61f2f1bf074e19c5019c1a415da09c9a46a92e46473d71b82367353ad3.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-13626"
   },
   {
     "势力": "伊贺家",
@@ -8534,6 +10489,29 @@
   },
   {
     "势力": "织田家",
+    "武将": "香姬",
+    "角色ID": "name-5",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50049.QNT",
+    "指针": 6156,
+    "资源编号": [
+      50049
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/d9eacdfd4267cfb1ba1257839841756b6c19a041d744438e660d5ce4053edcda.png",
+    "替换SHA256": "d9eacdfd4267cfb1ba1257839841756b6c19a041d744438e660d5ce4053edcda",
+    "预览原图": null,
+    "预览替换": "data/preview/d9eacdfd4267cfb1ba1257839841756b6c19a041d744438e660d5ce4053edcda.jpg",
+    "来源批次": "kou-reference",
+    "差分": "kou-small-armor"
+  },
+  {
+    "势力": "织田家",
     "武将": "柴田胜家",
     "角色ID": "name-14",
     "素材类型": "portrait",
@@ -8579,6 +10557,75 @@
     "差分": "ranmaru-icon"
   },
   {
+    "势力": "北条家",
+    "武将": "北条早云",
+    "角色ID": "name-48",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50166.QNT",
+    "指针": 6168,
+    "资源编号": [
+      50166
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/ab0d07aa3d475a3adeb24c3853eab11d2cf76e9017568f0da79402b3b7d946ae.png",
+    "替换SHA256": "ab0d07aa3d475a3adeb24c3853eab11d2cf76e9017568f0da79402b3b7d946ae",
+    "预览原图": null,
+    "预览替换": "data/preview/ab0d07aa3d475a3adeb24c3853eab11d2cf76e9017568f0da79402b3b7d946ae.jpg",
+    "来源批次": "soun-reference",
+    "差分": "soun-small-head"
+  },
+  {
+    "势力": "北条家",
+    "武将": "大道寺小松",
+    "角色ID": "name-49",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50176.QNT",
+    "指针": 6169,
+    "资源编号": [
+      50176
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/0149cb8f542283af356e7037316c3c30530a189f52b66d3fac57f4cce7199fcc.png",
+    "替换SHA256": "0149cb8f542283af356e7037316c3c30530a189f52b66d3fac57f4cce7199fcc",
+    "预览原图": null,
+    "预览替换": "data/preview/0149cb8f542283af356e7037316c3c30530a189f52b66d3fac57f4cce7199fcc.jpg",
+    "来源批次": "daidouji-reference",
+    "差分": "daidouji-50176"
+  },
+  {
+    "势力": "北条家",
+    "武将": "南条兰",
+    "角色ID": "name-50",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50186.QNT",
+    "指针": 6170,
+    "资源编号": [
+      50186
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/ca1ed11a79e012888d748ae5464706084347911781047bd86413cb1780d18c4e.png",
+    "替换SHA256": "ca1ed11a79e012888d748ae5464706084347911781047bd86413cb1780d18c4e",
+    "预览原图": null,
+    "预览替换": "data/preview/ca1ed11a79e012888d748ae5464706084347911781047bd86413cb1780d18c4e.jpg",
+    "来源批次": "ran-reference",
+    "差分": "ran-upgrade-small"
+  },
+  {
     "势力": "足利家",
     "武将": "足利超神",
     "角色ID": "name-31",
@@ -8600,6 +10647,29 @@
     "预览替换": "data/preview/2c04f4606e0cd114941046a426429a74d7a539917eba6b64dc53225f6c1dda37.jpg",
     "来源批次": "ashikaga-reference",
     "差分": "ashikaga-small-avatar"
+  },
+  {
+    "势力": "足利家",
+    "武将": "山本五十六",
+    "角色ID": "name-32",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50216.QNT",
+    "指针": 6174,
+    "资源编号": [
+      50216
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/89317e716640cea3513fcfbb8e26359b856621c5b0e09a2aad8e7e7442d2f66a.png",
+    "替换SHA256": "89317e716640cea3513fcfbb8e26359b856621c5b0e09a2aad8e7e7442d2f66a",
+    "预览原图": null,
+    "预览替换": "data/preview/89317e716640cea3513fcfbb8e26359b856621c5b0e09a2aad8e7e7442d2f66a.jpg",
+    "来源批次": "isoroku-reference",
+    "差分": "isoroku-50216"
   },
   {
     "势力": "足利家",
@@ -8686,12 +10756,35 @@
       65,
       72
     ],
-    "替换文件": "data/after/958d0e3c7ee959f5a11dfb20a0b4021178df29a07af7d476939353b71a114c69.png",
-    "替换SHA256": "958d0e3c7ee959f5a11dfb20a0b4021178df29a07af7d476939353b71a114c69",
+    "替换文件": "data/after/13154261bbf116cbec23be1e6dfc0e2df6eaa1c89859ad82d24d1c1ed4f0ff34.png",
+    "替换SHA256": "13154261bbf116cbec23be1e6dfc0e2df6eaa1c89859ad82d24d1c1ed4f0ff34",
     "预览原图": null,
-    "预览替换": "data/preview/958d0e3c7ee959f5a11dfb20a0b4021178df29a07af7d476939353b71a114c69.jpg",
+    "预览替换": "data/preview/13154261bbf116cbec23be1e6dfc0e2df6eaa1c89859ad82d24d1c1ed4f0ff34.jpg",
     "来源批次": "fuuka-oju-reference",
     "差分": "oju-small-avatar"
+  },
+  {
+    "势力": "明石家",
+    "武将": "明石风丸",
+    "角色ID": "name-37",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50256.QNT",
+    "指针": 6179,
+    "资源编号": [
+      50256
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/94f6257699c4d8ebd5048bbca2d8ebb13aa0cd39d3ccb9356faa83d46599dcb9.png",
+    "替换SHA256": "94f6257699c4d8ebd5048bbca2d8ebb13aa0cd39d3ccb9356faa83d46599dcb9",
+    "预览原图": null,
+    "预览替换": "data/preview/94f6257699c4d8ebd5048bbca2d8ebb13aa0cd39d3ccb9356faa83d46599dcb9.jpg",
+    "来源批次": "kazemaru-reference",
+    "差分": "kazemaru-50256"
   },
   {
     "势力": "浅井朝仓家",
@@ -8738,6 +10831,52 @@
     "预览替换": "data/preview/9f0034fa27f0ca74d52dbde638501f729435d8ca3d59f8b789410064657d0a34.jpg",
     "来源批次": "tanegashima-reference",
     "差分": "tanegashima-small-portrait"
+  },
+  {
+    "势力": "天志教",
+    "武将": "性眼",
+    "角色ID": "name-55",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50396.QNT",
+    "指针": 6190,
+    "资源编号": [
+      50396
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/89a9f45149ca33460529111744a643000b7c9eaedeb4fa275c5a341f7a11ca81.png",
+    "替换SHA256": "89a9f45149ca33460529111744a643000b7c9eaedeb4fa275c5a341f7a11ca81",
+    "预览原图": null,
+    "预览替换": "data/preview/89a9f45149ca33460529111744a643000b7c9eaedeb4fa275c5a341f7a11ca81.jpg",
+    "来源批次": "seigan-reference",
+    "差分": "seigan-small"
+  },
+  {
+    "势力": "天志教",
+    "武将": "言里",
+    "角色ID": "name-56",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50406.QNT",
+    "指针": 6191,
+    "资源编号": [
+      50406
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/e71586c2198722d266361684e2a6ba86f303d1ee57743784815909b05e6c2339.png",
+    "替换SHA256": "e71586c2198722d266361684e2a6ba86f303d1ee57743784815909b05e6c2339",
+    "预览原图": null,
+    "预览替换": "data/preview/e71586c2198722d266361684e2a6ba86f303d1ee57743784815909b05e6c2339.jpg",
+    "来源批次": "gonri-reference",
+    "差分": "gonri-50406"
   },
   {
     "势力": "拓牙家",
@@ -8801,10 +10940,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/07c348c0ac2e166478ba73608459c7eb3ecbb9fdcc480dc2c844751e12c49d05.png",
-    "替换SHA256": "07c348c0ac2e166478ba73608459c7eb3ecbb9fdcc480dc2c844751e12c49d05",
+    "替换文件": "data/after/bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72.png",
+    "替换SHA256": "bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72",
     "预览原图": null,
-    "预览替换": "data/preview/07c348c0ac2e166478ba73608459c7eb3ecbb9fdcc480dc2c844751e12c49d05.jpg",
+    "预览替换": "data/preview/bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "hanzo-50562"
   },
@@ -8824,10 +10963,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/3b1019b97da620af770208019363156779bc3f3102864ef6ceab0dd0d4564759.png",
-    "替换SHA256": "3b1019b97da620af770208019363156779bc3f3102864ef6ceab0dd0d4564759",
+    "替换文件": "data/after/771a00f3331c8acb93de22c2b16ef627f52f29efdfc8fed9a7de5a7f2e28cb41.png",
+    "替换SHA256": "771a00f3331c8acb93de22c2b16ef627f52f29efdfc8fed9a7de5a7f2e28cb41",
     "预览原图": null,
-    "预览替换": "data/preview/3b1019b97da620af770208019363156779bc3f3102864ef6ceab0dd0d4564759.jpg",
+    "预览替换": "data/preview/771a00f3331c8acb93de22c2b16ef627f52f29efdfc8fed9a7de5a7f2e28cb41.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "sakai-50563"
   },
@@ -8847,10 +10986,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/35bc6da047a27abc13c88c6993d8fb5558a0446e97e5f0a234b9dc38962c0836.png",
-    "替换SHA256": "35bc6da047a27abc13c88c6993d8fb5558a0446e97e5f0a234b9dc38962c0836",
+    "替换文件": "data/after/926f240b4e37e7e71800ff409f62bd9fe70e5aa0e25ed973cad748259e83ccb5.png",
+    "替换SHA256": "926f240b4e37e7e71800ff409f62bd9fe70e5aa0e25ed973cad748259e83ccb5",
     "预览原图": null,
-    "预览替换": "data/preview/35bc6da047a27abc13c88c6993d8fb5558a0446e97e5f0a234b9dc38962c0836.jpg",
+    "预览替换": "data/preview/926f240b4e37e7e71800ff409f62bd9fe70e5aa0e25ed973cad748259e83ccb5.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "ii-50566"
   },
@@ -8870,10 +11009,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/4d891b1384bf06ba30e0c3b6b49c106d49740498268065b156e1d87c1c580493.png",
-    "替换SHA256": "4d891b1384bf06ba30e0c3b6b49c106d49740498268065b156e1d87c1c580493",
+    "替换文件": "data/after/bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72.png",
+    "替换SHA256": "bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72",
     "预览原图": null,
-    "预览替换": "data/preview/4d891b1384bf06ba30e0c3b6b49c106d49740498268065b156e1d87c1c580493.jpg",
+    "预览替换": "data/preview/bbf0514f56f33af4184f4615af6e76750fc303809f1b460d33e5fd5f37306d72.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "hanzo-50567"
   },
@@ -8893,10 +11032,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/0f9d7f7fd163f49f541b112fe449f3fb890f73cba045b004fd08b62b27d26ed3.png",
-    "替换SHA256": "0f9d7f7fd163f49f541b112fe449f3fb890f73cba045b004fd08b62b27d26ed3",
+    "替换文件": "data/after/86fb4d8291e32cea7802b3574df61a19235eb3ecd5b1bfc47176a6617ed4658a.png",
+    "替换SHA256": "86fb4d8291e32cea7802b3574df61a19235eb3ecd5b1bfc47176a6617ed4658a",
     "预览原图": null,
-    "预览替换": "data/preview/0f9d7f7fd163f49f541b112fe449f3fb890f73cba045b004fd08b62b27d26ed3.jpg",
+    "预览替换": "data/preview/86fb4d8291e32cea7802b3574df61a19235eb3ecd5b1bfc47176a6617ed4658a.jpg",
     "来源批次": "tokugawa-retainers",
     "差分": "sakakibara-50568"
   },
@@ -9054,10 +11193,10 @@
       65,
       72
     ],
-    "替换文件": "data/after/d8949c12445075045e858d3420d90f9ffcabed9c267f15abd3b69487c120ae75.png",
-    "替换SHA256": "d8949c12445075045e858d3420d90f9ffcabed9c267f15abd3b69487c120ae75",
+    "替换文件": "data/after/16129c24be8143288fae2cd42ec8d328712e1020eef20aa37fd47e9fe963282f.png",
+    "替换SHA256": "16129c24be8143288fae2cd42ec8d328712e1020eef20aa37fd47e9fe963282f",
     "预览原图": null,
-    "预览替换": "data/preview/d8949c12445075045e858d3420d90f9ffcabed9c267f15abd3b69487c120ae75.jpg",
+    "预览替换": "data/preview/16129c24be8143288fae2cd42ec8d328712e1020eef20aa37fd47e9fe963282f.jpg",
     "来源批次": "shingen-reference",
     "差分": "shingen-small-portrait"
   },
@@ -9108,6 +11247,29 @@
     "差分": "nobunaga-icon-50768"
   },
   {
+    "势力": "德川家",
+    "武将": "战姬（千姬）",
+    "角色ID": "name-136",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50826.QNT",
+    "指针": 6250,
+    "资源编号": [
+      50826
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/96b8844795c73d08d0b3ba1d0192ffa3fe37c5ed4d57ebc87dc9d135cd4d9439.png",
+    "替换SHA256": "96b8844795c73d08d0b3ba1d0192ffa3fe37c5ed4d57ebc87dc9d135cd4d9439",
+    "预览原图": null,
+    "预览替换": "data/preview/96b8844795c73d08d0b3ba1d0192ffa3fe37c5ed4d57ebc87dc9d135cd4d9439.jpg",
+    "来源批次": "senhime-reference",
+    "差分": "senhime-small-portrait"
+  },
+  {
     "势力": "尼子家残党",
     "武将": "山中子鹿",
     "角色ID": "name-137",
@@ -9129,6 +11291,29 @@
     "预览替换": "data/preview/2cedf63086ba1f2f3c3e1eba6c816f5d879c209ec4400b807b4b6db6d3181161.jpg",
     "来源批次": "kojika-reference",
     "差分": "kojika-small-portrait"
+  },
+  {
+    "势力": "巫女机关",
+    "武将": "玉签风华",
+    "角色ID": "name-141",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg50866.QNT",
+    "指针": 6253,
+    "资源编号": [
+      50866
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/5e2d2d7e1181541097ed3763d91afdfc02f2c041be01e26f2c1144da1072808f.png",
+    "替换SHA256": "5e2d2d7e1181541097ed3763d91afdfc02f2c041be01e26f2c1144da1072808f",
+    "预览原图": null,
+    "预览替换": "data/preview/5e2d2d7e1181541097ed3763d91afdfc02f2c041be01e26f2c1144da1072808f.jpg",
+    "来源批次": "fuuka-oju-reference",
+    "差分": "fuuka-50866"
   },
   {
     "势力": "织田家",
@@ -9290,5 +11475,28 @@
     "预览替换": "data/preview/48be2a8f49ba609e479a08df5b021c3a045d7a62909a1e1b7d7a19f516b92b01.jpg",
     "来源批次": "kuge-portraits",
     "差分": "kuge-tsuyoko-small"
+  },
+  {
+    "势力": "上杉家",
+    "武将": "上杉宪政",
+    "角色ID": "name-157",
+    "素材类型": "portrait",
+    "来源包": "rance7GA.ald",
+    "原生文件": "cg55458.QNT",
+    "指针": 6352,
+    "资源编号": [
+      55458
+    ],
+    "别名指针": [],
+    "尺寸": [
+      65,
+      72
+    ],
+    "替换文件": "data/after/ae3a7dbb3544cabbd5aa4109c7e241b2941c901b57b502be453b939a893c263c.png",
+    "替换SHA256": "ae3a7dbb3544cabbd5aa4109c7e241b2941c901b57b502be453b939a893c263c",
+    "预览原图": null,
+    "预览替换": "data/preview/ae3a7dbb3544cabbd5aa4109c7e241b2941c901b57b502be453b939a893c263c.jpg",
+    "来源批次": "norimasa-reference",
+    "差分": "norimasa-55458"
   }
 ]

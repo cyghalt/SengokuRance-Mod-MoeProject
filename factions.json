@@ -47,7 +47,15 @@
     "name-3": "希露·普莱恩",
     "name-151": "普鲁佩特",
     "name-6": "织田信长",
-    "name-32": "山本五十六"
+    "name-32": "山本五十六",
+    "name-49": "大道寺小松",
+    "name-5": "香姬",
+    "name-37": "明石风丸",
+    "name-48": "北条早云",
+    "name-55": "性眼",
+    "name-56": "言里",
+    "name-136": "战姬（千姬）",
+    "name-157": "上杉宪政"
   },
   "user_overrides": {
     "name-19": "织田家",
@@ -79,7 +87,8 @@
         "name-18",
         "name-16",
         "name-3",
-        "name-6"
+        "name-6",
+        "name-5"
       ]
     },
     {
@@ -127,7 +136,8 @@
         "name-58",
         "name-60",
         "name-62",
-        "name-61"
+        "name-61",
+        "name-136"
       ]
     },
     {
@@ -150,7 +160,8 @@
       "name": "上杉家",
       "characters": [
         "name-88",
-        "name-91"
+        "name-91",
+        "name-157"
       ]
     },
     {
@@ -168,7 +179,9 @@
       "id": "faction-14",
       "name": "北条家",
       "characters": [
-        "name-50"
+        "name-50",
+        "name-49",
+        "name-48"
       ]
     },
     {
@@ -192,6 +205,21 @@
       "name": "在野",
       "characters": [
         "name-151"
+      ]
+    },
+    {
+      "id": "faction-24",
+      "name": "明石家",
+      "characters": [
+        "name-37"
+      ]
+    },
+    {
+      "id": "faction-16",
+      "name": "天志教",
+      "characters": [
+        "name-55",
+        "name-56"
       ]
     }
   ]
