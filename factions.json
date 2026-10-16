@@ -221,6 +221,14 @@
         "name-55",
         "name-56"
       ]
+    },
+    {
+      "id": "faction-25",
+      "name": "毛利家",
+      "characters": [
+        "name-63",
+        "name-65"
+      ]
     }
   ]
 }

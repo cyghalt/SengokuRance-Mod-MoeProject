@@ -1,22 +1,21 @@
 {
  "schema": 2,
- "generated_at": "2026-10-14T19:58:12.112031+08:00",
+ "generated_at": "2026-10-16T22:49:03.361453+08:00",
  "source_manifest_sha256": "ff46f2c5e84e0d736394d4131a1c0e1c0e0d52fe5a87c323b28e6cbf73038fc9",
  "game_default": "",
  "game_files": [
   "rance7GA.ald",
   "rance7GM.ald"
  ],
- "total_entries": 500,
- "unique_after": 252,
+ "total_entries": 550,
+ "unique_after": 276,
  "unique_before": 0,
- "after_bytes": 68498464,
+ "after_bytes": 76542823,
  "groups": [
   {
    "key": "suzume-reference",
    "mod": "suzume-reference",
    "title": "铃女",
-   "count": 8,
    "entries": [
     0,
     1,
@@ -26,13 +25,13 @@
     251,
     252,
     253
-   ]
+   ],
+   "count": 8
   },
   {
    "key": "nobunaga-reference",
    "mod": "nobunaga-reference",
    "title": "织田信长／查比埃尔",
-   "count": 38,
    "entries": [
     4,
     5,
@@ -72,13 +71,13 @@
     455,
     487,
     488
-   ]
+   ],
+   "count": 38
   },
   {
    "key": "kou-reference",
    "mod": "kou-reference",
    "title": "织田香",
-   "count": 14,
    "entries": [
     12,
     13,
@@ -94,13 +93,13 @@
     266,
     267,
     456
-   ]
+   ],
+   "count": 14
   },
   {
    "key": "kenshin-reference",
    "mod": "kenshin-reference",
    "title": "上杉谦信",
-   "count": 26,
    "entries": [
     18,
     19,
@@ -128,13 +127,13 @@
     281,
     385,
     395
-   ]
+   ],
+   "count": 26
   },
   {
    "key": "naoe-ai-reference",
    "mod": "naoe-ai-reference",
    "title": "直江爱",
-   "count": 6,
    "entries": [
     28,
     29,
@@ -142,13 +141,13 @@
     278,
     279,
     280
-   ]
+   ],
+   "count": 6
   },
   {
    "key": "3g-reference",
    "mod": "3g-reference",
    "title": "3G",
-   "count": 16,
    "entries": [
     32,
     33,
@@ -166,37 +165,37 @@
     287,
     288,
     289
-   ]
+   ],
+   "count": 16
   },
   {
    "key": "shibata-reference",
    "mod": "shibata-reference",
    "title": "柴田胜家",
-   "count": 4,
    "entries": [
     40,
     41,
     290,
     291
-   ]
+   ],
+   "count": 4
   },
   {
    "key": "ranmaru-reference",
    "mod": "ranmaru-reference",
    "title": "乱丸",
-   "count": 4,
    "entries": [
     42,
     43,
     292,
     293
-   ]
+   ],
+   "count": 4
   },
   {
    "key": "soun-reference",
    "mod": "soun-reference",
    "title": "北条 早云",
-   "count": 18,
    "entries": [
     44,
     45,
@@ -216,13 +215,13 @@
     421,
     443,
     459
-   ]
+   ],
+   "count": 18
   },
   {
    "key": "daidouji-reference",
    "mod": "daidouji-reference",
    "title": "大道寺小松",
-   "count": 6,
    "entries": [
     50,
     51,
@@ -230,13 +229,13 @@
     300,
     301,
     460
-   ]
+   ],
+   "count": 6
   },
   {
    "key": "ran-reference",
    "mod": "ran-reference",
    "title": "南条兰",
-   "count": 8,
    "entries": [
     52,
     53,
@@ -246,13 +245,13 @@
     303,
     304,
     461
-   ]
+   ],
+   "count": 8
   },
   {
    "key": "ashikaga-reference",
    "mod": "ashikaga-reference",
    "title": "足利 超神",
-   "count": 10,
    "entries": [
     55,
     56,
@@ -264,13 +263,13 @@
     401,
     408,
     462
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "isoroku-reference",
    "mod": "isoroku-reference",
    "title": "山本五十六",
-   "count": 18,
    "entries": [
     57,
     58,
@@ -290,13 +289,13 @@
     432,
     452,
     463
-   ]
+   ],
+   "count": 18
   },
   {
    "key": "ikkyu-reference",
    "mod": "ikkyu-reference",
    "title": "一休",
-   "count": 10,
    "entries": [
     61,
     62,
@@ -308,13 +307,13 @@
     410,
     433,
     464
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "hara-reference",
    "mod": "hara-reference",
    "title": "原 昌示",
-   "count": 18,
    "entries": [
     63,
     64,
@@ -334,13 +333,13 @@
     451,
     465,
     466
-   ]
+   ],
+   "count": 18
   },
   {
    "key": "fuuka-oju-reference",
    "mod": "fuuka-oju-reference",
    "title": "玉签风华／原阿树",
-   "count": 14,
    "entries": [
     66,
     67,
@@ -356,13 +355,13 @@
     380,
     467,
     491
-   ]
+   ],
+   "count": 14
   },
   {
    "key": "kazemaru-reference",
    "mod": "kazemaru-reference",
    "title": "明石风丸",
-   "count": 10,
    "entries": [
     68,
     69,
@@ -374,13 +373,13 @@
     320,
     398,
     468
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "dazan-reference",
    "mod": "dazan-reference",
    "title": "发禁堕山",
-   "count": 8,
    "entries": [
     71,
     72,
@@ -390,13 +389,13 @@
     322,
     323,
     324
-   ]
+   ],
+   "count": 8
   },
   {
    "key": "asakura-reference",
    "mod": "asakura-reference",
    "title": "朝仓 义景",
-   "count": 12,
    "entries": [
     75,
     76,
@@ -410,13 +409,13 @@
     426,
     448,
     469
-   ]
+   ],
+   "count": 12
   },
   {
    "key": "tanegashima-reference",
    "mod": "tanegashima-reference",
    "title": "种子岛 重彦",
-   "count": 12,
    "entries": [
     77,
     78,
@@ -430,13 +429,13 @@
     414,
     436,
     470
-   ]
+   ],
+   "count": 12
   },
   {
    "key": "yuzumi-reference",
    "mod": "yuzumi-reference",
    "title": "柚原柚美",
-   "count": 6,
    "entries": [
     79,
     80,
@@ -444,13 +443,13 @@
     329,
     330,
     331
-   ]
+   ],
+   "count": 6
   },
   {
    "key": "seigan-reference",
    "mod": "seigan-reference",
    "title": "性眼",
-   "count": 12,
    "entries": [
     82,
     83,
@@ -464,13 +463,13 @@
     411,
     434,
     471
-   ]
+   ],
+   "count": 12
   },
   {
    "key": "gonri-reference",
    "mod": "gonri-reference",
    "title": "言里",
-   "count": 6,
    "entries": [
     84,
     85,
@@ -478,13 +477,13 @@
     334,
     335,
     472
-   ]
+   ],
+   "count": 6
   },
   {
    "key": "ryoma-reference",
    "mod": "ryoma-reference",
    "title": "坂本 龙马",
-   "count": 14,
    "entries": [
     86,
     87,
@@ -499,26 +498,46 @@
     339,
     340,
     341,
-    403
-   ]
+    403,
+    507,
+    509,
+    512,
+    513,
+    514,
+    517,
+    518,
+    522,
+    523,
+    524,
+    532,
+    534,
+    537,
+    538,
+    539,
+    542,
+    543,
+    547,
+    548,
+    549
+   ],
+   "count": 34
   },
   {
    "key": "gon-reference",
    "mod": "gon-reference",
    "title": "冈",
-   "count": 4,
    "entries": [
     92,
     93,
     342,
     343
-   ]
+   ],
+   "count": 4
   },
   {
    "key": "yuzuru-reference",
    "mod": "yuzuru-reference",
    "title": "川之江 让",
-   "count": 10,
    "entries": [
     94,
     95,
@@ -530,13 +549,13 @@
     413,
     435,
     473
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "ieyasu-reference",
    "mod": "ieyasu-reference",
    "title": "德川家康",
-   "count": 12,
    "entries": [
     96,
     97,
@@ -550,13 +569,13 @@
     415,
     437,
     474
-   ]
+   ],
+   "count": 12
   },
   {
    "key": "tokugawa-retainers",
    "mod": "tokugawa-retainers",
    "title": "德川系六人",
-   "count": 44,
    "entries": [
     98,
     99,
@@ -602,13 +621,13 @@
     478,
     479,
     480
-   ]
+   ],
+   "count": 44
   },
   {
    "key": "inukai-reference",
    "mod": "inukai-reference",
    "title": "忍王 犬饲",
-   "count": 12,
    "entries": [
     104,
     105,
@@ -622,13 +641,13 @@
     427,
     449,
     481
-   ]
+   ],
+   "count": 12
   },
   {
    "key": "kosaka-reference",
    "mod": "kosaka-reference",
    "title": "高坂 义风",
-   "count": 10,
    "entries": [
     106,
     107,
@@ -640,13 +659,13 @@
     424,
     446,
     482
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "tourin-reference",
    "mod": "tourin-reference",
    "title": "真田 透琳",
-   "count": 10,
    "entries": [
     108,
     109,
@@ -658,13 +677,13 @@
     422,
     444,
     483
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "baba-reference",
    "mod": "baba-reference",
    "title": "马场彰炎",
-   "count": 10,
    "entries": [
     110,
     111,
@@ -676,13 +695,13 @@
     423,
     445,
     484
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "yamagata-reference",
    "mod": "yamagata-reference",
    "title": "山县 昌景",
-   "count": 10,
    "entries": [
     112,
     113,
@@ -694,13 +713,13 @@
     425,
     447,
     485
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "shingen-reference",
    "mod": "shingen-reference",
    "title": "武田 信玄",
-   "count": 8,
    "entries": [
     114,
     115,
@@ -710,25 +729,25 @@
     365,
     393,
     486
-   ]
+   ],
+   "count": 8
   },
   {
    "key": "plupet-reference",
    "mod": "plupet-reference",
    "title": "普鲁佩特",
-   "count": 4,
    "entries": [
     122,
     123,
     372,
     373
-   ]
+   ],
+   "count": 4
   },
   {
    "key": "senhime-reference",
    "mod": "senhime-reference",
    "title": "战姬（千姬）",
-   "count": 10,
    "entries": [
     124,
     125,
@@ -740,13 +759,13 @@
     428,
     450,
     489
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "kojika-reference",
    "mod": "kojika-reference",
    "title": "山中 子鹿",
-   "count": 6,
    "entries": [
     126,
     127,
@@ -754,23 +773,23 @@
     376,
     377,
     490
-   ]
+   ],
+   "count": 6
   },
   {
    "key": "akechi-reference",
    "mod": "akechi-reference",
    "title": "明智光秀",
-   "count": 2,
    "entries": [
     131,
     381
-   ]
+   ],
+   "count": 2
   },
   {
    "key": "portrait-scale-adjustment",
    "mod": "portrait-scale-adjustment",
    "title": "立绘取景调整（光秀／利家／庆次）",
-   "count": 10,
    "entries": [
     132,
     133,
@@ -782,23 +801,23 @@
     492,
     493,
     494
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "hojo-army-upgrade",
    "mod": "hojo-army-upgrade",
    "title": "hojo-army-upgrade",
-   "count": 2,
    "entries": [
     136,
     386
-   ]
+   ],
+   "count": 2
   },
   {
    "key": "niwa-settoku-reference",
    "mod": "niwa-settoku-reference",
    "title": "丹羽长秀／说得法师",
-   "count": 8,
    "entries": [
     137,
     138,
@@ -808,13 +827,13 @@
     388,
     495,
     496
-   ]
+   ],
+   "count": 8
   },
   {
    "key": "kuge-portraits",
    "mod": "kuge-portraits",
    "title": "公家 强子／京子",
-   "count": 8,
    "entries": [
     139,
     140,
@@ -824,47 +843,47 @@
     390,
     497,
     498
-   ]
+   ],
+   "count": 8
   },
   {
    "key": "norimasa-reference",
    "mod": "norimasa-reference",
    "title": "上杉宪政",
-   "count": 4,
    "entries": [
     141,
     249,
     391,
     499
-   ]
+   ],
+   "count": 4
   },
   {
    "key": "soun-faction-upgrade",
    "mod": "soun-faction-upgrade",
    "title": "北条早云",
-   "count": 2,
    "entries": [
     144,
     394
-   ]
+   ],
+   "count": 2
   },
   {
    "key": "shibata-gon-battle",
    "mod": "shibata-gon-battle",
    "title": "战斗形象（柴田／冈）",
-   "count": 4,
    "entries": [
     155,
     162,
     405,
     412
-   ]
+   ],
+   "count": 4
   },
   {
    "key": "primary-icons-actions",
    "mod": "primary-icons-actions",
    "title": "小头像与战斗动作（兰斯／柴田／乱丸）",
-   "count": 10,
    "entries": [
     156,
     179,
@@ -876,17 +895,56 @@
     430,
     457,
     458
-   ]
+   ],
+   "count": 10
   },
   {
    "key": "sill-suzume-small-portraits",
    "mod": "sill-suzume-small-portraits",
    "title": "希露／铃女小头像",
-   "count": 2,
    "entries": [
     203,
     453
-   ]
+   ],
+   "count": 2
+  },
+  {
+   "key": "motonari-reference",
+   "mod": "motonari-reference",
+   "title": "毛利元就",
+   "entries": [
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    508,
+    510,
+    511,
+    515,
+    516,
+    519,
+    520,
+    521,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    533,
+    535,
+    536,
+    540,
+    541,
+    544,
+    545,
+    546
+   ],
+   "count": 30
   }
  ],
  "characters": [
@@ -1394,17 +1452,47 @@
     339,
     340,
     341,
-    403
+    403,
+    507,
+    509,
+    512,
+    513,
+    514,
+    517,
+    518,
+    522,
+    523,
+    524,
+    532,
+    534,
+    537,
+    538,
+    539,
+    542,
+    543,
+    547,
+    548,
+    549
    ],
    "portrait": 89,
-   "battle": null,
+   "battle": 509,
    "previews": {
     "portrait": [
      89,
      90,
-     91
+     91,
+     522,
+     523,
+     524
     ],
-    "battle": []
+    "battle": [
+     509,
+     512,
+     513,
+     514,
+     517,
+     518
+    ]
    }
   },
   {
@@ -1908,6 +1996,71 @@
     "portrait": [
      115,
      236
+    ],
+    "battle": []
+   }
+  },
+  {
+   "id": "name-63",
+   "name": "毛利元就",
+   "entries": [
+    500,
+    501,
+    502,
+    503,
+    504,
+    506,
+    508,
+    510,
+    511,
+    515,
+    516,
+    519,
+    520,
+    521,
+    525,
+    526,
+    527,
+    528,
+    529,
+    531,
+    533,
+    535,
+    536,
+    540,
+    541,
+    544,
+    545,
+    546
+   ],
+   "portrait": 503,
+   "battle": 511,
+   "previews": {
+    "portrait": [
+     503,
+     504,
+     519,
+     520,
+     521
+    ],
+    "battle": [
+     511,
+     516
+    ]
+   }
+  },
+  {
+   "id": "name-65",
+   "name": "毛利元就（灵体）",
+   "entries": [
+    505,
+    530
+   ],
+   "portrait": 505,
+   "battle": null,
+   "previews": {
+    "portrait": [
+     505
     ],
     "battle": []
    }
@@ -4793,12 +4946,12 @@
    "alpha": true,
    "alpha_sha256": "b317ae60a0b841ea82a0fe45230170c6dd46c1885c1f69cf1fb3e8c5a4d93b1f",
    "pristine_sha256": "536751d8aa83ba5700bc3c16a1dd79dfc5dcec8a822ccd6db0e3e67fe0a8dd2d",
-   "after_sha256": "d59abb565723952d2fe02daa747a9a645e760fa472b0f01f258a19a5a2a8aeb3",
+   "after_sha256": "1ef72b351b71752ddbd689f54248b61e859a77420285628a61bbfba8bfbf6091",
    "before_sha256": "b36f015a2e901299a4c6a123732055d58afe684965b4943dc760bccc802ec526",
-   "after_file": "data/after/d59abb565723952d2fe02daa747a9a645e760fa472b0f01f258a19a5a2a8aeb3.png",
-   "after_preview": "data/preview/d59abb565723952d2fe02daa747a9a645e760fa472b0f01f258a19a5a2a8aeb3.jpg",
+   "after_file": "data/after/1ef72b351b71752ddbd689f54248b61e859a77420285628a61bbfba8bfbf6091.png",
+   "after_preview": "data/preview/1ef72b351b71752ddbd689f54248b61e859a77420285628a61bbfba8bfbf6091.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/d59abb565723952d2fe02daa747a9a645e760fa472b0f01f258a19a5a2a8aeb3.jpg",
+   "after_thumb": "data/thumbs/1ef72b351b71752ddbd689f54248b61e859a77420285628a61bbfba8bfbf6091.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -4822,12 +4975,12 @@
    "alpha": true,
    "alpha_sha256": "544b724f34baeb70bd1c654525a242b403b85b9ac8a310607c9262b0408e7864",
    "pristine_sha256": "c9de212b5de516735aa52ff274e77f9486046566d8c62c678476178407435109",
-   "after_sha256": "8cb5135aeec2549e9f4ba0cde841630187a79b83ce79799888d8ba4f30b6c2e2",
+   "after_sha256": "af3aa23d7b9ae1158d625c6619bd8e7f495f40bebae17a0361019045adadcccf",
    "before_sha256": "df7d3e0da897bd3f356d67383a923d15a1f6d77458d3d0d838c1b5108c48ae3e",
-   "after_file": "data/after/8cb5135aeec2549e9f4ba0cde841630187a79b83ce79799888d8ba4f30b6c2e2.png",
-   "after_preview": "data/preview/8cb5135aeec2549e9f4ba0cde841630187a79b83ce79799888d8ba4f30b6c2e2.jpg",
+   "after_file": "data/after/af3aa23d7b9ae1158d625c6619bd8e7f495f40bebae17a0361019045adadcccf.png",
+   "after_preview": "data/preview/af3aa23d7b9ae1158d625c6619bd8e7f495f40bebae17a0361019045adadcccf.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/8cb5135aeec2549e9f4ba0cde841630187a79b83ce79799888d8ba4f30b6c2e2.jpg",
+   "after_thumb": "data/thumbs/af3aa23d7b9ae1158d625c6619bd8e7f495f40bebae17a0361019045adadcccf.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -4851,12 +5004,12 @@
    "alpha": true,
    "alpha_sha256": "dc2e2ffa56cb5c574325cd265dcb0b1b3a6d5c4d67d64b6f728a5f183454c557",
    "pristine_sha256": "f5b290324a899ea91b43b175d0cbc2e902f35fc6611e6fe95eb94d9e7c43a670",
-   "after_sha256": "bed46075bc5d261497550b89728391b5ece781f2b7a2b71013fc163e33b606c9",
+   "after_sha256": "00f2cd22359090a794d78ed085859b2252bff4cdc942bba664ce7aa28299d05c",
    "before_sha256": "6e27545928801f2d81b8a812dc334d3a617c0115d6a1644c4cc8d38e29f0482f",
-   "after_file": "data/after/bed46075bc5d261497550b89728391b5ece781f2b7a2b71013fc163e33b606c9.png",
-   "after_preview": "data/preview/bed46075bc5d261497550b89728391b5ece781f2b7a2b71013fc163e33b606c9.jpg",
+   "after_file": "data/after/00f2cd22359090a794d78ed085859b2252bff4cdc942bba664ce7aa28299d05c.png",
+   "after_preview": "data/preview/00f2cd22359090a794d78ed085859b2252bff4cdc942bba664ce7aa28299d05c.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/bed46075bc5d261497550b89728391b5ece781f2b7a2b71013fc163e33b606c9.jpg",
+   "after_thumb": "data/thumbs/00f2cd22359090a794d78ed085859b2252bff4cdc942bba664ce7aa28299d05c.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -4880,12 +5033,12 @@
    "alpha": true,
    "alpha_sha256": "58b99eb2e3cb5e78eb6d2bac72506fa683f36f01f7df55fc0b0296d10e51f9bd",
    "pristine_sha256": "ef9e2b3ba292b494f031d431ee8f2e19c0d45b058138cae1cd9ae2d3807c1200",
-   "after_sha256": "7688de5010a5cc5fba94239c4484a8ee99458abaf3f8e20c7f1dbc60b7b64f70",
+   "after_sha256": "668f82cda444bc3c5aa55bb569b99dc80c234f13e7d6ec88b8787a33c4eff2d7",
    "before_sha256": "5ea678dc083b6eb74368505602cfeabd0bcc37b42446ac46caec9f282152ac1b",
-   "after_file": "data/after/7688de5010a5cc5fba94239c4484a8ee99458abaf3f8e20c7f1dbc60b7b64f70.png",
-   "after_preview": "data/preview/7688de5010a5cc5fba94239c4484a8ee99458abaf3f8e20c7f1dbc60b7b64f70.jpg",
+   "after_file": "data/after/668f82cda444bc3c5aa55bb569b99dc80c234f13e7d6ec88b8787a33c4eff2d7.png",
+   "after_preview": "data/preview/668f82cda444bc3c5aa55bb569b99dc80c234f13e7d6ec88b8787a33c4eff2d7.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/7688de5010a5cc5fba94239c4484a8ee99458abaf3f8e20c7f1dbc60b7b64f70.jpg",
+   "after_thumb": "data/thumbs/668f82cda444bc3c5aa55bb569b99dc80c234f13e7d6ec88b8787a33c4eff2d7.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -4909,12 +5062,12 @@
    "alpha": true,
    "alpha_sha256": "c340293dec2fb5b2125342028a6264f814dceef72a62d9119520f52ce2a960ba",
    "pristine_sha256": "94a6da95ecc8935fed2d4f3fbc6a64b611ecdc8b6af0cbd6298407ee86dd5306",
-   "after_sha256": "6954fc0570782893daf14b1b127b1f9332e79c467ec140c16a2075134a3e5c8b",
+   "after_sha256": "9a834077e00a1e48a8fd1d484774dc4f2a4dfb328954b42de2538eeaf1648e12",
    "before_sha256": "3b28ca66d793bc1b271c91aba549d6f7a606c11cad8e0ea9304e13309884bfe3",
-   "after_file": "data/after/6954fc0570782893daf14b1b127b1f9332e79c467ec140c16a2075134a3e5c8b.png",
-   "after_preview": "data/preview/6954fc0570782893daf14b1b127b1f9332e79c467ec140c16a2075134a3e5c8b.jpg",
+   "after_file": "data/after/9a834077e00a1e48a8fd1d484774dc4f2a4dfb328954b42de2538eeaf1648e12.png",
+   "after_preview": "data/preview/9a834077e00a1e48a8fd1d484774dc4f2a4dfb328954b42de2538eeaf1648e12.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/6954fc0570782893daf14b1b127b1f9332e79c467ec140c16a2075134a3e5c8b.jpg",
+   "after_thumb": "data/thumbs/9a834077e00a1e48a8fd1d484774dc4f2a4dfb328954b42de2538eeaf1648e12.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -4938,12 +5091,12 @@
    "alpha": true,
    "alpha_sha256": "bb1f8e0eef6bbb1394b262fd808c489da7214e055c3267fd16ce60e47068b42c",
    "pristine_sha256": "a24e9f8da9be7f5464b0bbc964b803c109af8886c17a131fdc7b5b8b5a0d2360",
-   "after_sha256": "5a81b7419dc9317dcea85c061a63e79dc56406c3bae7103dc452d8042db19627",
+   "after_sha256": "0e5d845417b733f7e264112bc02620d0e5a1628d51112622a032193e06d7d3af",
    "before_sha256": "84f50445e0f62899f8d54e8ba842539ed6b37d683dcc36a656c9a6ffe88be17f",
-   "after_file": "data/after/5a81b7419dc9317dcea85c061a63e79dc56406c3bae7103dc452d8042db19627.png",
-   "after_preview": "data/preview/5a81b7419dc9317dcea85c061a63e79dc56406c3bae7103dc452d8042db19627.jpg",
+   "after_file": "data/after/0e5d845417b733f7e264112bc02620d0e5a1628d51112622a032193e06d7d3af.png",
+   "after_preview": "data/preview/0e5d845417b733f7e264112bc02620d0e5a1628d51112622a032193e06d7d3af.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/5a81b7419dc9317dcea85c061a63e79dc56406c3bae7103dc452d8042db19627.jpg",
+   "after_thumb": "data/thumbs/0e5d845417b733f7e264112bc02620d0e5a1628d51112622a032193e06d7d3af.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -6736,12 +6889,12 @@
    "alpha": true,
    "alpha_sha256": "fd3df91fd84ccf152312658b574cb0215e3bca334105a24ecc48f7f4f0a92261",
    "pristine_sha256": "a0f4dcb025564862786706a3fdfcb1f3a06cca172d16daf58f21a721b70d2b4e",
-   "after_sha256": "83ff467195bb81c75042b023bc06c02b55f532582c82c7e06e6484d356d9cbe4",
+   "after_sha256": "38ab2096f425088ab1fb46047d8f8817d6b3fd66a16f553bd628cb8e46486314",
    "before_sha256": "b56d0672b1513c87a832179b4276e65209222f978176c7c31160aba73eeca653",
-   "after_file": "data/after/83ff467195bb81c75042b023bc06c02b55f532582c82c7e06e6484d356d9cbe4.png",
-   "after_preview": "data/preview/83ff467195bb81c75042b023bc06c02b55f532582c82c7e06e6484d356d9cbe4.jpg",
+   "after_file": "data/after/38ab2096f425088ab1fb46047d8f8817d6b3fd66a16f553bd628cb8e46486314.png",
+   "after_preview": "data/preview/38ab2096f425088ab1fb46047d8f8817d6b3fd66a16f553bd628cb8e46486314.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/83ff467195bb81c75042b023bc06c02b55f532582c82c7e06e6484d356d9cbe4.jpg",
+   "after_thumb": "data/thumbs/38ab2096f425088ab1fb46047d8f8817d6b3fd66a16f553bd628cb8e46486314.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -12043,12 +12196,12 @@
    "alpha": true,
    "alpha_sha256": "b317ae60a0b841ea82a0fe45230170c6dd46c1885c1f69cf1fb3e8c5a4d93b1f",
    "pristine_sha256": "07f086744d2543548212bf54eeab8ae8bdc7feb8cc381b00faf4a8123167d1d8",
-   "after_sha256": "d59abb565723952d2fe02daa747a9a645e760fa472b0f01f258a19a5a2a8aeb3",
+   "after_sha256": "1ef72b351b71752ddbd689f54248b61e859a77420285628a61bbfba8bfbf6091",
    "before_sha256": "7f90f61d0c8e248ae7110756333ea710f42a7087451ca5b0ba674654119b74b6",
-   "after_file": "data/after/d59abb565723952d2fe02daa747a9a645e760fa472b0f01f258a19a5a2a8aeb3.png",
-   "after_preview": "data/preview/d59abb565723952d2fe02daa747a9a645e760fa472b0f01f258a19a5a2a8aeb3.jpg",
+   "after_file": "data/after/1ef72b351b71752ddbd689f54248b61e859a77420285628a61bbfba8bfbf6091.png",
+   "after_preview": "data/preview/1ef72b351b71752ddbd689f54248b61e859a77420285628a61bbfba8bfbf6091.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/d59abb565723952d2fe02daa747a9a645e760fa472b0f01f258a19a5a2a8aeb3.jpg",
+   "after_thumb": "data/thumbs/1ef72b351b71752ddbd689f54248b61e859a77420285628a61bbfba8bfbf6091.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -12072,12 +12225,12 @@
    "alpha": true,
    "alpha_sha256": "544b724f34baeb70bd1c654525a242b403b85b9ac8a310607c9262b0408e7864",
    "pristine_sha256": "cee748504a502bbe2b0efeadf1d52af9682f0e42e9e92476d90145b7821eca67",
-   "after_sha256": "8cb5135aeec2549e9f4ba0cde841630187a79b83ce79799888d8ba4f30b6c2e2",
+   "after_sha256": "af3aa23d7b9ae1158d625c6619bd8e7f495f40bebae17a0361019045adadcccf",
    "before_sha256": "6c6a0c03dae455b38a85e2734fb4deeac62bc1d421083e02be809af450d6df4d",
-   "after_file": "data/after/8cb5135aeec2549e9f4ba0cde841630187a79b83ce79799888d8ba4f30b6c2e2.png",
-   "after_preview": "data/preview/8cb5135aeec2549e9f4ba0cde841630187a79b83ce79799888d8ba4f30b6c2e2.jpg",
+   "after_file": "data/after/af3aa23d7b9ae1158d625c6619bd8e7f495f40bebae17a0361019045adadcccf.png",
+   "after_preview": "data/preview/af3aa23d7b9ae1158d625c6619bd8e7f495f40bebae17a0361019045adadcccf.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/8cb5135aeec2549e9f4ba0cde841630187a79b83ce79799888d8ba4f30b6c2e2.jpg",
+   "after_thumb": "data/thumbs/af3aa23d7b9ae1158d625c6619bd8e7f495f40bebae17a0361019045adadcccf.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -12101,12 +12254,12 @@
    "alpha": true,
    "alpha_sha256": "dc2e2ffa56cb5c574325cd265dcb0b1b3a6d5c4d67d64b6f728a5f183454c557",
    "pristine_sha256": "eb3f491741fe6106f5d630a3115877aa7c793f67ead3e866a6fce95bb34e455d",
-   "after_sha256": "bed46075bc5d261497550b89728391b5ece781f2b7a2b71013fc163e33b606c9",
+   "after_sha256": "00f2cd22359090a794d78ed085859b2252bff4cdc942bba664ce7aa28299d05c",
    "before_sha256": "625228cf40e3c001806f61608d3d9b53c793a902153c9b2d0ab16dbf1e8ccd03",
-   "after_file": "data/after/bed46075bc5d261497550b89728391b5ece781f2b7a2b71013fc163e33b606c9.png",
-   "after_preview": "data/preview/bed46075bc5d261497550b89728391b5ece781f2b7a2b71013fc163e33b606c9.jpg",
+   "after_file": "data/after/00f2cd22359090a794d78ed085859b2252bff4cdc942bba664ce7aa28299d05c.png",
+   "after_preview": "data/preview/00f2cd22359090a794d78ed085859b2252bff4cdc942bba664ce7aa28299d05c.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/bed46075bc5d261497550b89728391b5ece781f2b7a2b71013fc163e33b606c9.jpg",
+   "after_thumb": "data/thumbs/00f2cd22359090a794d78ed085859b2252bff4cdc942bba664ce7aa28299d05c.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -12130,12 +12283,12 @@
    "alpha": true,
    "alpha_sha256": "58b99eb2e3cb5e78eb6d2bac72506fa683f36f01f7df55fc0b0296d10e51f9bd",
    "pristine_sha256": "43759d630c2672014c1c06f1a613e65fbf8e44503e23c7c12695939d1799a1fe",
-   "after_sha256": "7688de5010a5cc5fba94239c4484a8ee99458abaf3f8e20c7f1dbc60b7b64f70",
+   "after_sha256": "668f82cda444bc3c5aa55bb569b99dc80c234f13e7d6ec88b8787a33c4eff2d7",
    "before_sha256": "5ea678dc083b6eb74368505602cfeabd0bcc37b42446ac46caec9f282152ac1b",
-   "after_file": "data/after/7688de5010a5cc5fba94239c4484a8ee99458abaf3f8e20c7f1dbc60b7b64f70.png",
-   "after_preview": "data/preview/7688de5010a5cc5fba94239c4484a8ee99458abaf3f8e20c7f1dbc60b7b64f70.jpg",
+   "after_file": "data/after/668f82cda444bc3c5aa55bb569b99dc80c234f13e7d6ec88b8787a33c4eff2d7.png",
+   "after_preview": "data/preview/668f82cda444bc3c5aa55bb569b99dc80c234f13e7d6ec88b8787a33c4eff2d7.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/7688de5010a5cc5fba94239c4484a8ee99458abaf3f8e20c7f1dbc60b7b64f70.jpg",
+   "after_thumb": "data/thumbs/668f82cda444bc3c5aa55bb569b99dc80c234f13e7d6ec88b8787a33c4eff2d7.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -12159,12 +12312,12 @@
    "alpha": true,
    "alpha_sha256": "c340293dec2fb5b2125342028a6264f814dceef72a62d9119520f52ce2a960ba",
    "pristine_sha256": "3444d38e825846d21951ee8e06ec750a0576e4823da1b0bf4f0f5698c1efad4a",
-   "after_sha256": "6954fc0570782893daf14b1b127b1f9332e79c467ec140c16a2075134a3e5c8b",
+   "after_sha256": "9a834077e00a1e48a8fd1d484774dc4f2a4dfb328954b42de2538eeaf1648e12",
    "before_sha256": "3b28ca66d793bc1b271c91aba549d6f7a606c11cad8e0ea9304e13309884bfe3",
-   "after_file": "data/after/6954fc0570782893daf14b1b127b1f9332e79c467ec140c16a2075134a3e5c8b.png",
-   "after_preview": "data/preview/6954fc0570782893daf14b1b127b1f9332e79c467ec140c16a2075134a3e5c8b.jpg",
+   "after_file": "data/after/9a834077e00a1e48a8fd1d484774dc4f2a4dfb328954b42de2538eeaf1648e12.png",
+   "after_preview": "data/preview/9a834077e00a1e48a8fd1d484774dc4f2a4dfb328954b42de2538eeaf1648e12.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/6954fc0570782893daf14b1b127b1f9332e79c467ec140c16a2075134a3e5c8b.jpg",
+   "after_thumb": "data/thumbs/9a834077e00a1e48a8fd1d484774dc4f2a4dfb328954b42de2538eeaf1648e12.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -12188,12 +12341,12 @@
    "alpha": true,
    "alpha_sha256": "bb1f8e0eef6bbb1394b262fd808c489da7214e055c3267fd16ce60e47068b42c",
    "pristine_sha256": "5efd24c24ed8672b203c504f9639cdc4955fa08d54e33b13a27aeb3e29ae452d",
-   "after_sha256": "5a81b7419dc9317dcea85c061a63e79dc56406c3bae7103dc452d8042db19627",
+   "after_sha256": "0e5d845417b733f7e264112bc02620d0e5a1628d51112622a032193e06d7d3af",
    "before_sha256": "84f50445e0f62899f8d54e8ba842539ed6b37d683dcc36a656c9a6ffe88be17f",
-   "after_file": "data/after/5a81b7419dc9317dcea85c061a63e79dc56406c3bae7103dc452d8042db19627.png",
-   "after_preview": "data/preview/5a81b7419dc9317dcea85c061a63e79dc56406c3bae7103dc452d8042db19627.jpg",
+   "after_file": "data/after/0e5d845417b733f7e264112bc02620d0e5a1628d51112622a032193e06d7d3af.png",
+   "after_preview": "data/preview/0e5d845417b733f7e264112bc02620d0e5a1628d51112622a032193e06d7d3af.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/5a81b7419dc9317dcea85c061a63e79dc56406c3bae7103dc452d8042db19627.jpg",
+   "after_thumb": "data/thumbs/0e5d845417b733f7e264112bc02620d0e5a1628d51112622a032193e06d7d3af.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -13986,12 +14139,12 @@
    "alpha": true,
    "alpha_sha256": "fd3df91fd84ccf152312658b574cb0215e3bca334105a24ecc48f7f4f0a92261",
    "pristine_sha256": "cbc57a327b4a2967ac4368dec8467af671b698c3ab374dadded43716e0ffab71",
-   "after_sha256": "83ff467195bb81c75042b023bc06c02b55f532582c82c7e06e6484d356d9cbe4",
+   "after_sha256": "38ab2096f425088ab1fb46047d8f8817d6b3fd66a16f553bd628cb8e46486314",
    "before_sha256": "0c26e6e89cb5b774cf3e5f3a1315bfe336f5017df0cdc6343a9a21c1871deca5",
-   "after_file": "data/after/83ff467195bb81c75042b023bc06c02b55f532582c82c7e06e6484d356d9cbe4.png",
-   "after_preview": "data/preview/83ff467195bb81c75042b023bc06c02b55f532582c82c7e06e6484d356d9cbe4.jpg",
+   "after_file": "data/after/38ab2096f425088ab1fb46047d8f8817d6b3fd66a16f553bd628cb8e46486314.png",
+   "after_preview": "data/preview/38ab2096f425088ab1fb46047d8f8817d6b3fd66a16f553bd628cb8e46486314.jpg",
    "before_preview": null,
-   "after_thumb": "data/thumbs/83ff467195bb81c75042b023bc06c02b55f532582c82c7e06e6484d356d9cbe4.jpg",
+   "after_thumb": "data/thumbs/38ab2096f425088ab1fb46047d8f8817d6b3fd66a16f553bd628cb8e46486314.jpg",
    "before_thumb": null,
    "character_id": "name-69",
    "character_name": "坂本 龙马",
@@ -16782,6 +16935,1456 @@
    "variant_id": "norimasa-55458",
    "comparison_group": "norimasa-55458",
    "mod": "norimasa-reference",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/00153__cg00421.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 153,
+   "internal_name": "cg00421.QNT",
+   "resource_ids": [
+    421
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": true,
+   "alpha_sha256": "a9a8c9a121fd5665c5675652c78b59bd9ad39f6e793e191df6436645074211fd",
+   "pristine_sha256": "e875afe5cc184921a352b7f33966210d5dd9b82aa1ed78ce103a2fb9b9532f13",
+   "before_sha256": "9a9bc9b4ade91942d75be56a7218d9a66b3097a628ea2db67f8bf8224c92a741",
+   "after_sha256": "8f75ce03ac7e0c933c4229a775d7f36380d7a6e96690b1a1af931b42c42e985d",
+   "after_file": "data/after/8f75ce03ac7e0c933c4229a775d7f36380d7a6e96690b1a1af931b42c42e985d.png",
+   "after_preview": "data/preview/8f75ce03ac7e0c933c4229a775d7f36380d7a6e96690b1a1af931b42c42e985d.jpg",
+   "after_thumb": "data/thumbs/8f75ce03ac7e0c933c4229a775d7f36380d7a6e96690b1a1af931b42c42e985d.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-421",
+   "comparison_group": "motonari-421",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/00154__cg00422.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 154,
+   "internal_name": "cg00422.QNT",
+   "resource_ids": [
+    422
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": true,
+   "alpha_sha256": "e0defcf06158f60323935eecb189cf2b8c8257e329ec069dc0cd8bfbdec35154",
+   "pristine_sha256": "6e7d3122d9527fd7c39f50a92331d324b204aaad7231743855d2ea6d64d3f3fc",
+   "before_sha256": "df09463c472daa45e5fe7606744c597156735a2187429be58ed2e77a788551fd",
+   "after_sha256": "d776260ff19875b7fcdebc9e441a17858d1058b778bbbf85bb041dcc5da1c913",
+   "after_file": "data/after/d776260ff19875b7fcdebc9e441a17858d1058b778bbbf85bb041dcc5da1c913.png",
+   "after_preview": "data/preview/d776260ff19875b7fcdebc9e441a17858d1058b778bbbf85bb041dcc5da1c913.jpg",
+   "after_thumb": "data/thumbs/d776260ff19875b7fcdebc9e441a17858d1058b778bbbf85bb041dcc5da1c913.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-422",
+   "comparison_group": "motonari-422",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/00155__cg00423.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 155,
+   "internal_name": "cg00423.QNT",
+   "resource_ids": [
+    423
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": true,
+   "alpha_sha256": "c228423a97077a23debadb6d4680a0701714506adefdb3582f3bdc6c658f076e",
+   "pristine_sha256": "9c5662a0a6879ad5d96bed110898c5a1c49d2a2fb408be7a91705b248728bcc9",
+   "before_sha256": "430e8e7200790add5dbae0e126965c2985fc8e59e7dad54267457da1a19d4e98",
+   "after_sha256": "13d8a40ca2883963cd6956810e5a42d16f30d00470c21757f3014b4b2be1b067",
+   "after_file": "data/after/13d8a40ca2883963cd6956810e5a42d16f30d00470c21757f3014b4b2be1b067.png",
+   "after_preview": "data/preview/13d8a40ca2883963cd6956810e5a42d16f30d00470c21757f3014b4b2be1b067.jpg",
+   "after_thumb": "data/thumbs/13d8a40ca2883963cd6956810e5a42d16f30d00470c21757f3014b4b2be1b067.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-423",
+   "comparison_group": "motonari-423",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/00156__cg00426.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 156,
+   "internal_name": "cg00426.QNT",
+   "resource_ids": [
+    426
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 186,
+   "height": 220,
+   "alpha": true,
+   "alpha_sha256": "d15addaaeeb83dfb868f9a0972765234bc1fe552e7ed683a3895641f94e8a77f",
+   "pristine_sha256": "fbf17b7b61a37b9de5f0ec961bdad99bd5c8b09f51c9a225263a1475ad6e1513",
+   "before_sha256": "ef3c60a78aea5c1149a2964bd0b1923fef22f219a22e2d4d7e53985454971616",
+   "after_sha256": "3bbc96484bac90fb50527c40ed14cd1becf42120812247de7070a01d0970781b",
+   "after_file": "data/after/3bbc96484bac90fb50527c40ed14cd1becf42120812247de7070a01d0970781b.png",
+   "after_preview": "data/preview/3bbc96484bac90fb50527c40ed14cd1becf42120812247de7070a01d0970781b.jpg",
+   "after_thumb": "data/thumbs/3bbc96484bac90fb50527c40ed14cd1becf42120812247de7070a01d0970781b.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-426",
+   "comparison_group": "motonari-426",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/00157__cg00427.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 157,
+   "internal_name": "cg00427.QNT",
+   "resource_ids": [
+    427
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 186,
+   "height": 220,
+   "alpha": true,
+   "alpha_sha256": "d15addaaeeb83dfb868f9a0972765234bc1fe552e7ed683a3895641f94e8a77f",
+   "pristine_sha256": "4843bedfaaaf603b14a0a5aec6d9316377ff01f92c099a34d1342e7b0affa7b4",
+   "before_sha256": "e5b8f91a297e88a37821cb0ed1c6653f5f2eecd9852119b40dac717f37791d93",
+   "after_sha256": "a4790e0a93941a96e8d5e2e884a2150e9ec2c119e13073626733af2073c89c2f",
+   "after_file": "data/after/a4790e0a93941a96e8d5e2e884a2150e9ec2c119e13073626733af2073c89c2f.png",
+   "after_preview": "data/preview/a4790e0a93941a96e8d5e2e884a2150e9ec2c119e13073626733af2073c89c2f.jpg",
+   "after_thumb": "data/thumbs/a4790e0a93941a96e8d5e2e884a2150e9ec2c119e13073626733af2073c89c2f.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-427",
+   "comparison_group": "motonari-427",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/00158__cg00428.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 158,
+   "internal_name": "cg00428.QNT",
+   "resource_ids": [
+    428
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 186,
+   "height": 220,
+   "alpha": true,
+   "alpha_sha256": "6cc3076ebeda6ceb061af9182e340dfcb31ccb7b144ba5097e4ea53929d17513",
+   "pristine_sha256": "d44b877ef3e3334ef553a5b0f7a58a685d35e6a094dcdcd883d6ba31fe6acac9",
+   "before_sha256": "d48ba6fc04a2d78d671512ffa1c2e8b4306913b5dd899d3359c9a2de11e4cfec",
+   "after_sha256": "3ce2a1720f530dada6c1c4ae1418fa7ca77a0574ca0a1f68164d3db367c5e029",
+   "after_file": "data/after/3ce2a1720f530dada6c1c4ae1418fa7ca77a0574ca0a1f68164d3db367c5e029.png",
+   "after_preview": "data/preview/3ce2a1720f530dada6c1c4ae1418fa7ca77a0574ca0a1f68164d3db367c5e029.jpg",
+   "after_thumb": "data/thumbs/3ce2a1720f530dada6c1c4ae1418fa7ca77a0574ca0a1f68164d3db367c5e029.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-65",
+   "character_name": "毛利元就（灵体）",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-428",
+   "comparison_group": "motonari-428",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/00430__cg01507.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 430,
+   "internal_name": "cg01507.QNT",
+   "resource_ids": [
+    1507
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": false,
+   "alpha_sha256": "fd3df91fd84ccf152312658b574cb0215e3bca334105a24ecc48f7f4f0a92261",
+   "pristine_sha256": "92cdb11ffc7bac11aa47e1d21cb4648b585d44b6b3be06f7fa81b72682ae66f4",
+   "before_sha256": "edb84f6e0f60a1deb3cb61c070b3519b0ec9a5462678d366cf86e5b5625452b8",
+   "after_sha256": "2e8481d1191ecb74b1e0c0f14bf52d99598100ffb81ee97cefb9dc080b499961",
+   "after_file": "data/after/2e8481d1191ecb74b1e0c0f14bf52d99598100ffb81ee97cefb9dc080b499961.png",
+   "after_preview": "data/preview/2e8481d1191ecb74b1e0c0f14bf52d99598100ffb81ee97cefb9dc080b499961.jpg",
+   "after_thumb": "data/thumbs/2e8481d1191ecb74b1e0c0f14bf52d99598100ffb81ee97cefb9dc080b499961.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-1507",
+   "comparison_group": "motonari-1507",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/00433__cg01510.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 433,
+   "internal_name": "cg01510.QNT",
+   "resource_ids": [
+    1510
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": false,
+   "alpha_sha256": "fd3df91fd84ccf152312658b574cb0215e3bca334105a24ecc48f7f4f0a92261",
+   "pristine_sha256": "2f00bca554ed92843b60241f6ba81965fe11c622110c3b974f448d532bb9b474",
+   "before_sha256": "674ee5e0e950eec85a17667dff87c6dfafc62d89951af6dc14b91439025c413c",
+   "after_sha256": "48232f8ddff42745a664fcb9195ae5bbc2d3e792e01005ca01090a110e21f5b7",
+   "after_file": "data/after/48232f8ddff42745a664fcb9195ae5bbc2d3e792e01005ca01090a110e21f5b7.png",
+   "after_preview": "data/preview/48232f8ddff42745a664fcb9195ae5bbc2d3e792e01005ca01090a110e21f5b7.jpg",
+   "after_thumb": "data/thumbs/48232f8ddff42745a664fcb9195ae5bbc2d3e792e01005ca01090a110e21f5b7.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-1510",
+   "comparison_group": "ryoma-1510",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01273__cg10469.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1273,
+   "internal_name": "cg10469.QNT",
+   "resource_ids": [
+    10469
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": true,
+   "alpha_sha256": "fd3df91fd84ccf152312658b574cb0215e3bca334105a24ecc48f7f4f0a92261",
+   "pristine_sha256": "0985a9d7308c9f772ad1ebed7d053f63f7601ada67a8d218a1cf6ef3ec64b155",
+   "before_sha256": "687c8ad46001eecb3b87745a534663438d2bbbed1e5b57673dd945f278fd9301",
+   "after_sha256": "d77240f1224bd6b04bc771fe977d25fc4c09c90c337e0442c7357d73cc4c6dd1",
+   "after_file": "data/after/d77240f1224bd6b04bc771fe977d25fc4c09c90c337e0442c7357d73cc4c6dd1.png",
+   "after_preview": "data/preview/d77240f1224bd6b04bc771fe977d25fc4c09c90c337e0442c7357d73cc4c6dd1.jpg",
+   "after_thumb": "data/thumbs/d77240f1224bd6b04bc771fe977d25fc4c09c90c337e0442c7357d73cc4c6dd1.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-10469",
+   "comparison_group": "motonari-10469",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01546__cg13031.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1546,
+   "internal_name": "cg13031.QNT",
+   "resource_ids": [
+    13031
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 270,
+   "height": 270,
+   "alpha": true,
+   "alpha_sha256": "ae175de5ebc8fd4017a8cd4ea351e3c5cadb8e710bf6fb6abeca1a795b322ea7",
+   "pristine_sha256": "9058b9bb2393c3de5f3fea8736eb139470252f92ba0c6dc179906d23a9c9e5d5",
+   "before_sha256": "754aa77d152338ba278cc2a187f2acb8b228e0a159a7678e7f27f9ba247d0c64",
+   "after_sha256": "94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa",
+   "after_file": "data/after/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.png",
+   "after_preview": "data/preview/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "after_thumb": "data/thumbs/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13031",
+   "comparison_group": "ryoma-13031",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01550__cg13035.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1550,
+   "internal_name": "cg13035.QNT",
+   "resource_ids": [
+    13035
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 480,
+   "height": 370,
+   "alpha": true,
+   "alpha_sha256": "b25023cb06ba5bf5ae4654b10f95b107d7ca73d7fd98d1279d517c83209a9f13",
+   "pristine_sha256": "55b306cfcea0eadaed1436369c0369caae1805046485687277baa8765225f5e6",
+   "before_sha256": "d86fe6d85dea89512e91e269239bbde0db1baff261aa852ab8e02980ea2dfdc5",
+   "after_sha256": "45bf3de8c27ea94159423306e49272c59ba1f4eedc52d36020ceb1a7bfaf0a75",
+   "after_file": "data/after/45bf3de8c27ea94159423306e49272c59ba1f4eedc52d36020ceb1a7bfaf0a75.png",
+   "after_preview": "data/preview/45bf3de8c27ea94159423306e49272c59ba1f4eedc52d36020ceb1a7bfaf0a75.jpg",
+   "after_thumb": "data/thumbs/45bf3de8c27ea94159423306e49272c59ba1f4eedc52d36020ceb1a7bfaf0a75.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-13035",
+   "comparison_group": "motonari-13035",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01593__cg13082.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1593,
+   "internal_name": "cg13082.QNT",
+   "resource_ids": [
+    13082
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 270,
+   "height": 270,
+   "alpha": true,
+   "alpha_sha256": "489e8df1e4214c81b15c4e90ecdcd79050df969c383846f5c977d8d8985a64ca",
+   "pristine_sha256": "be8b1be69f236efef42986fa305c530d875b988a914a314d663d3ee0b7b7bc99",
+   "before_sha256": "33540e014c10716d0edb9462a94024054980029123aecc08e50b8d655675ddb9",
+   "after_sha256": "6098e9cf4c541030cd7f454b1d439593477de8e72cf73557d2534786795b0d2c",
+   "after_file": "data/after/6098e9cf4c541030cd7f454b1d439593477de8e72cf73557d2534786795b0d2c.png",
+   "after_preview": "data/preview/6098e9cf4c541030cd7f454b1d439593477de8e72cf73557d2534786795b0d2c.jpg",
+   "after_thumb": "data/thumbs/6098e9cf4c541030cd7f454b1d439593477de8e72cf73557d2534786795b0d2c.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-13082",
+   "comparison_group": "motonari-13082",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01615__cg13246.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1615,
+   "internal_name": "cg13246.QNT",
+   "resource_ids": [
+    13246
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 270,
+   "height": 270,
+   "alpha": true,
+   "alpha_sha256": "ae175de5ebc8fd4017a8cd4ea351e3c5cadb8e710bf6fb6abeca1a795b322ea7",
+   "pristine_sha256": "efaedd8cdcecea3338601f40ece1808fd029f7365e737e8323982b1c5ad7af28",
+   "before_sha256": "0ffda6aad6d9e8f728fc186481da96da9a8da5900075d8a098838121c144a385",
+   "after_sha256": "94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa",
+   "after_file": "data/after/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.png",
+   "after_preview": "data/preview/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "after_thumb": "data/thumbs/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13246",
+   "comparison_group": "ryoma-13246",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01616__cg13247.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1616,
+   "internal_name": "cg13247.QNT",
+   "resource_ids": [
+    13247
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 270,
+   "height": 270,
+   "alpha": true,
+   "alpha_sha256": "5ac1d6e6afb6537fcddf8f8983d83bd61ea7179f5a89072c781aef3348bc72b8",
+   "pristine_sha256": "626069dc3e05a5e5956606d30385c7508a0e252b0da79b0e34a185e8724130c4",
+   "before_sha256": "3b2dafbd5435257a8f0bcef95be728cd3e82ce8e58ddabf81f6a651ab2f9dc36",
+   "after_sha256": "94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa",
+   "after_file": "data/after/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.png",
+   "after_preview": "data/preview/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "after_thumb": "data/thumbs/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13247",
+   "comparison_group": "ryoma-13247",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01683__cg13331.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1683,
+   "internal_name": "cg13331.QNT",
+   "resource_ids": [
+    13331
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 340,
+   "height": 290,
+   "alpha": true,
+   "alpha_sha256": "f709a20e1d920716a12bf4783f5d7c9dfde638d77557029544aef035306f4f6c",
+   "pristine_sha256": "11858a190b2bde451303f3406b5fe9ef39d462343d17109c7ecd0b7c9ccee804",
+   "before_sha256": "33ae15461a607eb00db4190f5b1257b271a9f9c699b163fd05d9ba8b1eb19cfe",
+   "after_sha256": "43353acebb1b1a6d05d57d90690a00cbc0615c03964ebcfd2b2332280e43a9f5",
+   "after_file": "data/after/43353acebb1b1a6d05d57d90690a00cbc0615c03964ebcfd2b2332280e43a9f5.png",
+   "after_preview": "data/preview/43353acebb1b1a6d05d57d90690a00cbc0615c03964ebcfd2b2332280e43a9f5.jpg",
+   "after_thumb": "data/thumbs/43353acebb1b1a6d05d57d90690a00cbc0615c03964ebcfd2b2332280e43a9f5.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13331",
+   "comparison_group": "ryoma-13331",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01687__cg13335.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1687,
+   "internal_name": "cg13335.QNT",
+   "resource_ids": [
+    13335
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 480,
+   "height": 370,
+   "alpha": true,
+   "alpha_sha256": "ac4c8d4dc4cfc503d47fda9be3c7e0cd2c820416fce12d4aee5c09911aacc493",
+   "pristine_sha256": "7f73602cfe12f614c54b9960e550d33e694ae6e39854228907717ec41eedd98e",
+   "before_sha256": "b387d798a94ec0b0a777df9195d0b903395540ca1cd494eca8c55965a8c26e35",
+   "after_sha256": "20ad974ee30e3814c85e29eec85d0da1ecf4839bb1a897522f2cd8fe970ed8e7",
+   "after_file": "data/after/20ad974ee30e3814c85e29eec85d0da1ecf4839bb1a897522f2cd8fe970ed8e7.png",
+   "after_preview": "data/preview/20ad974ee30e3814c85e29eec85d0da1ecf4839bb1a897522f2cd8fe970ed8e7.jpg",
+   "after_thumb": "data/thumbs/20ad974ee30e3814c85e29eec85d0da1ecf4839bb1a897522f2cd8fe970ed8e7.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-13335",
+   "comparison_group": "motonari-13335",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01730__cg13382.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1730,
+   "internal_name": "cg13382.QNT",
+   "resource_ids": [
+    13382
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 340,
+   "height": 290,
+   "alpha": true,
+   "alpha_sha256": "6e2543dfde03daf9263dfbaf9115585aa0d05ae80b1aebe329461ed34001443a",
+   "pristine_sha256": "eed84eef519f24c7faa0e3af86e792c63f8d3e3db07f3a243ba3f0be45f8b1f4",
+   "before_sha256": "feaafe6d2a617b84a19300f78a48c4ca91f1f028b311c4b5c4b28e5a306e8f40",
+   "after_sha256": "41eb5ebd915ec086cff47823f1865f7a8917b2864d6e747c32fbe9b4123ee257",
+   "after_file": "data/after/41eb5ebd915ec086cff47823f1865f7a8917b2864d6e747c32fbe9b4123ee257.png",
+   "after_preview": "data/preview/41eb5ebd915ec086cff47823f1865f7a8917b2864d6e747c32fbe9b4123ee257.jpg",
+   "after_thumb": "data/thumbs/41eb5ebd915ec086cff47823f1865f7a8917b2864d6e747c32fbe9b4123ee257.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-13382",
+   "comparison_group": "motonari-13382",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01750__cg13546.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1750,
+   "internal_name": "cg13546.QNT",
+   "resource_ids": [
+    13546
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 340,
+   "height": 290,
+   "alpha": true,
+   "alpha_sha256": "f709a20e1d920716a12bf4783f5d7c9dfde638d77557029544aef035306f4f6c",
+   "pristine_sha256": "54f58c50538e855906a579cdb72af5a2855f345eb911c45fff6c247fc8c12917",
+   "before_sha256": "1b5acf92a336387b90f4383e7d8608b670d10b682254086c982a1256f22e8c2a",
+   "after_sha256": "9449971f0e46755cc98de4e7a78d98132d3da67a9ca064d35020c6b1b635e645",
+   "after_file": "data/after/9449971f0e46755cc98de4e7a78d98132d3da67a9ca064d35020c6b1b635e645.png",
+   "after_preview": "data/preview/9449971f0e46755cc98de4e7a78d98132d3da67a9ca064d35020c6b1b635e645.jpg",
+   "after_thumb": "data/thumbs/9449971f0e46755cc98de4e7a78d98132d3da67a9ca064d35020c6b1b635e645.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13546",
+   "comparison_group": "ryoma-13546",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/01751__cg13547.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 1751,
+   "internal_name": "cg13547.QNT",
+   "resource_ids": [
+    13547
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 340,
+   "height": 290,
+   "alpha": true,
+   "alpha_sha256": "75f55a04db50a4a3dfb9222b73a6742a0b3f247b209611f192f3ac1e2862d4d9",
+   "pristine_sha256": "bc9162a55f60f25086ff479227d815cac7b07fc729d5025dd5addf3957d04ff5",
+   "before_sha256": "ca2c938813aa94a01a0e8721c2b30a2f93fcbbe7cfef8baace533577f56b29cb",
+   "after_sha256": "937f65e1d84fdd46a68b6c520d54c1eaf45bd5944d303bd6916262595a8fc539",
+   "after_file": "data/after/937f65e1d84fdd46a68b6c520d54c1eaf45bd5944d303bd6916262595a8fc539.png",
+   "after_preview": "data/preview/937f65e1d84fdd46a68b6c520d54c1eaf45bd5944d303bd6916262595a8fc539.jpg",
+   "after_thumb": "data/thumbs/937f65e1d84fdd46a68b6c520d54c1eaf45bd5944d303bd6916262595a8fc539.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13547",
+   "comparison_group": "ryoma-13547",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/06194__cg50426.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 6194,
+   "internal_name": "cg50426.QNT",
+   "resource_ids": [
+    50426
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "6338e713fb4430ab6496a139ac4d45da9d30b9467855b72651e04e1c806d2c46",
+   "pristine_sha256": "f71272740b78deb3c6ae4b5899f5929a12ea1ecb52cac51158f743cb63ef3504",
+   "before_sha256": "7319047511b8bd37a1e49ab45e06ba5d4c213ac7c72861a52b046fd93bbdc565",
+   "after_sha256": "baaafd5d6a42ee45f324f8c66eb5514e2e04af147b1c25f1a2199f006ee2a6a1",
+   "after_file": "data/after/baaafd5d6a42ee45f324f8c66eb5514e2e04af147b1c25f1a2199f006ee2a6a1.png",
+   "after_preview": "data/preview/baaafd5d6a42ee45f324f8c66eb5514e2e04af147b1c25f1a2199f006ee2a6a1.jpg",
+   "after_thumb": "data/thumbs/baaafd5d6a42ee45f324f8c66eb5514e2e04af147b1c25f1a2199f006ee2a6a1.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-50426",
+   "comparison_group": "motonari-50426",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/06195__cg50427.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 6195,
+   "internal_name": "cg50427.QNT",
+   "resource_ids": [
+    50427
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "6338e713fb4430ab6496a139ac4d45da9d30b9467855b72651e04e1c806d2c46",
+   "pristine_sha256": "30bb06d04b2e75915f541f4b25775b828a757699d97d8b5164bda7ee917bbb28",
+   "before_sha256": "a0e7bbb6e3d7cd02f579f710dc1355596b2a2882871ab9c09ddf3fe9884ae1a8",
+   "after_sha256": "925d66474a8f50ee1da412008a8b1ed01e33d626d6fa3deb634d8fb6fbd65ff1",
+   "after_file": "data/after/925d66474a8f50ee1da412008a8b1ed01e33d626d6fa3deb634d8fb6fbd65ff1.png",
+   "after_preview": "data/preview/925d66474a8f50ee1da412008a8b1ed01e33d626d6fa3deb634d8fb6fbd65ff1.jpg",
+   "after_thumb": "data/thumbs/925d66474a8f50ee1da412008a8b1ed01e33d626d6fa3deb634d8fb6fbd65ff1.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-50427",
+   "comparison_group": "motonari-50427",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/06196__cg50428.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 6196,
+   "internal_name": "cg50428.QNT",
+   "resource_ids": [
+    50428
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "fd11da5040dc426fc708b71d11b0d59353dbbad687df114d34500a39254e2d34",
+   "pristine_sha256": "bd5a5804d6b910daba0cc57278bc66bd4646e6d85902da132980767b7a992b4b",
+   "before_sha256": "5489bc06db61673122a3a8e3f2fea33d7146328c4ea03cf7796d18098c4c60e6",
+   "after_sha256": "52e1659d8be76054b377653268cc7c3df51b920819edc6879b9aeea817bba88d",
+   "after_file": "data/after/52e1659d8be76054b377653268cc7c3df51b920819edc6879b9aeea817bba88d.png",
+   "after_preview": "data/preview/52e1659d8be76054b377653268cc7c3df51b920819edc6879b9aeea817bba88d.jpg",
+   "after_thumb": "data/thumbs/52e1659d8be76054b377653268cc7c3df51b920819edc6879b9aeea817bba88d.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-50428",
+   "comparison_group": "motonari-50428",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/06200__cg50466.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 6200,
+   "internal_name": "cg50466.QNT",
+   "resource_ids": [
+    50466
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "be65ae10805e9cc0a676f7dd70d68dcff82935fa00fa5e8d058a2af2884fafa6",
+   "pristine_sha256": "ddfbd6f79535c9ec42dfcfbee84c8c961335c5a6f08a1d75343c013f5404032e",
+   "before_sha256": "47a311dddd196279a492b00727b4a3da6d426b4b380dd0e41cbfd51c71887432",
+   "after_sha256": "3a919c629a013683e39d352afe57f915acf85c6a0d3a50b0566a03368e08ca91",
+   "after_file": "data/after/3a919c629a013683e39d352afe57f915acf85c6a0d3a50b0566a03368e08ca91.png",
+   "after_preview": "data/preview/3a919c629a013683e39d352afe57f915acf85c6a0d3a50b0566a03368e08ca91.jpg",
+   "after_thumb": "data/thumbs/3a919c629a013683e39d352afe57f915acf85c6a0d3a50b0566a03368e08ca91.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-50466",
+   "comparison_group": "ryoma-50466",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/06201__cg50467.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 6201,
+   "internal_name": "cg50467.QNT",
+   "resource_ids": [
+    50467
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "19fe2bdd7aa68abc91fc87ebc556d41d3a997d89dcccf29f142c2c073e693c6b",
+   "pristine_sha256": "1ba244f0df7028f69ec0daee18269afdd1b462698e2ec9a6e9cf9302a639b8ea",
+   "before_sha256": "e60465aea7be903e0de4a363959f738e96253e85ac6c1dcc6f3829092816718f",
+   "after_sha256": "06008dd77d6175946a3b1e6eb5f108ba8dd0d5e783a183082a3ec5a1543ae522",
+   "after_file": "data/after/06008dd77d6175946a3b1e6eb5f108ba8dd0d5e783a183082a3ec5a1543ae522.png",
+   "after_preview": "data/preview/06008dd77d6175946a3b1e6eb5f108ba8dd0d5e783a183082a3ec5a1543ae522.jpg",
+   "after_thumb": "data/thumbs/06008dd77d6175946a3b1e6eb5f108ba8dd0d5e783a183082a3ec5a1543ae522.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-50467",
+   "comparison_group": "ryoma-50467",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/Rance7GM/06202__cg50468.png",
+   "archive": "Rance7GM.ald",
+   "pointer_index": 6202,
+   "internal_name": "cg50468.QNT",
+   "resource_ids": [
+    50468
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "e931494791560cf8487d577a1721da981800de915ae814f91463f5aae4553016",
+   "pristine_sha256": "9da562be6036ad9b348e2c603fe7a77f3cb05e22eaf8eeceac62dddc09f57f0e",
+   "before_sha256": "acc311233c86bbfd113b9c9b04dd4b698faab723e48366f2f201194ee9de6f50",
+   "after_sha256": "bcf2583d3f2a22f3a0b7fdc7c63eda6faec3dbd542a0ba504d9507c36b21fd57",
+   "after_file": "data/after/bcf2583d3f2a22f3a0b7fdc7c63eda6faec3dbd542a0ba504d9507c36b21fd57.png",
+   "after_preview": "data/preview/bcf2583d3f2a22f3a0b7fdc7c63eda6faec3dbd542a0ba504d9507c36b21fd57.jpg",
+   "after_thumb": "data/thumbs/bcf2583d3f2a22f3a0b7fdc7c63eda6faec3dbd542a0ba504d9507c36b21fd57.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-50468",
+   "comparison_group": "ryoma-50468",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/00153__cg00421.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 153,
+   "internal_name": "cg00421.QNT",
+   "resource_ids": [
+    421
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": true,
+   "alpha_sha256": "a9a8c9a121fd5665c5675652c78b59bd9ad39f6e793e191df6436645074211fd",
+   "pristine_sha256": "93bc05a899398e600177482c6c8111389923ff2040261589a51cdb4d55ffd812",
+   "before_sha256": "9a9bc9b4ade91942d75be56a7218d9a66b3097a628ea2db67f8bf8224c92a741",
+   "after_sha256": "8f75ce03ac7e0c933c4229a775d7f36380d7a6e96690b1a1af931b42c42e985d",
+   "after_file": "data/after/8f75ce03ac7e0c933c4229a775d7f36380d7a6e96690b1a1af931b42c42e985d.png",
+   "after_preview": "data/preview/8f75ce03ac7e0c933c4229a775d7f36380d7a6e96690b1a1af931b42c42e985d.jpg",
+   "after_thumb": "data/thumbs/8f75ce03ac7e0c933c4229a775d7f36380d7a6e96690b1a1af931b42c42e985d.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-421",
+   "comparison_group": "motonari-421",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/00154__cg00422.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 154,
+   "internal_name": "cg00422.QNT",
+   "resource_ids": [
+    422
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": true,
+   "alpha_sha256": "e0defcf06158f60323935eecb189cf2b8c8257e329ec069dc0cd8bfbdec35154",
+   "pristine_sha256": "6f15a01fa109b6aa1e4944b9531968a3aa94bcdf9c0ce74472cc3d2293f9d66b",
+   "before_sha256": "df09463c472daa45e5fe7606744c597156735a2187429be58ed2e77a788551fd",
+   "after_sha256": "d776260ff19875b7fcdebc9e441a17858d1058b778bbbf85bb041dcc5da1c913",
+   "after_file": "data/after/d776260ff19875b7fcdebc9e441a17858d1058b778bbbf85bb041dcc5da1c913.png",
+   "after_preview": "data/preview/d776260ff19875b7fcdebc9e441a17858d1058b778bbbf85bb041dcc5da1c913.jpg",
+   "after_thumb": "data/thumbs/d776260ff19875b7fcdebc9e441a17858d1058b778bbbf85bb041dcc5da1c913.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-422",
+   "comparison_group": "motonari-422",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/00155__cg00423.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 155,
+   "internal_name": "cg00423.QNT",
+   "resource_ids": [
+    423
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": true,
+   "alpha_sha256": "c228423a97077a23debadb6d4680a0701714506adefdb3582f3bdc6c658f076e",
+   "pristine_sha256": "9268e0cf9500228e8c14d96f67c17fde4288521c81d536f3f19b0df58f03e15a",
+   "before_sha256": "430e8e7200790add5dbae0e126965c2985fc8e59e7dad54267457da1a19d4e98",
+   "after_sha256": "13d8a40ca2883963cd6956810e5a42d16f30d00470c21757f3014b4b2be1b067",
+   "after_file": "data/after/13d8a40ca2883963cd6956810e5a42d16f30d00470c21757f3014b4b2be1b067.png",
+   "after_preview": "data/preview/13d8a40ca2883963cd6956810e5a42d16f30d00470c21757f3014b4b2be1b067.jpg",
+   "after_thumb": "data/thumbs/13d8a40ca2883963cd6956810e5a42d16f30d00470c21757f3014b4b2be1b067.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-423",
+   "comparison_group": "motonari-423",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/00156__cg00426.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 156,
+   "internal_name": "cg00426.QNT",
+   "resource_ids": [
+    426
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 186,
+   "height": 220,
+   "alpha": true,
+   "alpha_sha256": "d15addaaeeb83dfb868f9a0972765234bc1fe552e7ed683a3895641f94e8a77f",
+   "pristine_sha256": "f07e56ec95ed8b04dab3d1684ac69862b523b86564f1d0761759af8400df04ed",
+   "before_sha256": "ef3c60a78aea5c1149a2964bd0b1923fef22f219a22e2d4d7e53985454971616",
+   "after_sha256": "3bbc96484bac90fb50527c40ed14cd1becf42120812247de7070a01d0970781b",
+   "after_file": "data/after/3bbc96484bac90fb50527c40ed14cd1becf42120812247de7070a01d0970781b.png",
+   "after_preview": "data/preview/3bbc96484bac90fb50527c40ed14cd1becf42120812247de7070a01d0970781b.jpg",
+   "after_thumb": "data/thumbs/3bbc96484bac90fb50527c40ed14cd1becf42120812247de7070a01d0970781b.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-426",
+   "comparison_group": "motonari-426",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/00157__cg00427.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 157,
+   "internal_name": "cg00427.QNT",
+   "resource_ids": [
+    427
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 186,
+   "height": 220,
+   "alpha": true,
+   "alpha_sha256": "d15addaaeeb83dfb868f9a0972765234bc1fe552e7ed683a3895641f94e8a77f",
+   "pristine_sha256": "5d86bda0f0b603e3dbc70bc4e9a41575f7bfc511bd08f55a4ff4417dfeb7c7bc",
+   "before_sha256": "e5b8f91a297e88a37821cb0ed1c6653f5f2eecd9852119b40dac717f37791d93",
+   "after_sha256": "a4790e0a93941a96e8d5e2e884a2150e9ec2c119e13073626733af2073c89c2f",
+   "after_file": "data/after/a4790e0a93941a96e8d5e2e884a2150e9ec2c119e13073626733af2073c89c2f.png",
+   "after_preview": "data/preview/a4790e0a93941a96e8d5e2e884a2150e9ec2c119e13073626733af2073c89c2f.jpg",
+   "after_thumb": "data/thumbs/a4790e0a93941a96e8d5e2e884a2150e9ec2c119e13073626733af2073c89c2f.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-427",
+   "comparison_group": "motonari-427",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/00158__cg00428.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 158,
+   "internal_name": "cg00428.QNT",
+   "resource_ids": [
+    428
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 186,
+   "height": 220,
+   "alpha": true,
+   "alpha_sha256": "6cc3076ebeda6ceb061af9182e340dfcb31ccb7b144ba5097e4ea53929d17513",
+   "pristine_sha256": "ca769e6af7865bef3caf35301bb374e3964da9d64d2699a5907ef216410550c6",
+   "before_sha256": "d48ba6fc04a2d78d671512ffa1c2e8b4306913b5dd899d3359c9a2de11e4cfec",
+   "after_sha256": "3ce2a1720f530dada6c1c4ae1418fa7ca77a0574ca0a1f68164d3db367c5e029",
+   "after_file": "data/after/3ce2a1720f530dada6c1c4ae1418fa7ca77a0574ca0a1f68164d3db367c5e029.png",
+   "after_preview": "data/preview/3ce2a1720f530dada6c1c4ae1418fa7ca77a0574ca0a1f68164d3db367c5e029.jpg",
+   "after_thumb": "data/thumbs/3ce2a1720f530dada6c1c4ae1418fa7ca77a0574ca0a1f68164d3db367c5e029.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-65",
+   "character_name": "毛利元就（灵体）",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-428",
+   "comparison_group": "motonari-428",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/00430__cg01507.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 430,
+   "internal_name": "cg01507.QNT",
+   "resource_ids": [
+    1507
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": false,
+   "alpha_sha256": "fd3df91fd84ccf152312658b574cb0215e3bca334105a24ecc48f7f4f0a92261",
+   "pristine_sha256": "c2be0544f5390bca83a5c1f892416820f0bf11aaa7d2ca28247b520fc228bbf6",
+   "before_sha256": "edb84f6e0f60a1deb3cb61c070b3519b0ec9a5462678d366cf86e5b5625452b8",
+   "after_sha256": "2e8481d1191ecb74b1e0c0f14bf52d99598100ffb81ee97cefb9dc080b499961",
+   "after_file": "data/after/2e8481d1191ecb74b1e0c0f14bf52d99598100ffb81ee97cefb9dc080b499961.png",
+   "after_preview": "data/preview/2e8481d1191ecb74b1e0c0f14bf52d99598100ffb81ee97cefb9dc080b499961.jpg",
+   "after_thumb": "data/thumbs/2e8481d1191ecb74b1e0c0f14bf52d99598100ffb81ee97cefb9dc080b499961.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-1507",
+   "comparison_group": "motonari-1507",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/00433__cg01510.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 433,
+   "internal_name": "cg01510.QNT",
+   "resource_ids": [
+    1510
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": false,
+   "alpha_sha256": "fd3df91fd84ccf152312658b574cb0215e3bca334105a24ecc48f7f4f0a92261",
+   "pristine_sha256": "fef34fb9c55070df73635065fe5ce9d8c930b24d5955528f1d424c59dcb89415",
+   "before_sha256": "73f79c2f960e3c202206a4d7824053ccc79e6f87aa9c907343484686f48d986c",
+   "after_sha256": "48232f8ddff42745a664fcb9195ae5bbc2d3e792e01005ca01090a110e21f5b7",
+   "after_file": "data/after/48232f8ddff42745a664fcb9195ae5bbc2d3e792e01005ca01090a110e21f5b7.png",
+   "after_preview": "data/preview/48232f8ddff42745a664fcb9195ae5bbc2d3e792e01005ca01090a110e21f5b7.jpg",
+   "after_thumb": "data/thumbs/48232f8ddff42745a664fcb9195ae5bbc2d3e792e01005ca01090a110e21f5b7.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-1510",
+   "comparison_group": "ryoma-1510",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01272__cg10469.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1272,
+   "internal_name": "cg10469.QNT",
+   "resource_ids": [
+    10469
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 800,
+   "height": 600,
+   "alpha": true,
+   "alpha_sha256": "fd3df91fd84ccf152312658b574cb0215e3bca334105a24ecc48f7f4f0a92261",
+   "pristine_sha256": "0a0a76ee401c336358c1359ff8cbec88f4e276c47c65c91749e3da4b8e531b5c",
+   "before_sha256": "ed673600bda766b76067d25cad46d7778443a4b16ef281e7475a513d4b600553",
+   "after_sha256": "cea89347928ad2b7cd81a665283a7260f2061eb3e82eb98cc4eb261234b82dec",
+   "after_file": "data/after/cea89347928ad2b7cd81a665283a7260f2061eb3e82eb98cc4eb261234b82dec.png",
+   "after_preview": "data/preview/cea89347928ad2b7cd81a665283a7260f2061eb3e82eb98cc4eb261234b82dec.jpg",
+   "after_thumb": "data/thumbs/cea89347928ad2b7cd81a665283a7260f2061eb3e82eb98cc4eb261234b82dec.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-10469",
+   "comparison_group": "motonari-10469",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01544__cg13031.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1544,
+   "internal_name": "cg13031.QNT",
+   "resource_ids": [
+    13031
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 270,
+   "height": 270,
+   "alpha": true,
+   "alpha_sha256": "ae175de5ebc8fd4017a8cd4ea351e3c5cadb8e710bf6fb6abeca1a795b322ea7",
+   "pristine_sha256": "a55ac812966297017076b39bede5d9185dbb89393ee45a377b92a2a6f2c0f4de",
+   "before_sha256": "754aa77d152338ba278cc2a187f2acb8b228e0a159a7678e7f27f9ba247d0c64",
+   "after_sha256": "94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa",
+   "after_file": "data/after/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.png",
+   "after_preview": "data/preview/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "after_thumb": "data/thumbs/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13031",
+   "comparison_group": "ryoma-13031",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01548__cg13035.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1548,
+   "internal_name": "cg13035.QNT",
+   "resource_ids": [
+    13035
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 480,
+   "height": 370,
+   "alpha": true,
+   "alpha_sha256": "b25023cb06ba5bf5ae4654b10f95b107d7ca73d7fd98d1279d517c83209a9f13",
+   "pristine_sha256": "8d80aa328b6b14cf992062cfa30cb6df6f99c9d6e9a8cac314911bd15ef5ca4b",
+   "before_sha256": "d86fe6d85dea89512e91e269239bbde0db1baff261aa852ab8e02980ea2dfdc5",
+   "after_sha256": "45bf3de8c27ea94159423306e49272c59ba1f4eedc52d36020ceb1a7bfaf0a75",
+   "after_file": "data/after/45bf3de8c27ea94159423306e49272c59ba1f4eedc52d36020ceb1a7bfaf0a75.png",
+   "after_preview": "data/preview/45bf3de8c27ea94159423306e49272c59ba1f4eedc52d36020ceb1a7bfaf0a75.jpg",
+   "after_thumb": "data/thumbs/45bf3de8c27ea94159423306e49272c59ba1f4eedc52d36020ceb1a7bfaf0a75.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-13035",
+   "comparison_group": "motonari-13035",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01591__cg13082.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1591,
+   "internal_name": "cg13082.QNT",
+   "resource_ids": [
+    13082
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 270,
+   "height": 270,
+   "alpha": true,
+   "alpha_sha256": "489e8df1e4214c81b15c4e90ecdcd79050df969c383846f5c977d8d8985a64ca",
+   "pristine_sha256": "6663d9df1d7d32ec642ebb217f8110b170338d68ee772fc76c2473080a2648a6",
+   "before_sha256": "33540e014c10716d0edb9462a94024054980029123aecc08e50b8d655675ddb9",
+   "after_sha256": "6098e9cf4c541030cd7f454b1d439593477de8e72cf73557d2534786795b0d2c",
+   "after_file": "data/after/6098e9cf4c541030cd7f454b1d439593477de8e72cf73557d2534786795b0d2c.png",
+   "after_preview": "data/preview/6098e9cf4c541030cd7f454b1d439593477de8e72cf73557d2534786795b0d2c.jpg",
+   "after_thumb": "data/thumbs/6098e9cf4c541030cd7f454b1d439593477de8e72cf73557d2534786795b0d2c.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-13082",
+   "comparison_group": "motonari-13082",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01613__cg13246.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1613,
+   "internal_name": "cg13246.QNT",
+   "resource_ids": [
+    13246
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 270,
+   "height": 270,
+   "alpha": true,
+   "alpha_sha256": "ae175de5ebc8fd4017a8cd4ea351e3c5cadb8e710bf6fb6abeca1a795b322ea7",
+   "pristine_sha256": "a1ebe655c6e97052f7a12cf3ba8dc72e81282235d9ba52f5a63951e0ddd1ccd5",
+   "before_sha256": "0ffda6aad6d9e8f728fc186481da96da9a8da5900075d8a098838121c144a385",
+   "after_sha256": "94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa",
+   "after_file": "data/after/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.png",
+   "after_preview": "data/preview/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "after_thumb": "data/thumbs/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13246",
+   "comparison_group": "ryoma-13246",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01614__cg13247.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1614,
+   "internal_name": "cg13247.QNT",
+   "resource_ids": [
+    13247
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 270,
+   "height": 270,
+   "alpha": true,
+   "alpha_sha256": "5ac1d6e6afb6537fcddf8f8983d83bd61ea7179f5a89072c781aef3348bc72b8",
+   "pristine_sha256": "9bc742da5cc90a9d7e41d2144eee05542d659411d57f84bbc7226fea865810e9",
+   "before_sha256": "3b2dafbd5435257a8f0bcef95be728cd3e82ce8e58ddabf81f6a651ab2f9dc36",
+   "after_sha256": "94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa",
+   "after_file": "data/after/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.png",
+   "after_preview": "data/preview/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "after_thumb": "data/thumbs/94899c161e31f485eae8c465f647a56380764840ee83057144f4fcf08da9c4fa.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13247",
+   "comparison_group": "ryoma-13247",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01681__cg13331.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1681,
+   "internal_name": "cg13331.QNT",
+   "resource_ids": [
+    13331
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 340,
+   "height": 290,
+   "alpha": true,
+   "alpha_sha256": "f709a20e1d920716a12bf4783f5d7c9dfde638d77557029544aef035306f4f6c",
+   "pristine_sha256": "35670f6b6dba3a102e93b9a14047100b0de2334bf02c1fec2d34ae0ae6940f2f",
+   "before_sha256": "33ae15461a607eb00db4190f5b1257b271a9f9c699b163fd05d9ba8b1eb19cfe",
+   "after_sha256": "43353acebb1b1a6d05d57d90690a00cbc0615c03964ebcfd2b2332280e43a9f5",
+   "after_file": "data/after/43353acebb1b1a6d05d57d90690a00cbc0615c03964ebcfd2b2332280e43a9f5.png",
+   "after_preview": "data/preview/43353acebb1b1a6d05d57d90690a00cbc0615c03964ebcfd2b2332280e43a9f5.jpg",
+   "after_thumb": "data/thumbs/43353acebb1b1a6d05d57d90690a00cbc0615c03964ebcfd2b2332280e43a9f5.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13331",
+   "comparison_group": "ryoma-13331",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01685__cg13335.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1685,
+   "internal_name": "cg13335.QNT",
+   "resource_ids": [
+    13335
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 480,
+   "height": 370,
+   "alpha": true,
+   "alpha_sha256": "ac4c8d4dc4cfc503d47fda9be3c7e0cd2c820416fce12d4aee5c09911aacc493",
+   "pristine_sha256": "9fd045a3388de0ff86af6597dc2eecf8dc6cd32e53f08a3dc4d8a2b18a4b9823",
+   "before_sha256": "b387d798a94ec0b0a777df9195d0b903395540ca1cd494eca8c55965a8c26e35",
+   "after_sha256": "20ad974ee30e3814c85e29eec85d0da1ecf4839bb1a897522f2cd8fe970ed8e7",
+   "after_file": "data/after/20ad974ee30e3814c85e29eec85d0da1ecf4839bb1a897522f2cd8fe970ed8e7.png",
+   "after_preview": "data/preview/20ad974ee30e3814c85e29eec85d0da1ecf4839bb1a897522f2cd8fe970ed8e7.jpg",
+   "after_thumb": "data/thumbs/20ad974ee30e3814c85e29eec85d0da1ecf4839bb1a897522f2cd8fe970ed8e7.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-13335",
+   "comparison_group": "motonari-13335",
+   "kind": "other"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01728__cg13382.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1728,
+   "internal_name": "cg13382.QNT",
+   "resource_ids": [
+    13382
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 340,
+   "height": 290,
+   "alpha": true,
+   "alpha_sha256": "6e2543dfde03daf9263dfbaf9115585aa0d05ae80b1aebe329461ed34001443a",
+   "pristine_sha256": "a95af0618f01076d3902fc7c65fed65359965bd9b01e878e34422bca03d9af5f",
+   "before_sha256": "feaafe6d2a617b84a19300f78a48c4ca91f1f028b311c4b5c4b28e5a306e8f40",
+   "after_sha256": "41eb5ebd915ec086cff47823f1865f7a8917b2864d6e747c32fbe9b4123ee257",
+   "after_file": "data/after/41eb5ebd915ec086cff47823f1865f7a8917b2864d6e747c32fbe9b4123ee257.png",
+   "after_preview": "data/preview/41eb5ebd915ec086cff47823f1865f7a8917b2864d6e747c32fbe9b4123ee257.jpg",
+   "after_thumb": "data/thumbs/41eb5ebd915ec086cff47823f1865f7a8917b2864d6e747c32fbe9b4123ee257.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-13382",
+   "comparison_group": "motonari-13382",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01748__cg13546.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1748,
+   "internal_name": "cg13546.QNT",
+   "resource_ids": [
+    13546
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 340,
+   "height": 290,
+   "alpha": true,
+   "alpha_sha256": "f709a20e1d920716a12bf4783f5d7c9dfde638d77557029544aef035306f4f6c",
+   "pristine_sha256": "ac124771ceb96bd9bd2ad8456c8646945a9f685ac774a6cee6912e8c6d5896e1",
+   "before_sha256": "1b5acf92a336387b90f4383e7d8608b670d10b682254086c982a1256f22e8c2a",
+   "after_sha256": "9449971f0e46755cc98de4e7a78d98132d3da67a9ca064d35020c6b1b635e645",
+   "after_file": "data/after/9449971f0e46755cc98de4e7a78d98132d3da67a9ca064d35020c6b1b635e645.png",
+   "after_preview": "data/preview/9449971f0e46755cc98de4e7a78d98132d3da67a9ca064d35020c6b1b635e645.jpg",
+   "after_thumb": "data/thumbs/9449971f0e46755cc98de4e7a78d98132d3da67a9ca064d35020c6b1b635e645.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13546",
+   "comparison_group": "ryoma-13546",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/01749__cg13547.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 1749,
+   "internal_name": "cg13547.QNT",
+   "resource_ids": [
+    13547
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 340,
+   "height": 290,
+   "alpha": true,
+   "alpha_sha256": "75f55a04db50a4a3dfb9222b73a6742a0b3f247b209611f192f3ac1e2862d4d9",
+   "pristine_sha256": "c7d6761acd20ded15d2bbfe1783b4437b81448be3002d4d2487fd3a89cc0e473",
+   "before_sha256": "ca2c938813aa94a01a0e8721c2b30a2f93fcbbe7cfef8baace533577f56b29cb",
+   "after_sha256": "937f65e1d84fdd46a68b6c520d54c1eaf45bd5944d303bd6916262595a8fc539",
+   "after_file": "data/after/937f65e1d84fdd46a68b6c520d54c1eaf45bd5944d303bd6916262595a8fc539.png",
+   "after_preview": "data/preview/937f65e1d84fdd46a68b6c520d54c1eaf45bd5944d303bd6916262595a8fc539.jpg",
+   "after_thumb": "data/thumbs/937f65e1d84fdd46a68b6c520d54c1eaf45bd5944d303bd6916262595a8fc539.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-13547",
+   "comparison_group": "ryoma-13547",
+   "kind": "battle"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/06192__cg50426.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 6192,
+   "internal_name": "cg50426.QNT",
+   "resource_ids": [
+    50426
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "6338e713fb4430ab6496a139ac4d45da9d30b9467855b72651e04e1c806d2c46",
+   "pristine_sha256": "392723efac8be07eb974901b3b3562f7ca45d149644eaf6d21575a5e3d69893e",
+   "before_sha256": "7319047511b8bd37a1e49ab45e06ba5d4c213ac7c72861a52b046fd93bbdc565",
+   "after_sha256": "baaafd5d6a42ee45f324f8c66eb5514e2e04af147b1c25f1a2199f006ee2a6a1",
+   "after_file": "data/after/baaafd5d6a42ee45f324f8c66eb5514e2e04af147b1c25f1a2199f006ee2a6a1.png",
+   "after_preview": "data/preview/baaafd5d6a42ee45f324f8c66eb5514e2e04af147b1c25f1a2199f006ee2a6a1.jpg",
+   "after_thumb": "data/thumbs/baaafd5d6a42ee45f324f8c66eb5514e2e04af147b1c25f1a2199f006ee2a6a1.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-50426",
+   "comparison_group": "motonari-50426",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/06193__cg50427.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 6193,
+   "internal_name": "cg50427.QNT",
+   "resource_ids": [
+    50427
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "6338e713fb4430ab6496a139ac4d45da9d30b9467855b72651e04e1c806d2c46",
+   "pristine_sha256": "32f41f9f78c366c80fdc90e96352c09a010210036acc9fdc814e2cc1b6a812fa",
+   "before_sha256": "a0e7bbb6e3d7cd02f579f710dc1355596b2a2882871ab9c09ddf3fe9884ae1a8",
+   "after_sha256": "925d66474a8f50ee1da412008a8b1ed01e33d626d6fa3deb634d8fb6fbd65ff1",
+   "after_file": "data/after/925d66474a8f50ee1da412008a8b1ed01e33d626d6fa3deb634d8fb6fbd65ff1.png",
+   "after_preview": "data/preview/925d66474a8f50ee1da412008a8b1ed01e33d626d6fa3deb634d8fb6fbd65ff1.jpg",
+   "after_thumb": "data/thumbs/925d66474a8f50ee1da412008a8b1ed01e33d626d6fa3deb634d8fb6fbd65ff1.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-50427",
+   "comparison_group": "motonari-50427",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/06194__cg50428.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 6194,
+   "internal_name": "cg50428.QNT",
+   "resource_ids": [
+    50428
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "fd11da5040dc426fc708b71d11b0d59353dbbad687df114d34500a39254e2d34",
+   "pristine_sha256": "12d65523311835ff14bcfa58f324c8aa1c1e82d6ef766f3e548988f2ffe0d5e0",
+   "before_sha256": "5489bc06db61673122a3a8e3f2fea33d7146328c4ea03cf7796d18098c4c60e6",
+   "after_sha256": "52e1659d8be76054b377653268cc7c3df51b920819edc6879b9aeea817bba88d",
+   "after_file": "data/after/52e1659d8be76054b377653268cc7c3df51b920819edc6879b9aeea817bba88d.png",
+   "after_preview": "data/preview/52e1659d8be76054b377653268cc7c3df51b920819edc6879b9aeea817bba88d.jpg",
+   "after_thumb": "data/thumbs/52e1659d8be76054b377653268cc7c3df51b920819edc6879b9aeea817bba88d.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-63",
+   "character_name": "毛利元就",
+   "mod": "motonari-reference",
+   "variant_id": "motonari-50428",
+   "comparison_group": "motonari-50428",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/06198__cg50466.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 6198,
+   "internal_name": "cg50466.QNT",
+   "resource_ids": [
+    50466
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "be65ae10805e9cc0a676f7dd70d68dcff82935fa00fa5e8d058a2af2884fafa6",
+   "pristine_sha256": "0a79b58f4ba365c8ea5cba0a6e4c7078402bc001c3c2757476ba080728b0616e",
+   "before_sha256": "47a311dddd196279a492b00727b4a3da6d426b4b380dd0e41cbfd51c71887432",
+   "after_sha256": "3a919c629a013683e39d352afe57f915acf85c6a0d3a50b0566a03368e08ca91",
+   "after_file": "data/after/3a919c629a013683e39d352afe57f915acf85c6a0d3a50b0566a03368e08ca91.png",
+   "after_preview": "data/preview/3a919c629a013683e39d352afe57f915acf85c6a0d3a50b0566a03368e08ca91.jpg",
+   "after_thumb": "data/thumbs/3a919c629a013683e39d352afe57f915acf85c6a0d3a50b0566a03368e08ca91.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-50466",
+   "comparison_group": "ryoma-50466",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/06199__cg50467.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 6199,
+   "internal_name": "cg50467.QNT",
+   "resource_ids": [
+    50467
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "19fe2bdd7aa68abc91fc87ebc556d41d3a997d89dcccf29f142c2c073e693c6b",
+   "pristine_sha256": "5c4001d1847310d76e56ca0bf677bc2d0078a60ff7e47d1c2419e40810737da9",
+   "before_sha256": "e60465aea7be903e0de4a363959f738e96253e85ac6c1dcc6f3829092816718f",
+   "after_sha256": "06008dd77d6175946a3b1e6eb5f108ba8dd0d5e783a183082a3ec5a1543ae522",
+   "after_file": "data/after/06008dd77d6175946a3b1e6eb5f108ba8dd0d5e783a183082a3ec5a1543ae522.png",
+   "after_preview": "data/preview/06008dd77d6175946a3b1e6eb5f108ba8dd0d5e783a183082a3ec5a1543ae522.jpg",
+   "after_thumb": "data/thumbs/06008dd77d6175946a3b1e6eb5f108ba8dd0d5e783a183082a3ec5a1543ae522.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-50467",
+   "comparison_group": "ryoma-50467",
+   "kind": "portrait"
+  },
+  {
+   "id": "editable/graphics/steam_current/rance7GA/06200__cg50468.png",
+   "archive": "rance7GA.ald",
+   "pointer_index": 6200,
+   "internal_name": "cg50468.QNT",
+   "resource_ids": [
+    50468
+   ],
+   "alias_pointer_indices": [],
+   "format": "qnt",
+   "width": 65,
+   "height": 72,
+   "alpha": true,
+   "alpha_sha256": "e931494791560cf8487d577a1721da981800de915ae814f91463f5aae4553016",
+   "pristine_sha256": "cca3b0823b907e104c767eea243422502390b2d35dd9278ccad6b58bcdde3dfa",
+   "before_sha256": "acc311233c86bbfd113b9c9b04dd4b698faab723e48366f2f201194ee9de6f50",
+   "after_sha256": "bcf2583d3f2a22f3a0b7fdc7c63eda6faec3dbd542a0ba504d9507c36b21fd57",
+   "after_file": "data/after/bcf2583d3f2a22f3a0b7fdc7c63eda6faec3dbd542a0ba504d9507c36b21fd57.png",
+   "after_preview": "data/preview/bcf2583d3f2a22f3a0b7fdc7c63eda6faec3dbd542a0ba504d9507c36b21fd57.jpg",
+   "after_thumb": "data/thumbs/bcf2583d3f2a22f3a0b7fdc7c63eda6faec3dbd542a0ba504d9507c36b21fd57.jpg",
+   "before_preview": null,
+   "before_thumb": null,
+   "character_id": "name-69",
+   "character_name": "坂本 龙马",
+   "mod": "ryoma-reference",
+   "variant_id": "ryoma-50468",
+   "comparison_group": "ryoma-50468",
    "kind": "portrait"
   }
  ]
