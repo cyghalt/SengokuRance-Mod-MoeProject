@@ -55,7 +55,8 @@
     "name-55": "性眼",
     "name-56": "言里",
     "name-136": "战姬（千姬）",
-    "name-157": "上杉宪政"
+    "name-157": "上杉宪政",
+    "custom-b64679ebceb748259658df0f93622386": "泷川一益"
   },
   "user_overrides": {
     "name-19": "织田家",
@@ -69,7 +70,8 @@
     "name-3": "织田家",
     "name-151": "在野",
     "name-6": "织田家",
-    "name-32": "足利家"
+    "name-32": "足利家",
+    "custom-b64679ebceb748259658df0f93622386": "织田家"
   },
   "factions": [
     {
@@ -88,7 +90,8 @@
         "name-16",
         "name-3",
         "name-6",
-        "name-5"
+        "name-5",
+        "custom-b64679ebceb748259658df0f93622386"
       ]
     },
     {
@@ -181,7 +184,8 @@
       "characters": [
         "name-50",
         "name-49",
-        "name-48"
+        "name-48",
+        "name-158"
       ]
     },
     {
@@ -204,14 +208,18 @@
       "id": "faction-23",
       "name": "在野",
       "characters": [
-        "name-151"
+        "name-151",
+        "name-101",
+        "name-102"
       ]
     },
     {
       "id": "faction-24",
       "name": "明石家",
       "characters": [
-        "name-37"
+        "name-37",
+        "name-42",
+        "name-43"
       ]
     },
     {
@@ -219,7 +227,10 @@
       "name": "天志教",
       "characters": [
         "name-55",
-        "name-56"
+        "name-56",
+        "name-125",
+        "name-126",
+        "name-127"
       ]
     },
     {
@@ -228,6 +239,107 @@
       "characters": [
         "name-63",
         "name-65"
+      ]
+    },
+    {
+      "id": "faction-06",
+      "name": "路人武将",
+      "characters": [
+        "generic-warrior-5101",
+        "generic-warrior-5102",
+        "generic-warrior-5111",
+        "generic-warrior-5112",
+        "generic-warrior-5121",
+        "generic-warrior-5122",
+        "generic-warrior-5131",
+        "generic-warrior-5135",
+        "generic-warrior-5142",
+        "generic-warrior-5145",
+        "generic-warrior-5146",
+        "generic-warrior-5151",
+        "generic-warrior-5152",
+        "generic-warrior-5153",
+        "generic-warrior-5155",
+        "generic-warrior-5156",
+        "generic-warrior-5161",
+        "generic-warrior-5171",
+        "generic-warrior-5172",
+        "generic-warrior-5173",
+        "generic-warrior-5191",
+        "generic-warrior-5192",
+        "generic-warrior-5193",
+        "generic-warrior-5211",
+        "generic-warrior-5212",
+        "generic-warrior-5215",
+        "generic-warrior-5241",
+        "generic-warrior-5242",
+        "generic-warrior-5243",
+        "generic-warrior-5246",
+        "generic-warrior-5249",
+        "generic-warrior-5251",
+        "generic-warrior-5261",
+        "generic-warrior-5262",
+        "generic-warrior-5301",
+        "generic-warrior-5311",
+        "generic-warrior-5321",
+        "generic-warrior-5322",
+        "generic-warrior-5323",
+        "generic-warrior-5324",
+        "generic-warrior-5325",
+        "generic-warrior-5331",
+        "generic-warrior-5332",
+        "generic-warrior-5341",
+        "generic-warrior-5342",
+        "generic-warrior-5345",
+        "generic-warrior-5346",
+        "generic-warrior-5347",
+        "generic-warrior-5351",
+        "generic-warrior-5352",
+        "generic-warrior-5361",
+        "generic-warrior-5362",
+        "generic-warrior-5365",
+        "generic-warrior-5371",
+        "generic-warrior-5372",
+        "generic-warrior-5381",
+        "generic-warrior-5382",
+        "generic-warrior-5391",
+        "generic-warrior-5401",
+        "generic-warrior-5405",
+        "generic-warrior-5411",
+        "generic-warrior-5451",
+        "generic-warrior-5452",
+        "generic-warrior-5453",
+        "generic-warrior-5454",
+        "generic-warrior-5455",
+        "generic-warrior-5460",
+        "generic-warrior-5461",
+        "generic-warrior-5462",
+        "generic-warrior-5463",
+        "generic-warrior-5464",
+        "generic-warrior-5465",
+        "generic-warrior-5466",
+        "generic-warrior-5467"
+      ]
+    },
+    {
+      "id": "faction-08",
+      "name": "岛津家",
+      "characters": [
+        "name-114",
+        "name-130",
+        "name-131",
+        "name-132",
+        "name-133",
+        "name-134"
+      ]
+    },
+    {
+      "id": "faction-09",
+      "name": "魔军",
+      "characters": [
+        "name-44",
+        "name-46",
+        "name-47"
       ]
     }
   ]
